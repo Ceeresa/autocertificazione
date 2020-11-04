@@ -20,7 +20,6 @@ $( "#certificazione" ).submit(function( event ) {
 async function fillForm(data) {
   console.log('data received', data)
   // Fetch the PDF with form fields
-  // const formUrl = 'https://pdf-lib.js.org/assets/dod_character.pdf'
   const formUrl = './data/modello_autodichiarazione_editabile_ottobre_2020.pdf'
   const formPdfBytes = await fetch(formUrl).then(res => res.arrayBuffer())
 
