@@ -11,7 +11,7 @@ function getFormData($form){
   return indexed_array;
 }
 
-$( "#certificazione" ).submit(function( event ) {
+$( "#autocertificazione" ).submit(function( event ) {
   const data = getFormData($(this))
   fillForm(data)
   event.preventDefault();
