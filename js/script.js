@@ -12,9 +12,15 @@ function getFormData($form){
 }
 
 $( "#autocertificazione" ).submit(function( event ) {
-  const data = getFormData($(this))
-  fillForm(data)
   event.preventDefault();
+  event.stopPropagation();
+
+  if (this.checkValidity() === true) {
+    const data = getFormData($(this))
+    fillForm(data)
+  }
+  
+  this.classList.add('was-validated');
 });
 
 async function fillForm(data) {
@@ -106,7 +112,6 @@ async function fillForm(data) {
   giornoDocumentoField.setText(giornoDocumento)
   meseDocumentoField.setText(meseDocumento)
   annoDocumentoField.setText(annoDocumento)
-  dataOraELuogoField.setText('Data ora e luogo')
   group7Field.select(data.motivazioneSpostamento)
   testo1Field.setText(data.dettaglioMotivazioneSpostamento)
   testo2Field.setText(data.indirizzoInizioSpostamento)
