@@ -12,9 +12,15 @@ function getFormData($form){
 }
 
 $( "#autocertificazione" ).submit(function( event ) {
-  const data = getFormData($(this))
-  fillForm(data)
   event.preventDefault();
+  event.stopPropagation();
+
+  if (this.checkValidity() === true) {
+    const data = getFormData($(this))
+    fillForm(data)
+  }
+  
+  this.classList.add('was-validated');
 });
 
 async function fillForm(data) {
