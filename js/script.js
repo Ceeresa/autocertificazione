@@ -106,7 +106,6 @@ async function fillForm(data) {
   giornoDocumentoField.setText(giornoDocumento)
   meseDocumentoField.setText(meseDocumento)
   annoDocumentoField.setText(annoDocumento)
-  dataOraELuogoField.setText('Data ora e luogo')
   group7Field.select(data.motivazioneSpostamento)
   testo1Field.setText(data.dettaglioMotivazioneSpostamento)
   testo2Field.setText(data.indirizzoInizioSpostamento)
