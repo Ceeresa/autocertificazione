@@ -191,5 +191,5 @@ async function fillForm(data) {
   const pdfBytes = await pdfDoc.save()
 
   // Trigger the browser to download the PDF document
-  download(pdfBytes, "pdf-lib_form_creation_example.pdf", "application/pdf");
+  download(pdfBytes, "autocertificazione.pdf", "application/pdf");
 }
