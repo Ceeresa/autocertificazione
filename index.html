@@ -13,177 +13,199 @@
   </head>
 
   <body>
-    <div class="container">
-      <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-        <h1>Autocertificazione</h1>
-        <p class="lead">Genera velocemente la tua autocertificazione.</p>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#autocertEditModal">
+      Modifica
+    </button>
+
+    <!-- Modal -->
+    <div class="modal fade" id="autocertEditModal" tabindex="-1" role="dialog" aria-labelledby="autocertEditModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content">
+          <form id="autocertificazione" class="needs-validation" novalidate>
+            <div class="modal-header">
+              <h5 class="modal-title" id="autocertEditModalLabel">Autocertificazione spostamenti COVID</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">  
+              <div class="container">
+                <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+                  <h1>Autocertificazione</h1>
+                  <p class="lead">Genera velocemente la tua autocertificazione.</p>
+                </div>
+                <div class="form-row">
+                  <div class="form-group col-md-6">
+                    <label for="nome">Nome</label>
+                    <input type="text" class="form-control" id="nome" name="nome" required>
+                    <div class="invalid-feedback">
+                      Inserisci il tuo nome
+                    </div>
+                  </div>
+                  <div class="form-group col-md-6">
+                    <label for="cognome">Cognome</label>
+                    <input type="text" class="form-control" id="cognome" name="cognome" required>
+                    <div class="invalid-feedback">
+                      Inserisci il tuo cognome
+                    </div>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group col-md-4">
+                    <label for="luogoDiNascita">Luogo di nascita</label>
+                    <input type="text" class="form-control" id="luogoDiNascita" name="luogoDiNascita" required>
+                    <div class="invalid-feedback">
+                      Inserisci il tuo luogo di nascita
+                    </div>
+                  </div>
+                  <div class="form-group col-md-4">
+                    <label for="provinciaDiNascita">Provincia di nascita</label>
+                    <input type="text" class="form-control" id="provinciaDiNascita" name="provinciaDiNascita" required>
+                    <div class="invalid-feedback">
+                      Inserisci la tua provincia di nascita
+                    </div>
+                  </div>
+                  <div class="form-group col-md-4">
+                    <label for="dataNascita">Data di nascita</label>
+                    <input type="date" class="form-control" id="dataNascita" name="dataNascita" required>
+                    <div class="invalid-feedback">
+                      Inserisci la tua data di nascita
+                    </div>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group col-md-4">
+                    <label for="luogoResidenza">Luogo residenza</label>
+                    <input type="text" class="form-control" id="luogoResidenza" name="luogoResidenza" required>
+                    <div class="invalid-feedback">
+                      Inserisci il tuo luogo di residenza
+                    </div>
+                  </div>
+                  <div class="form-group col-md-4">
+                    <label for="provinciaResidenza">Provincia residenza</label>
+                    <input type="text" class="form-control" id="provinciaResidenza" name="provinciaResidenza" required>
+                    <div class="invalid-feedback">
+                      Inserisci la tua provincia di residenza
+                    </div>
+                  </div>
+                  <div class="form-group col-md-4">
+                    <label for="viaResidenza">Via residenza</label>
+                    <input type="text" class="form-control" id="viaResidenza" name="viaResidenza" required>
+                    <div class="invalid-feedback">
+                      Inserisci la tua via di residenza
+                    </div>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group col-md-4">
+                    <label for="luogoDomicilio">Luogo domicilio</label>
+                    <input type="text" class="form-control" id="luogoDomicilio" name="luogoDomicilio" required>
+                    <div class="invalid-feedback">
+                      Inserisci il tuo luogo domicilio
+                    </div>
+                  </div>
+                  <div class="form-group col-md-4">
+                    <label for="provinciaDomicilio">Provincia domicilio</label>
+                    <input type="text" class="form-control" id="provinciaDomicilio" name="provinciaDomicilio" required>
+                    <div class="invalid-feedback">
+                      Inserisci la tua provincia domicilio
+                    </div>
+                  </div>
+                  <div class="form-group col-md-4">
+                    <label for="viaDomicilio">Via domicilio</label>
+                    <input type="text" class="form-control" id="viaDomicilio" name="viaDomicilio" required>
+                    <div class="invalid-feedback">
+                      Inserisci la tua via domicilio
+                    </div>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group col-md-4">
+                    <label for="mezzo">Mezzo</label>
+                    <input type="text" class="form-control" id="mezzo" name="mezzo" required>
+                  </div>
+                  <div class="form-group col-md-4">
+                    <label for="numeroMezzo">Numero mezzo</label>
+                    <input type="text" class="form-control" id="numeroMezzo" name="numeroMezzo" required>
+                    <div class="invalid-feedback">
+                      Inserisci il tuo numero mezzo
+                    </div>
+                  </div>
+                  <div class="form-group col-md-4">
+                    <label for="mezzoRilasciatoDa">Rilasciato da</label>
+                    <input type="text" class="form-control" id="mezzoRilasciatoDa" name="mezzoRilasciatoDa" required>
+                    <div class="invalid-feedback">
+                      Inserisci da chi è stato rilasciato
+                    </div>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group col-md-6">
+                    <label for="inDataDocumento">In data</label>
+                    <input type="date" class="form-control" id="inDataDocumento" name="inDataDocumento" required>
+                    <div class="invalid-feedback">
+                      Inserisci in quale data è stato rilasciato
+                    </div>
+                  </div>
+                  <div class="form-group col-md-6">
+                    <label for="utenzaTelefonica">Utenza telefonica</label>
+                    <input type="text" class="form-control" id="utenzaTelefonica" name="utenzaTelefonica" required>
+                    <div class="invalid-feedback">
+                      Inserisci l'utenza telefonica
+                    </div>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group col-md-4">
+                    <label for="motivazioneSpostamento">Motivazione spostamento</label>
+                    <select id="motivazioneSpostamento" name="motivazioneSpostamento" class="form-control" required>
+                      <option value="Scelta1">comprovate esigenze lavorative</option>
+                      <option value="Scelta2">motivi di salute</option>
+                      <option value="Scelta3">altri motivi ammessi dalle vigenti normative</option>
+                    </select>
+                    <div class="invalid-feedback">
+                      Inserisci la motivazione dello spostamento
+                    </div>
+                  </div>
+                  <div class="form-group col-md-8">
+                    <label for="dettaglioMotivazioneSpostamento">Dettaglio motivazione spostamento</label>
+                    <textarea class="form-control" id="dettaglioMotivazioneSpostamento" name="dettaglioMotivazioneSpostamento" required></textarea>
+                    <div class="invalid-feedback">
+                      Inserisci il dettaglio della motivazione dello spostamento
+                    </div>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group col-md-6">
+                    <label for="indirizzoInizioSpostamento">Indirizzo inizio spostamento</label>
+                    <input type="text" class="form-control" id="indirizzoInizioSpostamento" name="indirizzoInizioSpostamento" required>
+                    <div class="invalid-feedback">
+                      Inserisci l'indirizzo d'inizio dello spostamento
+                    </div>
+                  </div>
+                  <div class="form-group col-md-6">
+                    <label for="indirizzoDestinazioneSpostamento">Indirizzo destinazione spostamento</label>
+                    <input type="text" class="form-control" id="indirizzoDestinazioneSpostamento" name="indirizzoDestinazioneSpostamento" required>
+                    <div class="invalid-feedback">
+                      Inserisci l'indirizzo di destinazione dello spostamento
+                    </div>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group col-md-6">
+                    <label for="dichiarazioniAggiuntive">Dichiarazioni aggiuntive</label>
+                    <textarea class="form-control" id="dichiarazioniAggiuntive" name="dichiarazioniAggiuntive"></textarea>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button type="submit" class="btn btn-primary" data-dismiss="modal">Salva Modifiche</button>
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Annulla</button>
+            </div>
+          </form>
+        </div>
       </div>
-      <form id="autocertificazione" class="needs-validation" novalidate>
-        <div class="form-row">
-          <div class="form-group col-md-6">
-            <label for="nome">Nome</label>
-            <input type="text" class="form-control" id="nome" name="nome" required>
-            <div class="invalid-feedback">
-              Inserisci il tuo nome
-            </div>
-          </div>
-          <div class="form-group col-md-6">
-            <label for="cognome">Cognome</label>
-            <input type="text" class="form-control" id="cognome" name="cognome" required>
-            <div class="invalid-feedback">
-              Inserisci il tuo cognome
-            </div>
-          </div>
-        </div>
-        <div class="form-row">
-          <div class="form-group col-md-4">
-            <label for="dataNascita">Data di nascita</label>
-            <input type="date" class="form-control" id="dataNascita" name="dataNascita" required>
-            <div class="invalid-feedback">
-              Inserisci la tua data di nascita
-            </div>
-          </div>
-          <div class="form-group col-md-4">
-            <label for="luogoDiNascita">Luogo di nascita</label>
-            <input type="text" class="form-control" id="luogoDiNascita" name="luogoDiNascita" required>
-            <div class="invalid-feedback">
-              Inserisci il tuo luogo di nascita
-            </div>
-          </div>
-          <div class="form-group col-md-4">
-            <label for="provinciaDiNascita">Provincia di nascita</label>
-            <input type="text" class="form-control" id="provinciaDiNascita" name="provinciaDiNascita" required>
-            <div class="invalid-feedback">
-              Inserisci la tua provincia di nascita
-            </div>
-          </div>
-        </div>
-        <div class="form-row">
-          <div class="form-group col-md-4">
-            <label for="luogoResidenza">Luogo residenza</label>
-            <input type="text" class="form-control" id="luogoResidenza" name="luogoResidenza" required>
-            <div class="invalid-feedback">
-              Inserisci il tuo luogo di residenza
-            </div>
-          </div>
-          <div class="form-group col-md-4">
-            <label for="provinciaResidenza">Provincia residenza</label>
-            <input type="text" class="form-control" id="provinciaResidenza" name="provinciaResidenza" required>
-            <div class="invalid-feedback">
-              Inserisci la tua provincia di residenza
-            </div>
-          </div>
-          <div class="form-group col-md-4">
-            <label for="viaResidenza">Via residenza</label>
-            <input type="text" class="form-control" id="viaResidenza" name="viaResidenza" required>
-            <div class="invalid-feedback">
-              Inserisci la tua vita di residenza
-            </div>
-          </div>
-        </div>
-        <div class="form-row">
-          <div class="form-group col-md-4">
-            <label for="luogoDomicilio">Luogo domicilio</label>
-            <input type="text" class="form-control" id="luogoDomicilio" name="luogoDomicilio" required>
-            <div class="invalid-feedback">
-              Inserisci il tuo luogo domicilio
-            </div>
-          </div>
-          <div class="form-group col-md-4">
-            <label for="provinciaDomicilio">Provincia domicilio</label>
-            <input type="text" class="form-control" id="provinciaDomicilio" name="provinciaDomicilio" required>
-            <div class="invalid-feedback">
-              Inserisci la tua provincia domicilio
-            </div>
-          </div>
-          <div class="form-group col-md-4">
-            <label for="viaDomicilio">Via domicilio</label>
-            <input type="text" class="form-control" id="viaDomicilio" name="viaDomicilio" required>
-            <div class="invalid-feedback">
-              Inserisci la tua via domicilio
-            </div>
-          </div>
-        </div>
-        <div class="form-row">
-          <div class="form-group col-md-4">
-            <label for="mezzo">Mezzo</label>
-            <input type="text" class="form-control" id="mezzo" name="mezzo" required>
-          </div>
-          <div class="form-group col-md-4">
-            <label for="numeroMezzo">Numero mezzo</label>
-            <input type="text" class="form-control" id="numeroMezzo" name="numeroMezzo" required>
-            <div class="invalid-feedback">
-              Inserisci il tuo numero mezzo
-            </div>
-          </div>
-          <div class="form-group col-md-4">
-            <label for="mezzoRilasciatoDa">Rilasciato da</label>
-            <input type="text" class="form-control" id="mezzoRilasciatoDa" name="mezzoRilasciatoDa" required>
-            <div class="invalid-feedback">
-              Inserisci da chi è stato rilasciato
-            </div>
-          </div>
-        </div>
-        <div class="form-row">
-          <div class="form-group col-md-6">
-            <label for="inDataDocumento">In data</label>
-            <input type="date" class="form-control" id="inDataDocumento" name="inDataDocumento" required>
-            <div class="invalid-feedback">
-              Inserisci in quale data è stato rilasciato
-            </div>
-          </div>
-          <div class="form-group col-md-6">
-            <label for="utenzaTelefonica">Utenza telefonica</label>
-            <input type="text" class="form-control" id="utenzaTelefonica" name="utenzaTelefonica" required>
-            <div class="invalid-feedback">
-              Inserisci l'utenza telefonica
-            </div>
-          </div>
-        </div>
-        <div class="form-row">
-          <div class="form-group col-md-4">
-            <label for="motivazioneSpostamento">Motivazione spostamento</label>
-            <select id="motivazioneSpostamento" name="motivazioneSpostamento" class="form-control" required>
-              <option value="Scelta1">comprovate esigenze lavorative</option>
-              <option value="Scelta2">motivi di salute</option>
-              <option value="Scelta3">altri motivi ammessi dalle vigenti normative</option>
-            </select>
-            <div class="invalid-feedback">
-              Inserisci la motivazione dello spostamento
-            </div>
-          </div>
-          <div class="form-group col-md-8">
-            <label for="dettaglioMotivazioneSpostamento">Dettaglio motivazione spostamento</label>
-            <textarea class="form-control" id="dettaglioMotivazioneSpostamento" name="dettaglioMotivazioneSpostamento" required></textarea>
-            <div class="invalid-feedback">
-              Inserisci il dettaglio della motivazione dello spostamento
-            </div>
-          </div>
-        </div>
-        <div class="form-row">
-          <div class="form-group col-md-6">
-            <label for="indirizzoInizioSpostamento">Indirizzo inizio spostamento</label>
-            <input type="text" class="form-control" id="indirizzoInizioSpostamento" name="indirizzoInizioSpostamento" required>
-            <div class="invalid-feedback">
-              Inserisci l'indirizzo d'inizio dello spostamento
-            </div>
-          </div>
-          <div class="form-group col-md-6">
-            <label for="indirizzoDestinazioneSpostamento">Indirizzo destinazione spostamento</label>
-            <input type="text" class="form-control" id="indirizzoDestinazioneSpostamento" name="indirizzoDestinazioneSpostamento" required>
-            <div class="invalid-feedback">
-              Inserisci l'indirizzo di destinazione dello spostamento
-            </div>
-          </div>
-        </div>
-        <div class="form-row">
-          <div class="form-group col-md-6">
-            <label for="dichiarazioniAggiuntive">Dichiarazioni aggiuntive</label>
-            <textarea class="form-control" id="dichiarazioniAggiuntive" name="dichiarazioniAggiuntive"></textarea>
-          </div>
-        </div>
-        <button type="submit" class="btn btn-primary">Genera</button>
-      </form>
     </div>
   </body>
 
