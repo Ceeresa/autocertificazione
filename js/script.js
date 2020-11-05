@@ -1,5 +1,43 @@
 const { PDFDocument } = PDFLib
+const LOCAL_STORAGE_NAME = "autocertificazione-data"
 
+$(function() {
+  localStorage.lastname;
+  const formData = localStorage.getItem(LOCAL_STORAGE_NAME);
+
+  if (formData) {
+    try {
+      populate($("#autocertificazione"), JSON.parse(formData));
+    } catch (e) {
+      console.log("Error while parsing the data", e)
+    }
+  }
+});
+
+/**
+ * Populate a form with the given data.
+ * @param {jQuery object} frm The form to populate.
+ * @param {Object} data The data to use to populate the form.
+ */
+function populate(form, data) {
+  $.each(data, function(key, value) {  
+      var ctrl = $('[name='+key+']', form);  
+      switch(ctrl.prop("type")) { 
+          case "radio": case "checkbox":   
+              ctrl.each(function() {
+                  if($(this).attr('value') == value) $(this).attr("checked",value);
+              });   
+              break;  
+          default:
+              ctrl.val(value); 
+      }  
+  });  
+}
+
+/**
+ * Get the form data in a 'key': 'value' format.
+ * @param {jQuery object} $form The form from which retrieve the data.
+ */
 function getFormData($form){
   var unindexed_array = $form.serializeArray();
   var indexed_array = {};
@@ -17,12 +55,17 @@ $( "#autocertificazione" ).submit(function( event ) {
 
   if (this.checkValidity() === true) {
     const data = getFormData($(this))
+    localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
     fillForm(data)
   }
   
   this.classList.add('was-validated');
 });
 
+/**
+ * Fill the PDF form with the given data and download the file.
+ * @param {Object} data The data to use to fill the PDF form.
+ */
 async function fillForm(data) {
   console.log('data received', data)
   // Fetch the PDF with form fields
