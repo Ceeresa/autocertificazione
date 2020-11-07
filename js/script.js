@@ -45,32 +45,60 @@ $("#salva-modifiche").click(function(event) {
     // Reload the PDF using the new base64 data 
     var blob = new Blob([pdfBytes], {type: "application/pdf"});
     var link = window.URL.createObjectURL(blob);
+
+    // Load the PDF document in the preview
     loadPdfDocument(link);
+
+    // Close the modal
     $(MODAL_ID).modal('hide')
   })();
 });
 
-$("#autocertificazione").submit(function(event) {
+$(".download-button").click(function(event) {
   event.preventDefault();
   event.stopPropagation();
 
-  if (this.checkValidity() === true) {
-    const data = getFormData($(this))
-    localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
-    (async function() {
-      const pdfBytes = await fillForm(data)
+  const data = getFormData($("#autocertificazione"))
+  localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
 
-      // Reload the PDF using the new base64 data 
-      var blob = new Blob([pdfBytes], {type: "application/pdf"});
-      var link = window.URL.createObjectURL(blob);
-      loadPdfDocument(link)
+  (async function() {
+    const pdfBytes = await fillForm(data)
 
-      // Trigger the browser to download the PDF document
-      download(pdfBytes, "autocertificazione.pdf", "application/pdf");
-    })();
-  }
-  
-  this.classList.add('was-validated');
+    // Reload the PDF using the new base64 data 
+    var blob = new Blob([pdfBytes], {type: "application/pdf"});
+    var link = window.URL.createObjectURL(blob);
+    loadPdfDocument(link);
+
+    // Trigger the browser to download the PDF document
+    download(pdfBytes, "autocertificazione.pdf", "application/pdf");
+
+    // Close the modal
+    $(MODAL_ID).modal('hide')
+  })();
+});
+
+$(".print-button").click(function(event) {
+  event.preventDefault();
+  event.stopPropagation();
+
+  const data = getFormData($("#autocertificazione"))
+  localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
+
+  (async function() {
+    const pdfBytes = await fillForm(data)
+
+    // Reload the PDF using the new base64 data 
+    var blob = new Blob([pdfBytes], {type: "application/pdf"});
+    var link = window.URL.createObjectURL(blob);
+    loadPdfDocument(link);
+
+    // Trigger the browser to download the PDF document
+    //download(pdfBytes, "autocertificazione.pdf", "application/pdf");
+    printJS(link)
+
+    // Close the modal
+    $(MODAL_ID).modal('hide')
+  })();
 });
 
 /**
