@@ -2,7 +2,64 @@ const { PDFDocument } = PDFLib
 const LOCAL_STORAGE_NAME = "autocertificazione-data"
 const PDF_URL = './data/modello_autodichiarazione_editabile_ottobre_2020.pdf'
 
+$(function() {
+  localStorage.lastname;
+  const formData = localStorage.getItem(LOCAL_STORAGE_NAME);
+  let populated = false;
+  let parsedData = {};
+  if (formData) {
+    try {
+      parsedData = JSON.parse(formData);
+      populate($("#autocertificazione"), parsedData);
+      populated = true;
+    } catch (e) {
+      console.log("Error while parsing the data", e)
+    }
+  }
 
+  if (populated) {
+    // Reload the PDF using the new base64 data 
+    (async function() {
+      // Here generate the right PDF
+      const pdfBytes = await fillForm(parsedData);
+      var blob = new Blob([pdfBytes], {type: "application/pdf"});
+      var link = window.URL.createObjectURL(blob);
+      loadPdfDocument(link)
+    })();
+  } else {
+    loadPdfDocument(PDF_URL)
+  }
+});
+
+$("#autocertificazione").submit(function(event) {
+  console.log('Event', event)
+  event.preventDefault();
+  event.stopPropagation();
+
+  if (this.checkValidity() === true) {
+    const data = getFormData($(this))
+    localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
+    (async function() {
+      const pdfBytes = await fillForm(data)
+
+      // Reload the PDF using the new base64 data 
+      var blob = new Blob([pdfBytes], {type: "application/pdf"});
+      var link = window.URL.createObjectURL(blob);
+      loadPdfDocument(link)
+
+      // Trigger the browser to download the PDF document
+      download(pdfBytes, "autocertificazione.pdf", "application/pdf");
+      $('#autocertEditModal').modal('hide');
+    })();
+  }
+  
+  this.classList.add('was-validated');
+});
+
+/**
+ * Load the PDF document from the given url
+ * @param {string} url The url from which load the PDF.
+ */
 function loadPdfDocument(url) {
   // Loaded via <script> tag, create shortcut to access PDF.js exports.
   var pdfjsLib = window['pdfjs-dist/build/pdf'];
@@ -45,38 +102,12 @@ function loadPdfDocument(url) {
   });
 }
 
+/**
+ * Open the modal.
+ */
 function openModal(){
   $('#autocertEditModal').modal('show');
 }
-
-$(function() {
-  localStorage.lastname;
-  const formData = localStorage.getItem(LOCAL_STORAGE_NAME);
-  let populated = false;
-  let parsedData = {};
-  if (formData) {
-    try {
-      parsedData = JSON.parse(formData);
-      populate($("#autocertificazione"), parsedData);
-      populated = true;
-    } catch (e) {
-      console.log("Error while parsing the data", e)
-    }
-  }
-
-  if (populated) {
-    // Reload the PDF using the new base64 data 
-    (async function() {
-      // Here generate the right PDF
-      const pdfBytes = await fillForm(parsedData);
-      var blob = new Blob([pdfBytes], {type: "application/pdf"});
-      var link = window.URL.createObjectURL(blob);
-      loadPdfDocument(link)
-    })();
-  } else {
-    loadPdfDocument(PDF_URL)
-  }
-});
 
 /**
  * Populate a form with the given data.
@@ -112,31 +143,6 @@ function getFormData($form){
 
   return indexed_array;
 }
-
-$( "#autocertificazione" ).submit(function( event ) {
-  console.log('Event', event)
-  event.preventDefault();
-  event.stopPropagation();
-
-  if (this.checkValidity() === true) {
-    const data = getFormData($(this))
-    localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
-    (async function() {
-      const pdfBytes = await fillForm(data)
-
-      // Reload the PDF using the new base64 data 
-      var blob = new Blob([pdfBytes], {type: "application/pdf"});
-      var link = window.URL.createObjectURL(blob);
-      loadPdfDocument(link)
-
-      // Trigger the browser to download the PDF document
-      download(pdfBytes, "autocertificazione.pdf", "application/pdf");
-      $('#autocertEditModal').modal('hide');
-    })();
-  }
-  
-  this.classList.add('was-validated');
-});
 
 /**
  * Fill the PDF form with the given data and download the file.
