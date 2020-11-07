@@ -4,7 +4,6 @@ const PDF_URL = './data/modello_autodichiarazione_editabile_ottobre_2020.pdf'
 const MODAL_ID = "#autocertEditModal"
 
 $(function() {
-  localStorage.lastname;
   const formData = localStorage.getItem(LOCAL_STORAGE_NAME);
   let populated = false;
   let parsedData = {};
@@ -29,6 +28,10 @@ $(function() {
     })();
   } else {
     loadPdfDocument(PDF_URL)
+  }
+
+  if (mobileAndTabletCheck()) {
+    $(".print-button").addClass('d-none');
   }
 });
 
@@ -279,3 +282,7 @@ async function fillForm(data) {
   const pdfBytes = await pdfDoc.save()
   return pdfBytes
 }
+
+function mobileAndTabletCheck() {
+  return /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+};
