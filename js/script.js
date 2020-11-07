@@ -1,6 +1,7 @@
 const { PDFDocument } = PDFLib
 const LOCAL_STORAGE_NAME = "autocertificazione-data"
 const PDF_URL = './data/modello_autodichiarazione_editabile_ottobre_2020.pdf'
+const MODAL_ID = "#autocertEditModal"
 
 $(function() {
   localStorage.lastname;
@@ -31,8 +32,25 @@ $(function() {
   }
 });
 
+$("#salva-modifiche").click(function(event) {
+  event.preventDefault();
+  event.stopPropagation();
+
+  const data = getFormData($("#autocertificazione"))
+  localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
+
+  (async function() {
+    const pdfBytes = await fillForm(data)
+
+    // Reload the PDF using the new base64 data 
+    var blob = new Blob([pdfBytes], {type: "application/pdf"});
+    var link = window.URL.createObjectURL(blob);
+    loadPdfDocument(link);
+    $(MODAL_ID).modal('hide')
+  })();
+});
+
 $("#autocertificazione").submit(function(event) {
-  console.log('Event', event)
   event.preventDefault();
   event.stopPropagation();
 
@@ -49,7 +67,6 @@ $("#autocertificazione").submit(function(event) {
 
       // Trigger the browser to download the PDF document
       download(pdfBytes, "autocertificazione.pdf", "application/pdf");
-      $('#autocertEditModal').modal('hide');
     })();
   }
   
@@ -106,7 +123,7 @@ function loadPdfDocument(url) {
  * Open the modal.
  */
 function openModal(){
-  $('#autocertEditModal').modal('show');
+  $(MODAL_ID).modal('show');
 }
 
 /**
