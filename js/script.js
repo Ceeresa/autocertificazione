@@ -65,13 +65,14 @@ $(function() {
   }
 
   if (populated) {
-    // Here generate the right PDF
-    const pdfBytes = fillForm(parsedData);
-
     // Reload the PDF using the new base64 data 
-    var blob = new Blob([pdfBytes], {type: "application/pdf"});
-    var link = window.URL.createObjectURL(blob);
-    loadPdfDocument(link)
+    (async function() {
+      // Here generate the right PDF
+      const pdfBytes = await fillForm(parsedData);
+      var blob = new Blob([pdfBytes], {type: "application/pdf"});
+      var link = window.URL.createObjectURL(blob);
+      loadPdfDocument(link)
+    })();
   } else {
     loadPdfDocument(PDF_URL)
   }
@@ -120,16 +121,18 @@ $( "#autocertificazione" ).submit(function( event ) {
   if (this.checkValidity() === true) {
     const data = getFormData($(this))
     localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
-    const pdfBytes = fillForm(data)
+    (async function() {
+      const pdfBytes = await fillForm(data)
 
-    // Reload the PDF using the new base64 data 
-    var blob = new Blob([pdfBytes], {type: "application/pdf"});
-    var link = window.URL.createObjectURL(blob);
-    loadPdfDocument(link)
+      // Reload the PDF using the new base64 data 
+      var blob = new Blob([pdfBytes], {type: "application/pdf"});
+      var link = window.URL.createObjectURL(blob);
+      loadPdfDocument(link)
 
-    // Trigger the browser to download the PDF document
-    download(pdfBytes, "autocertificazione.pdf", "application/pdf");
-    $('#autocertEditModal').modal('hide');
+      // Trigger the browser to download the PDF document
+      download(pdfBytes, "autocertificazione.pdf", "application/pdf");
+      $('#autocertEditModal').modal('hide');
+    })();
   }
   
   this.classList.add('was-validated');
