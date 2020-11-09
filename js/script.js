@@ -1,18 +1,161 @@
 const { PDFDocument } = PDFLib
 const LOCAL_STORAGE_NAME = "autocertificazione-data"
+const PDF_URL = './data/modello_autodichiarazione_editabile_ottobre_2020.pdf'
+const MODAL_ID = "#autocertEditModal"
 
 $(function() {
-  localStorage.lastname;
   const formData = localStorage.getItem(LOCAL_STORAGE_NAME);
-
+  let populated = false;
+  let parsedData = {};
   if (formData) {
     try {
-      populate($("#autocertificazione"), JSON.parse(formData));
+      parsedData = JSON.parse(formData);
+      populate($("#autocertificazione"), parsedData);
+      populated = true;
     } catch (e) {
       console.log("Error while parsing the data", e)
     }
   }
+
+  if (populated) {
+    // Reload the PDF using the new base64 data 
+    (async function() {
+      // Here generate the right PDF
+      const pdfBytes = await fillForm(parsedData);
+      var blob = new Blob([pdfBytes], {type: "application/pdf"});
+      var link = window.URL.createObjectURL(blob);
+      loadPdfDocument(link)
+    })();
+  } else {
+    loadPdfDocument(PDF_URL)
+  }
+
+  if (mobileAndTabletCheck()) {
+    $(".print-button").addClass('d-none');
+  }
 });
+
+$("#salva-modifiche").click(function(event) {
+  event.preventDefault();
+  event.stopPropagation();
+
+  const data = getFormData($("#autocertificazione"))
+  localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
+
+  (async function() {
+    const pdfBytes = await fillForm(data)
+
+    // Reload the PDF using the new base64 data 
+    var blob = new Blob([pdfBytes], {type: "application/pdf"});
+    var link = window.URL.createObjectURL(blob);
+
+    // Load the PDF document in the preview
+    loadPdfDocument(link);
+
+    // Close the modal
+    $(MODAL_ID).modal('hide')
+  })();
+});
+
+$(".download-button").click(function(event) {
+  event.preventDefault();
+  event.stopPropagation();
+
+  const data = getFormData($("#autocertificazione"))
+  localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
+
+  (async function() {
+    const pdfBytes = await fillForm(data)
+
+    // Reload the PDF using the new base64 data 
+    var blob = new Blob([pdfBytes], {type: "application/pdf"});
+    var link = window.URL.createObjectURL(blob);
+    loadPdfDocument(link);
+
+    // Trigger the browser to download the PDF document
+    download(pdfBytes, "autocertificazione.pdf", "application/pdf");
+
+    // Close the modal
+    $(MODAL_ID).modal('hide')
+  })();
+});
+
+$(".print-button").click(function(event) {
+  event.preventDefault();
+  event.stopPropagation();
+
+  const data = getFormData($("#autocertificazione"))
+  localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
+
+  (async function() {
+    const pdfBytes = await fillForm(data)
+
+    // Reload the PDF using the new base64 data 
+    var blob = new Blob([pdfBytes], {type: "application/pdf"});
+    var link = window.URL.createObjectURL(blob);
+    loadPdfDocument(link);
+
+    // Trigger the browser to download the PDF document
+    //download(pdfBytes, "autocertificazione.pdf", "application/pdf");
+    printJS(link)
+
+    // Close the modal
+    $(MODAL_ID).modal('hide')
+  })();
+});
+
+/**
+ * Load the PDF document from the given url
+ * @param {string} url The url from which load the PDF.
+ */
+function loadPdfDocument(url) {
+  // Loaded via <script> tag, create shortcut to access PDF.js exports.
+  var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+  // The workerSrc property shall be specified.
+  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.6.347/pdf.worker.js';
+
+  // Asynchronous download of PDF
+  var loadingTask = pdfjsLib.getDocument(url);
+  loadingTask.promise.then(function(pdf) {
+    console.log('PDF loaded');
+    
+    // Fetch the first page
+    var pageNumber = 1;
+    pdf.getPage(pageNumber).then(function(page) {
+      console.log('Page loaded');
+      
+      var scale = 1.5;
+      var viewport = page.getViewport({scale: scale});
+
+      // Prepare canvas using PDF page dimensions
+      var canvas = document.getElementById('the-canvas');
+      var context = canvas.getContext('2d');
+      canvas.height = viewport.height;
+      canvas.width = viewport.width;
+
+      // Render PDF page into canvas context
+      var renderContext = {
+        canvasContext: context,
+        viewport: viewport
+      };
+      var renderTask = page.render(renderContext);
+      renderTask.promise.then(function () {
+        console.log('Page rendered');
+      });
+    });
+  }, function (reason) {
+    // PDF loading error
+    console.error(reason);
+  });
+}
+
+/**
+ * Open the modal.
+ */
+function openModal(){
+  $(MODAL_ID).modal('show');
+}
 
 /**
  * Populate a form with the given data.
@@ -49,19 +192,6 @@ function getFormData($form){
   return indexed_array;
 }
 
-$( "#autocertificazione" ).submit(function( event ) {
-  event.preventDefault();
-  event.stopPropagation();
-
-  if (this.checkValidity() === true) {
-    const data = getFormData($(this))
-    localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
-    fillForm(data)
-  }
-  
-  this.classList.add('was-validated');
-});
-
 /**
  * Fill the PDF form with the given data and download the file.
  * @param {Object} data The data to use to fill the PDF form.
@@ -69,8 +199,7 @@ $( "#autocertificazione" ).submit(function( event ) {
 async function fillForm(data) {
   console.log('data received', data)
   // Fetch the PDF with form fields
-  const formUrl = './data/modello_autodichiarazione_editabile_ottobre_2020.pdf'
-  const formPdfBytes = await fetch(formUrl).then(res => res.arrayBuffer())
+  const formPdfBytes = await fetch(PDF_URL).then(res => res.arrayBuffer())
 
   // Load a PDF with form fields
   const pdfDoc = await PDFDocument.load(formPdfBytes)
@@ -151,7 +280,9 @@ async function fillForm(data) {
 
   // Serialize the PDFDocument to bytes (a Uint8Array)
   const pdfBytes = await pdfDoc.save()
-
-  // Trigger the browser to download the PDF document
-  download(pdfBytes, "autocertificazione.pdf", "application/pdf");
+  return pdfBytes
 }
+
+function mobileAndTabletCheck() {
+  return /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+};
