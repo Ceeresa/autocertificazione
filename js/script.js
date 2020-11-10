@@ -104,6 +104,18 @@ $(".print-button").click(function(event) {
   })();
 });
 
+$("#copy-from-residenza").click(function(){
+  // Get the values from residenza
+  const luogoResidenza = $("#luogoResidenza").val();
+  const provinciaResidenza = $("#provinciaResidenza").val();
+  const viaResidenza = $("#viaResidenza").val();
+
+  // Set the domicilio
+  $("#luogoDomicilio").val(luogoResidenza);
+  $("#provinciaDomicilio").val(provinciaResidenza);
+  $("#viaDomicilio").val(viaResidenza);
+});
+
 /**
  * Load the PDF document from the given url
  * @param {string} url The url from which load the PDF.
