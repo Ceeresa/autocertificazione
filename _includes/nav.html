@@ -1,0 +1,15 @@
+<nav class="navbar navbar-expand-md bg-light navbar-light">
+    <a class="navbar-brand" href="https://covidcert.it"><img src="/img/covidcert.png" alt="CovidCert"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="navbar-nav">
+        {% for p in site.pages_list %}
+          <li class="nav-item {% if page.title == p.name %}active{% endif %}">
+            <a class="nav-link" href="{{ p.url }}">{{ p.name }} {% if page.title == p.name %}<span class="sr-only">(current)</span>{% endif %}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+</nav>
