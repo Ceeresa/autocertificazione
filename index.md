@@ -47,10 +47,6 @@ additional_scripts:
         </div>
         <div class="modal-body">
             <div class="container">
-            <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-                <h1>Autocertificazione</h1>
-                <p class="lead">Genera velocemente la tua autocertificazione.</p>
-            </div>
             <div class="form-row">
                 <div class="form-group col-md-6">
                 <label for="nome">Nome</label>
