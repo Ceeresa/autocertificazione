@@ -14,7 +14,7 @@ additional_scripts:
 <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
     <p class="lead">Genera velocemente la tua autocertificazione, anche da mobile.</p>
 </div>
-<div class="text-center">
+<div class="text-center mb-3">
     <button type="button" class="btn btn-success" data-toggle="modal" data-target="#autocertEditModal">
         Compila
     </button>
