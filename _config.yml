@@ -30,7 +30,7 @@ plugins:
   - jekyll-feed
 
 pages_list:
-  - name: Compila l'autocertificazione
+  - name: Autocertificazione
     url: ./
   - name: Chi siamo
     url: ./chi-siamo
