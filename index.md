@@ -30,7 +30,7 @@ additional_scripts:
 </div>
 <div class="row justify-content-center">
     <div class="col-md-12 text-center">
-        <canvas class="img-fluid" id="the-canvas" onclick="openModal()"></canvas>
+        <canvas class="img-fluid rounded" id="the-canvas" onclick="openModal()"></canvas>
     </div>
 </div>
 
@@ -48,13 +48,17 @@ additional_scripts:
         <div class="modal-body">
             <div class="container">
             <div class="form-row">
-                <div class="form-group col-md-6">
+                <div class="form-group col-md-4">
                 <label for="nome">Nome</label>
                 <input type="text" class="form-control" id="nome" name="nome">
                 </div>
-                <div class="form-group col-md-6">
+                <div class="form-group col-md-4">
                 <label for="cognome">Cognome</label>
                 <input type="text" class="form-control" id="cognome" name="cognome">
+                </div>
+                <div class="form-group col-md-4">
+                <label for="utenzaTelefonica">Utenza telefonica</label>
+                <input type="text" class="form-control" id="utenzaTelefonica" name="utenzaTelefonica">
                 </div>
             </div>
             <div class="form-row">
@@ -73,6 +77,27 @@ additional_scripts:
             </div>
             <div class="form-row">
                 <div class="form-group col-md-4">
+                <label for="mezzo">Documento di riconoscimeto</label>
+                <input type="text" class="form-control" id="mezzo" name="mezzo">
+                </div>
+                <div class="form-group col-md-4">
+                <label for="numeroMezzo">Numero documento</label>
+                <input type="text" class="form-control" id="numeroMezzo" name="numeroMezzo">
+                </div>
+                <div class="form-group col-md-4">
+                <label for="mezzoRilasciatoDa">Documento rilasciato da</label>
+                <input type="text" class="form-control" id="mezzoRilasciatoDa" name="mezzoRilasciatoDa">
+                </div>
+            </div>
+            <div class="form-row justify-content-end">
+                <div class="form-group col-md-4">
+                <label for="inDataDocumento">Documento rilasciato in data</label>
+                <input type="date" class="form-control" id="inDataDocumento" name="inDataDocumento">
+                </div>
+            </div>
+            <hr>
+            <div class="form-row">
+                <div class="form-group col-md-4">
                 <label for="luogoResidenza">Luogo residenza</label>
                 <input type="text" class="form-control" id="luogoResidenza" name="luogoResidenza">
                 </div>
@@ -86,7 +111,7 @@ additional_scripts:
                 </div>
             </div>
             <div class="form-row">
-                <button type="button" class="btn btn-primary btn-sm" id="copy-from-residenza">Copia da residenza</button>
+                <button type="button" style="height: 4vh; " class="btn btn-primary btn-sm" id="copy-from-residenza">Copia da residenza</button>
             </div>
             <div class="form-row">
                 <div class="form-group col-md-4">
@@ -102,28 +127,15 @@ additional_scripts:
                 <input type="text" class="form-control" id="viaDomicilio" name="viaDomicilio">
                 </div>
             </div>
-            <div class="form-row">
-                <div class="form-group col-md-4">
-                <label for="mezzo">Mezzo</label>
-                <input type="text" class="form-control" id="mezzo" name="mezzo">
-                </div>
-                <div class="form-group col-md-4">
-                <label for="numeroMezzo">Numero mezzo</label>
-                <input type="text" class="form-control" id="numeroMezzo" name="numeroMezzo">
-                </div>
-                <div class="form-group col-md-4">
-                <label for="mezzoRilasciatoDa">Rilasciato da</label>
-                <input type="text" class="form-control" id="mezzoRilasciatoDa" name="mezzoRilasciatoDa">
-                </div>
-            </div>
+            <hr>
             <div class="form-row">
                 <div class="form-group col-md-6">
-                <label for="inDataDocumento">In data</label>
-                <input type="date" class="form-control" id="inDataDocumento" name="inDataDocumento">
+                <label for="indirizzoInizioSpostamento">Indirizzo inizio spostamento</label>
+                <input type="text" class="form-control" id="indirizzoInizioSpostamento" name="indirizzoInizioSpostamento">
                 </div>
                 <div class="form-group col-md-6">
-                <label for="utenzaTelefonica">Utenza telefonica</label>
-                <input type="text" class="form-control" id="utenzaTelefonica" name="utenzaTelefonica">
+                <label for="indirizzoDestinazioneSpostamento">Indirizzo destinazione spostamento</label>
+                <input type="text" class="form-control" id="indirizzoDestinazioneSpostamento" name="indirizzoDestinazioneSpostamento">
                 </div>
             </div>
             <div class="form-row">
@@ -141,17 +153,7 @@ additional_scripts:
                 </div>
             </div>
             <div class="form-row">
-                <div class="form-group col-md-6">
-                <label for="indirizzoInizioSpostamento">Indirizzo inizio spostamento</label>
-                <input type="text" class="form-control" id="indirizzoInizioSpostamento" name="indirizzoInizioSpostamento">
-                </div>
-                <div class="form-group col-md-6">
-                <label for="indirizzoDestinazioneSpostamento">Indirizzo destinazione spostamento</label>
-                <input type="text" class="form-control" id="indirizzoDestinazioneSpostamento" name="indirizzoDestinazioneSpostamento">
-                </div>
-            </div>
-            <div class="form-row">
-                <div class="form-group col-md-6">
+                <div class="form-group col-md-12">
                 <label for="dichiarazioniAggiuntive">Dichiarazioni aggiuntive</label>
                 <textarea class="form-control" id="dichiarazioniAggiuntive" name="dichiarazioniAggiuntive"></textarea>
                 </div>
