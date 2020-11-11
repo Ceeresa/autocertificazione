@@ -24,6 +24,9 @@ additional_scripts:
     <button type="button" class="btn btn-success print-button">
         Stampa
     </button>
+    <button type="button" class="btn btn-success cleanup-button">
+        Ripulisci
+    </button>
 </div>
 <div class="row justify-content-center">
     <div class="col-md-12 text-center">
@@ -160,6 +163,7 @@ additional_scripts:
             <button type="button" class="btn btn-primary" id="salva-modifiche">Salva Modifiche</button>
             <button type="button" class="btn btn-primary download-button" id="download">Download</button>
             <button type="button" class="btn btn-primary print-button" id="stampa">Stampa</button>
+            <button type="button" class="btn btn-primary cleanup-button">Ripulisci</button>
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Annulla</button>
         </div>
         </form>
