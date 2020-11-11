@@ -7,7 +7,7 @@ title: "Autocertificazione"
 additional_scripts:
     - https://unpkg.com/pdf-lib@1.11.0
     - https://unpkg.com/downloadjs@1.4.7
-    - https://printjs-4de6.kxcdn.com/print.min.js
+    #- https://printjs-4de6.kxcdn.com/print.min.js
     - https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.6.347/pdf.min.js
     - ./js/script.js
 ---
@@ -21,7 +21,7 @@ additional_scripts:
     <button type="button" class="btn btn-success download-button">
         Download
     </button>
-    <button type="button" class="btn btn-success print-button">
+    <button type="button" class="btn btn-success print-button d-none">
         Stampa
     </button>
     <button type="button" class="btn btn-success cleanup-button">
@@ -161,7 +161,7 @@ additional_scripts:
         <div class="modal-footer">
             <button type="button" class="btn btn-primary" id="salva-modifiche">Salva Modifiche</button>
             <button type="button" class="btn btn-primary download-button" id="download">Download</button>
-            <button type="button" class="btn btn-primary print-button" id="stampa">Stampa</button>
+            <button type="button" class="btn btn-primary print-button d-none" id="stampa">Stampa</button>
             <button type="button" class="btn btn-primary cleanup-button">Ripulisci</button>
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Annulla</button>
         </div>
