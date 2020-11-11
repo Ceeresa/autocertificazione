@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: index
-title: "Compila l'autocertificazione"
+title: "Autocertificazione"
 additional_scripts:
     - https://unpkg.com/pdf-lib@1.11.0
     - https://unpkg.com/downloadjs@1.4.7
