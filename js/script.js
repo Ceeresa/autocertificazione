@@ -2,15 +2,16 @@ const { PDFDocument } = PDFLib
 const LOCAL_STORAGE_NAME = "autocertificazione-data"
 const PDF_URL = './data/modello_autodichiarazione_editabile_ottobre_2020.pdf'
 const MODAL_ID = "#autocertEditModal"
+const FORM_ID = "#autocertificazione"
 
-$(function() {
+function init(){
   const formData = localStorage.getItem(LOCAL_STORAGE_NAME);
   let populated = false;
   let parsedData = {};
   if (formData) {
     try {
       parsedData = JSON.parse(formData);
-      populate($("#autocertificazione"), parsedData);
+      populate($(FORM_ID), parsedData);
       populated = true;
     } catch (e) {
       console.log("Error while parsing the data", e)
@@ -33,13 +34,17 @@ $(function() {
   if (mobileAndTabletCheck()) {
     $(".print-button").addClass('d-none');
   }
+}
+
+$(function() {
+  init();
 });
 
 $("#salva-modifiche").click(function(event) {
   event.preventDefault();
   event.stopPropagation();
 
-  const data = getFormData($("#autocertificazione"))
+  const data = getFormData($(FORM_ID))
   localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
 
   (async function() {
@@ -61,7 +66,7 @@ $(".download-button").click(function(event) {
   event.preventDefault();
   event.stopPropagation();
 
-  const data = getFormData($("#autocertificazione"))
+  const data = getFormData($(FORM_ID))
   localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
 
   (async function() {
@@ -102,6 +107,12 @@ $(".print-button").click(function(event) {
     // Close the modal
     $(MODAL_ID).modal('hide')
   })();
+});
+
+$(".cleanup-button").click(function() {
+  localStorage.removeItem(LOCAL_STORAGE_NAME);
+  init();
+  $(FORM_ID).trigger('reset');
 });
 
 $("#copy-from-residenza").click(function(){
