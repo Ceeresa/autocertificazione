@@ -33,11 +33,11 @@ pages_list:
   - name: Autocertificazione
     url: ./
   - name: Chi siamo
-    url: ./chi-siamo
+    url: ./chi-siamo.html
   - name: Guida all'uso
-    url: ./guida
+    url: ./guida.html
   - name: Informativa privacy
-    url: ./privacy-policy
+    url: ./privacy-policy.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
