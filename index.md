@@ -15,16 +15,16 @@ additional_scripts:
     <p class="lead">Genera velocemente la tua autocertificazione, anche da mobile.</p>
 </div>
 <div class="text-center mb-3">
-    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#autocertEditModal">
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#autocertEditModal">
         Compila
     </button>
-    <button type="button" class="btn btn-success download-button">
+    <button type="button" class="btn btn-primary download-button">
         Download
     </button>
-    <button type="button" class="btn btn-success print-button d-none">
+    <button type="button" class="btn btn-primary print-button d-none">
         Stampa
     </button>
-    <button type="button" class="btn btn-success cleanup-button">
+    <button type="button" class="btn btn-primary cleanup-button">
         Ripulisci
     </button>
 </div>
