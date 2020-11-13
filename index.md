@@ -16,18 +16,19 @@ additional_scripts:
         <p class="lead">Genera velocemente la tua autocertificazione, anche da mobile.</p>
     </div>
     <div class="text-center mb-3">
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#autocertEditModal">
-            Compila
+        <button type="button" class="btn btn-primary btn-top-space" data-toggle="modal" data-target="#autocertEditModal">
+            <i class="fa fa-pencil"></i> Compila
         </button>
-        <button type="button" class="btn btn-primary download-button">
-            Download
+        <button type="button" class="btn btn-primary cleanup-button btn-top-space">
+            <i class="fa fa-eraser"></i> Ripulisci
         </button>
-        <button type="button" class="btn btn-primary print-button">
-            Stampa
+        <button type="button" class="btn btn-primary download-button btn-top-space" title="Download">
+            <i class="fa fa-download"></i> Download
         </button>
-        <button type="button" class="btn btn-primary cleanup-button">
-            Ripulisci
+        <button type="button" class="btn btn-primary print-button btn-top-space" title="Print">
+            <i class="fa fa-print"></i> Stampa
         </button>
+
     </div>
 </div>
 <div class="row justify-content-center pdf-container">
@@ -163,11 +164,11 @@ additional_scripts:
                 </div>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-primary" id="salva-modifiche">Salva Modifiche</button>
-                <button type="button" class="btn btn-primary download-button" id="download">Download</button>
-                <button type="button" class="btn btn-primary print-button d-none" id="stampa">Stampa</button>
-                <button type="button" class="btn btn-primary cleanup-button">Ripulisci</button>
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Annulla</button>
+                <button type="button" class="btn btn-primary btn-top-space" id="salva-modifiche"><i class="fa fa-pencil"></i> Salva Modifiche</button>
+                <button type="button" class="btn btn-primary download-button btn-top-space" id="download"><i class="fa fa-download"></i> Download</button>
+                <button type="button" class="btn btn-primary print-button d-none btn-top-space" id="stampa"><i class="fa fa-print"></i> Stampa</button>
+                <button type="button" class="btn btn-primary cleanup-button btn-top-space"><i class="fa fa-eraser"></i> Ripulisci</button>
+                <button type="button" class="btn btn-secondary btn-top-space" data-dismiss="modal"><i class="fa fa-window-close"></i> Annulla</button>
             </div>
             </form>
         </div>
