@@ -100,12 +100,11 @@ $(".print-button").click(function(event) {
     var link = window.URL.createObjectURL(blob);
     loadPdfDocument(link);
 
-    // Trigger the browser to download the PDF document
-    //download(pdfBytes, "autocertificazione.pdf", "application/pdf");
-    printJS(link)
+    // Print the document
+    window.print();
 
     // Close the modal
-    $(MODAL_ID).modal('hide')
+    $(MODAL_ID).modal('hide');
   })();
 });
 
@@ -148,7 +147,7 @@ function loadPdfDocument(url) {
     pdf.getPage(pageNumber).then(function(page) {
       console.log('Page loaded');
       
-      var scale = 1.5;
+      var scale = 3.5; // TODO Understand if this one could be decreased without impacting on the print PDF quality
       var viewport = page.getViewport({scale: scale});
 
       // Prepare canvas using PDF page dimensions
