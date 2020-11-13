@@ -80,7 +80,7 @@ additional_scripts:
                 </div>
                 <div class="form-row">
                     <div class="form-group col-md-4">
-                    <label for="mezzo">Documento di riconoscimeto</label>
+                    <label for="mezzo">Documento di riconoscimento</label>
                     <input type="text" class="form-control" id="mezzo" name="mezzo">
                     </div>
                     <div class="form-group col-md-4">
