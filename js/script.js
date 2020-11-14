@@ -32,6 +32,13 @@ function init(){
   }
 }
 
+function printPDF() {
+  /**
+   * Print the PDF.
+   */
+  window.print();
+}
+
 $(function() {
   init();
 });
@@ -81,6 +88,13 @@ $(".download-button").click(function(event) {
   })();
 });
 
+$(".fast-print-button").click(function(event) {
+  event.preventDefault();
+  event.stopPropagation();
+
+  printPDF();
+});
+
 $(".print-button").click(function(event) {
   event.preventDefault();
   event.stopPropagation();
@@ -95,9 +109,7 @@ $(".print-button").click(function(event) {
     var blob = new Blob([pdfBytes], {type: "application/pdf"});
     var link = window.URL.createObjectURL(blob);
     loadPdfDocument(link);
-
-    // Print the document
-    window.print();
+    printPDF();
 
     // Close the modal
     $(MODAL_ID).modal('hide');
