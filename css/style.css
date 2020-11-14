@@ -43,4 +43,8 @@
         border: 0px;
         background-color: #FFF;
     }
+
+    .modal-backdrop.show {
+        opacity: 0;
+    }
 }

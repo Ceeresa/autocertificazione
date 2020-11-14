@@ -38,7 +38,7 @@ additional_scripts:
 </div>
 
 <!-- Modal -->
-<div class="modal fade" id="autocertEditModal" tabindex="-1" role="dialog" aria-labelledby="autocertEditModalLabel" aria-hidden="true">
+<div class="modal fade d-print-none" id="autocertEditModal" tabindex="-1" role="dialog" aria-labelledby="autocertEditModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-xl" role="document">
         <div class="modal-content">
             <form id="autocertificazione" novalidate>
