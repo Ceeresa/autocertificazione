@@ -2,6 +2,29 @@
     background-color: #ebeae3;
 }
 
+#spinner {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: 5000;
+    top: 50%;
+    left: 50%;
+    margin-left: -12px;
+    margin-top: -12px;
+    overflow: hidden;
+}
+
+#spinner-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1040;
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    opacity: .5;
+}
+
 @media print {
     @page {
         margin: 0;

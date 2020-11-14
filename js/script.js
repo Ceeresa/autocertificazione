@@ -3,8 +3,16 @@ const LOCAL_STORAGE_NAME = "autocertificazione-data"
 const PDF_URL = './data/modello_autodichiarazione_editabile_ottobre_2020.pdf'
 const MODAL_ID = "#autocertEditModal"
 const FORM_ID = "#autocertificazione"
+const SPINNER_ID = "#spinner"
+const SPINNER_BACKDROP_ID = "#spinner-backdrop"
 
+
+
+/**
+ * Init the application.
+ */
 function init(){
+  showLoader();
   const formData = localStorage.getItem(LOCAL_STORAGE_NAME);
   let populated = false;
   let parsedData = {};
@@ -25,25 +33,44 @@ function init(){
       const pdfBytes = await fillForm(parsedData);
       var blob = new Blob([pdfBytes], {type: "application/pdf"});
       var link = window.URL.createObjectURL(blob);
-      loadPdfDocument(link)
+      loadPdfDocument(link, () => { hideLoader(); })
     })();
   } else {
-    loadPdfDocument(PDF_URL)
+    loadPdfDocument(PDF_URL, () => { hideLoader(); })
   }
 }
 
+/**
+ * Print the PDF.
+ */
 function printPDF() {
-  /**
-   * Print the PDF.
-   */
   window.print();
 }
+
+
+/**
+ * Show the loader.
+ */
+function showLoader() {
+  $(SPINNER_ID).removeClass('d-none');
+  $(SPINNER_BACKDROP_ID).removeClass('d-none');
+}
+
+/**
+ * Hide the loader.
+ */
+function hideLoader() {
+  $(SPINNER_ID).addClass('d-none');
+  $(SPINNER_BACKDROP_ID).addClass('d-none');
+}
+
 
 $(function() {
   init();
 });
 
 $("#salva-modifiche").click(function(event) {
+  showLoader();
   event.preventDefault();
   event.stopPropagation();
 
@@ -58,14 +85,16 @@ $("#salva-modifiche").click(function(event) {
     var link = window.URL.createObjectURL(blob);
 
     // Load the PDF document in the preview
-    loadPdfDocument(link);
-
-    // Close the modal
-    $(MODAL_ID).modal('hide')
+    loadPdfDocument(link, () => {
+      // Close the modal
+      $(MODAL_ID).modal('hide');
+      hideLoader();
+    });
   })();
 });
 
 $(".download-button").click(function(event) {
+  showLoader();
   event.preventDefault();
   event.stopPropagation();
 
@@ -78,13 +107,14 @@ $(".download-button").click(function(event) {
     // Reload the PDF using the new base64 data 
     var blob = new Blob([pdfBytes], {type: "application/pdf"});
     var link = window.URL.createObjectURL(blob);
-    loadPdfDocument(link);
+    loadPdfDocument(link, () => {
+      // Close the modal
+      $(MODAL_ID).modal('hide');
+      hideLoader();
+    });
 
     // Trigger the browser to download the PDF document
     download(pdfBytes, "autocertificazione.pdf", "application/pdf");
-
-    // Close the modal
-    $(MODAL_ID).modal('hide')
   })();
 });
 
@@ -108,11 +138,14 @@ $(".print-button").click(function(event) {
     // Reload the PDF using the new base64 data 
     var blob = new Blob([pdfBytes], {type: "application/pdf"});
     var link = window.URL.createObjectURL(blob);
-    loadPdfDocument(link);
-    printPDF();
+    loadPdfDocument(link, () => {
+      // Close the modal
+      $(MODAL_ID).modal('hide');
+      hideLoader();
+    });
 
-    // Close the modal
-    $(MODAL_ID).modal('hide');
+    // Print the PDF
+    printPDF();
   })();
 });
 
@@ -137,8 +170,9 @@ $("#copy-from-residenza").click(function(){
 /**
  * Load the PDF document from the given url
  * @param {string} url The url from which load the PDF.
+ * @param {function} callback The callback to call after the loading process end.
  */
-function loadPdfDocument(url) {
+function loadPdfDocument(url, callback) {
   // Loaded via <script> tag, create shortcut to access PDF.js exports.
   var pdfjsLib = window['pdfjs-dist/build/pdf'];
 
@@ -172,11 +206,13 @@ function loadPdfDocument(url) {
       var renderTask = page.render(renderContext);
       renderTask.promise.then(function () {
         console.log('Page rendered');
+        callback();
       });
     });
   }, function (reason) {
     // PDF loading error
     console.error(reason);
+    callback();
   });
 }
 
