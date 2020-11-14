@@ -7,7 +7,6 @@ title: "Autocertificazione"
 additional_scripts:
     - https://unpkg.com/pdf-lib@1.11.0
     - https://unpkg.com/downloadjs@1.4.7
-    #- https://printjs-4de6.kxcdn.com/print.min.js
     - https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.6.347/pdf.min.js
     - ./js/script.js
 ---
