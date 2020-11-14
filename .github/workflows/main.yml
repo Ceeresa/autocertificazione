@@ -2,7 +2,6 @@ on:
   push:
     branches:
       - main
-      - improvement/add-auto-deploy-on-main
 name: 🚀 Deploy website on push
 jobs:
   web-deploy:
