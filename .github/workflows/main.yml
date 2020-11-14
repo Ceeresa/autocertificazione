@@ -11,6 +11,11 @@ jobs:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2.3.2
     
+    - name: 💎 Get ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    
     - name: 🔨 Build Project
       run: |
         bundle install
