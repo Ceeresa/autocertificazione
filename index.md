@@ -180,3 +180,11 @@ additional_scripts:
         </div>
     </div>
 </div>
+
+<!-- Spinner stuff -->
+<div id="spinner" class="d-print-none">
+    <div class="spinner-border text-primary" role="status">
+        <span class="sr-only">Loading...</span>
+    </div>
+</div>
+<div id="spinner-backdrop" class="d-print-none"></div>
