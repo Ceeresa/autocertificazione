@@ -2,10 +2,6 @@
     background-color: #ebeae3;
 }
 
-.btn-top-space {
-    margin-top: 5px;
-}
-
 @media print {
     @page {
         margin: 0;

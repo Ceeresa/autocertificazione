@@ -15,20 +15,27 @@ additional_scripts:
     <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <p class="lead">Genera velocemente la tua autocertificazione, anche da mobile.</p>
     </div>
-    <div class="text-center mb-3">
-        <button type="button" class="btn btn-primary btn-top-space" data-toggle="modal" data-target="#autocertEditModal">
-            <i class="fa fa-pencil"></i> Compila
-        </button>
-        <button type="button" class="btn btn-primary cleanup-button btn-top-space">
-            <i class="fa fa-eraser"></i> Ripulisci
-        </button>
-        <button type="button" class="btn btn-primary download-button btn-top-space" title="Download">
-            <i class="fa fa-download"></i> Download
-        </button>
-        <button type="button" class="btn btn-primary fast-print-button btn-top-space" title="Print">
-            <i class="fa fa-print"></i> Stampa
-        </button>
-
+    <div class="row justify-content-center justify-content-sm-center mb-3">
+        <div class="col-md-auto col-6 text-center">
+            <button type="button" class="btn btn-primary mt-2" data-toggle="modal" data-target="#autocertEditModal">
+                <i class="fa fa-pencil"></i> Compila
+            </button>
+        </div>
+        <div class="col-md-auto col-6 text-center">
+            <button type="button" class="btn btn-primary cleanup-button mt-2">
+                <i class="fa fa-eraser"></i> Ripulisci
+            </button>
+        </div>
+        <div class="col-md-auto col-6 text-center">
+            <button type="button" class="btn btn-primary download-button mt-2" title="Download">
+                <i class="fa fa-download"></i> Download
+            </button>
+        </div>
+        <div class="col-md-auto col-6 text-center">
+            <button type="button" class="btn btn-primary fast-print-button mt-2" title="Print">
+                <i class="fa fa-print"></i> Stampa
+            </button>
+        </div>
     </div>
 </div>
 <div class="row justify-content-center pdf-container">
@@ -164,11 +171,11 @@ additional_scripts:
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-primary btn-top-space" id="salva-modifiche"><i class="fa fa-pencil"></i> Salva Modifiche</button>
-                    <button type="button" class="btn btn-primary download-button btn-top-space" id="download"><i class="fa fa-download"></i> Download</button>
-                    <button type="button" class="btn btn-primary print-button btn-top-space" id="stampa"><i class="fa fa-print"></i> Stampa</button>
-                    <button type="button" class="btn btn-primary cleanup-button btn-top-space"><i class="fa fa-eraser"></i> Ripulisci</button>
-                    <button type="button" class="btn btn-secondary btn-top-space" data-dismiss="modal"><i class="fa fa-window-close"></i> Annulla</button>
+                    <button type="button" class="btn btn-primary mt-2" id="salva-modifiche"><i class="fa fa-pencil"></i> Salva Modifiche</button>
+                    <button type="button" class="btn btn-primary download-button mt-2" id="download"><i class="fa fa-download"></i> Download</button>
+                    <button type="button" class="btn btn-primary print-button mt-2" id="stampa"><i class="fa fa-print"></i> Stampa</button>
+                    <button type="button" class="btn btn-primary cleanup-button mt-2"><i class="fa fa-eraser"></i> Ripulisci</button>
+                    <button type="button" class="btn btn-secondary mt-2" data-dismiss="modal"><i class="fa fa-window-close"></i> Annulla</button>
                 </div>
             </form>
         </div>
