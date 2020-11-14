@@ -7,6 +7,9 @@ const SPINNER_ID = "#spinner"
 const SPINNER_BACKDROP_ID = "#spinner-backdrop"
 
 
+/* Global variables */
+let pdfBytes = '';
+
 
 /**
  * Init the application.
@@ -30,7 +33,7 @@ function init(){
     // Reload the PDF using the new base64 data 
     (async function() {
       // Here generate the right PDF
-      const pdfBytes = await fillForm(parsedData);
+      pdfBytes = await fillForm(parsedData);
       var blob = new Blob([pdfBytes], {type: "application/pdf"});
       var link = window.URL.createObjectURL(blob);
       loadPdfDocument(link, () => { hideLoader(); })
@@ -47,6 +50,14 @@ function printPDF() {
   window.print();
 }
 
+
+/**
+ * Download the PDF.
+ */
+function downloadFile() {
+  // Trigger the browser to download the PDF document
+  download(pdfBytes, "autocertificazione.pdf", "application/pdf");
+}
 
 /**
  * Show the loader.
@@ -78,7 +89,7 @@ $("#salva-modifiche").click(function(event) {
   localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
 
   (async function() {
-    const pdfBytes = await fillForm(data)
+    pdfBytes = await fillForm(data)
 
     // Reload the PDF using the new base64 data 
     var blob = new Blob([pdfBytes], {type: "application/pdf"});
@@ -102,7 +113,7 @@ $(".download-button").click(function(event) {
   localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
 
   (async function() {
-    const pdfBytes = await fillForm(data)
+    pdfBytes = await fillForm(data)
 
     // Reload the PDF using the new base64 data 
     var blob = new Blob([pdfBytes], {type: "application/pdf"});
@@ -113,9 +124,15 @@ $(".download-button").click(function(event) {
       hideLoader();
     });
 
-    // Trigger the browser to download the PDF document
-    download(pdfBytes, "autocertificazione.pdf", "application/pdf");
+    downloadFile();
   })();
+});
+
+$(".fast-download-button").click(function(event) {
+  event.preventDefault();
+  event.stopPropagation();
+
+  downloadFile();
 });
 
 $(".fast-print-button").click(function(event) {
@@ -133,7 +150,7 @@ $(".print-button").click(function(event) {
   localStorage.setItem(LOCAL_STORAGE_NAME, JSON.stringify(data));
 
   (async function() {
-    const pdfBytes = await fillForm(data)
+    pdfBytes = await fillForm(data)
 
     // Reload the PDF using the new base64 data 
     var blob = new Blob([pdfBytes], {type: "application/pdf"});

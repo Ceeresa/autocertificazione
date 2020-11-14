@@ -26,7 +26,7 @@ additional_scripts:
             </button>
         </div>
         <div class="col-md-auto col-6 text-center">
-            <button type="button" class="btn btn-primary download-button mt-2" title="Download">
+            <button type="button" class="btn btn-primary fast-download-button mt-2" title="Download">
                 <i class="fa fa-download"></i> Download
             </button>
         </div>
