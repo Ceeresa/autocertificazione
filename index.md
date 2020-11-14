@@ -12,7 +12,8 @@ additional_scripts:
 ---
 <div class="d-print-none">
     <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-        <p class="lead">Genera velocemente la tua autocertificazione, anche da mobile.</p>
+        <h3>Genera velocemente la tua autocertificazione</h3>
+        <h4><small class="text-muted text-right">da mobile e pronta da stampare</small></h4>
     </div>
     <div class="row justify-content-center justify-content-sm-center mb-3">
         <div class="col-md-auto col-6 text-center">
