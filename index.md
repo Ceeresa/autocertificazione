@@ -166,7 +166,7 @@ additional_scripts:
                 <div class="modal-footer">
                     <button type="button" class="btn btn-primary btn-top-space" id="salva-modifiche"><i class="fa fa-pencil"></i> Salva Modifiche</button>
                     <button type="button" class="btn btn-primary download-button btn-top-space" id="download"><i class="fa fa-download"></i> Download</button>
-                    <button type="button" class="btn btn-primary print-button d-none btn-top-space" id="stampa"><i class="fa fa-print"></i> Stampa</button>
+                    <button type="button" class="btn btn-primary print-button btn-top-space" id="stampa"><i class="fa fa-print"></i> Stampa</button>
                     <button type="button" class="btn btn-primary cleanup-button btn-top-space"><i class="fa fa-eraser"></i> Ripulisci</button>
                     <button type="button" class="btn btn-secondary btn-top-space" data-dismiss="modal"><i class="fa fa-window-close"></i> Annulla</button>
                 </div>

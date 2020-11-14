@@ -30,10 +30,6 @@ function init(){
   } else {
     loadPdfDocument(PDF_URL)
   }
-
-  if (mobileAndTabletCheck()) {
-    $(".print-button").addClass('d-none');
-  }
 }
 
 $(function() {
@@ -304,7 +300,3 @@ async function fillForm(data) {
   const pdfBytes = await pdfDoc.save()
   return pdfBytes
 }
-
-function mobileAndTabletCheck() {
-  return /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-};
