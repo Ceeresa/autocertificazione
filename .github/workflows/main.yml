@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - main
+      - improvement/add-auto-deploy-on-main
 name: 🚀 Deploy website on push
 jobs:
   web-deploy:
@@ -18,6 +19,7 @@ jobs:
     
     - name: 🔨 Build Project
       run: |
+        gem install bundler
         bundle install
         jekyll build
     
