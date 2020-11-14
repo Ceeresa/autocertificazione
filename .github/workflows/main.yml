@@ -32,4 +32,7 @@ jobs:
         port: ${{ secrets.ftp_port }}
         protocol: ${{ secrets.ftp_protocol }}
         local-dir: ./_site/
-        server-dir: /httpdocs/test/
+        server-dir: ${{ secrets.ftp_server_dir }}
+        exclude: package-lock.json
+          - package.json
+          - README.md
