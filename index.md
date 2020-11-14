@@ -25,7 +25,7 @@ additional_scripts:
         <button type="button" class="btn btn-primary download-button btn-top-space" title="Download">
             <i class="fa fa-download"></i> Download
         </button>
-        <button type="button" class="btn btn-primary print-button btn-top-space" title="Print">
+        <button type="button" class="btn btn-primary fast-print-button btn-top-space" title="Print">
             <i class="fa fa-print"></i> Stampa
         </button>
 
