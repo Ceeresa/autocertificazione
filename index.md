@@ -14,6 +14,7 @@ additional_scripts:
     <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <h3>Genera velocemente la tua autocertificazione</h3>
         <h4><small class="text-muted text-right">da mobile e pronta da stampare</small></h4>
+        
     </div>
     <div class="row justify-content-center justify-content-sm-center mb-3">
         <div class="col-md-auto col-6 text-center">
@@ -37,7 +38,7 @@ additional_scripts:
             </button>
         </div>
     </div>
-</div>
+</div>   
 <div class="row justify-content-center pdf-container">
     <div class="col-md-12 text-center">
         <canvas class="img-fluid rounded" id="the-canvas" onclick="openModal()"></canvas>
