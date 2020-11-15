@@ -18,22 +18,22 @@ additional_scripts:
     </div>
     <div class="row justify-content-center justify-content-sm-center mb-3">
         <div class="col-md-auto col-6 text-center">
-            <button type="button" class="btn btn-primary mt-2" data-toggle="modal" data-target="#autocertEditModal">
+            <button type="button" class="btn btn-block btn-primary mt-2" data-toggle="modal" data-target="#autocertEditModal">
                 <i class="fa fa-pencil"></i> Compila
             </button>
         </div>
         <div class="col-md-auto col-6 text-center">
-            <button type="button" class="btn btn-primary cleanup-button mt-2">
+            <button type="button" class="btn btn-block btn-primary cleanup-button mt-2">
                 <i class="fa fa-eraser"></i> Ripulisci
             </button>
         </div>
         <div class="col-md-auto col-6 text-center">
-            <button type="button" class="btn btn-primary fast-download-button mt-2" title="Download">
+            <button type="button" class="btn btn-block btn-primary fast-download-button mt-2" title="Download">
                 <i class="fa fa-download"></i> Download
             </button>
         </div>
         <div class="col-md-auto col-6 text-center">
-            <button type="button" class="btn btn-primary fast-print-button mt-2" title="Print">
+            <button type="button" class="btn btn-block btn-primary fast-print-button mt-2" title="Print">
                 <i class="fa fa-print"></i> Stampa
             </button>
         </div>
