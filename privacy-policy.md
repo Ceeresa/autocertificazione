@@ -3,7 +3,7 @@ layout: index
 title: "Informativa privacy"
 ---
 <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-    <h1>Informativa privacy</h1>
+    <h1 class="h1-responsive text-center">Informativa privacy</h1>
 </div>
 
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.29in; page-break-after: avoid">
