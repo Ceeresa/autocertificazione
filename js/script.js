@@ -41,6 +41,7 @@ function init(){
   } else {
     loadPdfDocument(PDF_URL, () => { hideLoader(); })
   }
+  $('[data-toggle="tooltip"]').tooltip();
 }
 
 /**
