@@ -23,7 +23,7 @@ additional_scripts:
             </button>
         </div>
         <div class="col-md-auto col-6 text-center">
-            <button type="button" class="btn btn-block btn-primary cleanup-button mt-2">
+            <button type="button" class="btn btn-block btn-primary cleanup-button mt-2" data-toggle="tooltip" data-container="body" data-placement="top" title="Se ti trovi in un Internet Cafè o Internet Point premi questo tasto per cancellare i tuoi dati">
                 <i class="fa fa-eraser"></i> Ripulisci
             </button>
         </div>
@@ -39,6 +39,12 @@ additional_scripts:
         </div>
     </div>
 </div>   
+<div class="text-right"><a class="d-sm-none" href= 
+"whatsapp://send?text=Ti suggerisco questo sito per compilare velocemente l'autocertificazione e stamparla anche da mobile https://covidcert.it"
+        data-action="share/whatsapp/share"
+        target="_blank"> 
+        <i class="fa fa-whatsapp"></i> Consigliaci su Whatsapp 
+    </a></div>
 <div class="row justify-content-center pdf-container">
     <div class="col-md-12 text-center">
         <canvas class="img-fluid rounded" id="the-canvas" onclick="openModal()"></canvas>
