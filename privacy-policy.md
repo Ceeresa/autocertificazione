@@ -67,7 +67,7 @@ mezzi del trattamento di dati personali. Si occupa anche dei profili
 sulla sicurezza.</I></FONT></FONT></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
 <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>2.
-Relativamente al presente sito web i titolari del trattamento del
+Relativamente al presente sito web i titolari del
 trattamento sono Maurizio Molle, Davide Pastore e Sergio Tarantino e
 per ogni chiarimento o esercizio dei diritti dell&rsquo;utente potr&agrave;
 contattarli al seguente indirizzo mail: dpo@covidcert.it</I></FONT></FONT></FONT></P>
