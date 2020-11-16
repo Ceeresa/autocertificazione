@@ -14,6 +14,7 @@ additional_scripts:
     <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <h3>Genera velocemente la tua autocertificazione</h3>
         <h4><small class="text-muted text-right">da mobile e pronta da stampare</small></h4>
+        <div class="justify-content-center alert alert-success">L'autocertificazione è generata direttamente nel <b>tuo</b> browser e i <b>tuoi</b> dati non escono dal <b>tuo</b> dispositivo</div>
     </div>
     <div class="row justify-content-center justify-content-sm-center mb-3">
         <div class="col-md-auto col-6 text-center">
