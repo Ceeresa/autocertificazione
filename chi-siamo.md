@@ -20,7 +20,6 @@ title: "Chi siamo"
 
   <!-- Grid row -->
   <div class="row text-center">
-
     <!-- Davide Pastore -->
     <div class="col-md-4 mb-md-0 mb-5">
       <div class="avatar mx-auto">
@@ -34,7 +33,7 @@ title: "Chi siamo"
       <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-li" href="https://www.linkedin.com/in/davide-pastore-9271b847/">
         <i class="fa fa-linkedin"></i>
       </a>
-      <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-dribbble">
+      <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-dribbble" href="https://github.com/DavidePastore">
         <i class="fa fa-github"></i>
       </a>
     </div>
