@@ -31,13 +31,13 @@ plugins:
 
 pages_list:
   - name: Autocertificazione
-    url: ./
+    url: /
   - name: Chi siamo
-    url: ./chi-siamo.html
+    url: /chi-siamo.html
   - name: Guida all'uso
-    url: ./guida.html
+    url: /guida.html
   - name: Informativa privacy
-    url: ./privacy-policy.html
+    url: /privacy-policy.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
