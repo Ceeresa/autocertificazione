@@ -42,6 +42,7 @@ function init(){
     loadPdfDocument(PDF_URL, () => { hideLoader(); })
   }
   $('[data-toggle="tooltip"]').tooltip();
+  $('.collapse').collapse();
 }
 
 /**
