@@ -78,6 +78,7 @@ title: "Informativa privacy"
   https://support.google.com/accounts/answer/61416?hl=it</li>
     <li>Opera
   http://www.opera.com/help/tutorials/security/cookies/</li>
+  </ul>
   <h3>5.Plugin Social Network</h3>
   <p>1. Il presente sito incorpora anche plugin e/o bottoni per i social network, al fine di consentire una facile condivisione dei contenuti sui vostri social network preferiti. Tali plugin sono programmati in modo da non impostare alcun cookie all’accesso della pagina per salvaguardare la privacy degli utenti. Eventualmente i cookies vengono impostati, se così previsto dai social network solo quando l’utente fa effettivo e volontario uso del plugin. Si tenga presente che se l’utente naviga essendo loggato nel social network allora ha già acconsentito all’uso dei cookies veicolati tramite questo sito al momento dell’iscrizione al social network.</p>
   <p>2. La raccolta e l’uso delle informazioni ottenute a mezzo del plugin sono regolati dalle rispettive informative privacy dei social network, alle quali si prega di fare riferimento:</p>
