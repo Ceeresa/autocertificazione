@@ -114,7 +114,7 @@ title: "Informativa privacy"
   <p>1. Il titolare notifica al Garante il trattamento di dati personali cui intende procedere, solo se il trattamento riguarda:</p>
   <ul>
     <li>dati genetici, biometrici o dati che indicano la posizione geografica di persone od oggetti mediante una rete di comunicazione elettronica;</li>
-    <li>dati idonei a rivelare lo stato di salute e la vita sessuale, trattati ai fini di procreazione assistita, prestazione di servizi sanitari per via telematica relativi a banche di dati o alla fornitura di beni, indagini epidemiologiche, rilevazione di malattie mentali, infettive e diffusive, sieropositività, trapianto di organi e tessuti e monitoraggio della spesa sanitaria;</p>
+    <li>dati idonei a rivelare lo stato di salute e la vita sessuale, trattati ai fini di procreazione assistita, prestazione di servizi sanitari per via telematica relativi a banche di dati o alla fornitura di beni, indagini epidemiologiche, rilevazione di malattie mentali, infettive e diffusive, sieropositività, trapianto di organi e tessuti e monitoraggio della spesa sanitaria;</li>
     <li>dati idonei a rivelare la vita sessuale o la sfera psichica, trattati da associazioni, enti ed organismi senza scopo di lucro, anche non riconosciuti, a carattere politico, filosofico, religioso o sindacale;</li>
     <li>dati trattati con l’ausilio di strumenti elettronici volti a definire il profilo o la personalità dell’interessato o ad analizzare abitudini e scelte di consumo ovvero a monitorare l’utilizzo di servizi di comunicazione elettronica con esclusione dei trattamenti tecnicamente indispensabili per fornire i servizi medesimi agli utenti;</li>
     <li>dati sensibili registrati in banche di dati a fini di selezione del personale per conto terzi nonché dati sensibili utilizzati per sondaggi di opinione, ricerche di mercato ed altre ricerche campionarie;</li>
@@ -130,7 +130,7 @@ title: "Informativa privacy"
   <p>4. Il documento è stato aggiornato in data 17/11/2020 per essere conforme alle disposizioni normative in materia ed in particolare al Regolamento UE 2016/679.</p>
   <div class="accordion" id="privacyHistory">
     <div class="card">
-      <div class="card-header bg-light" id="headPrivacy20201211">
+      <div class="card-header bg-light old-privacy" id="headPrivacy20201211">
         <h5 class="mb-0">
           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapsePrivacy20201211" aria-expanded="true" aria-controls="collapsePrivacy20201211">
             Privacy policy al 17/11/2020
