@@ -43,7 +43,26 @@ function init(){
   }
   $('[data-toggle="tooltip"]').tooltip();
   $('.old-privacy').collapse();
+
+  // we check if the browser supports ServiceWorkers
+  if ('serviceWorker' in navigator) {
+    navigator
+      .serviceWorker
+      .register(
+        // path to the service worker file
+        '/js/sw.js'
+      )
+      // the registration is async and it returns a promise
+      .then(function (reg) {
+        console.log('Registration Successful');
+      });
+  }
+
 }
+
+
+
+
 
 /**
  * Print the PDF.
