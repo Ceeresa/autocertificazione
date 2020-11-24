@@ -39,7 +39,12 @@ function init(){
       loadPdfDocument(link, () => { hideLoader(); })
     })();
   } else {
-    loadPdfDocument(PDF_URL, () => { hideLoader(); })
+    (async function() {
+      const formPdfBytes = await getFormPdfBytes()
+      const pdfDoc = await PDFDocument.load(formPdfBytes)
+      pdfBytes = await pdfDoc.save()
+      loadPdfDocument(PDF_URL, () => { hideLoader(); })
+    })();
   }
   $('[data-toggle="tooltip"]').tooltip();
   $('.old-privacy').collapse();
@@ -278,13 +283,20 @@ function getFormData($form){
 }
 
 /**
+ * Get form PDF bytes.
+ */
+async function getFormPdfBytes() {
+  return await fetch(PDF_URL).then(res => res.arrayBuffer())
+}
+
+/**
  * Fill the PDF form with the given data and download the file.
  * @param {Object} data The data to use to fill the PDF form.
  */
 async function fillForm(data) {
   console.log('data received', data)
   // Fetch the PDF with form fields
-  const formPdfBytes = await fetch(PDF_URL).then(res => res.arrayBuffer())
+  const formPdfBytes = await getFormPdfBytes()
 
   // Load a PDF with form fields
   const pdfDoc = await PDFDocument.load(formPdfBytes)
