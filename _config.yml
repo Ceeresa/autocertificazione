@@ -40,6 +40,8 @@ pages_list:
     url: /guida.html
   - name: Informativa privacy
     url: /privacy-policy.html
+  - name: Contattaci
+    url: /contattaci.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
