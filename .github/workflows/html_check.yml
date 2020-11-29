@@ -23,3 +23,5 @@ jobs:
       with:
         root: ./_site/
         extra: --match ^(?!(googledd725740c84fdc30\.html)).*$
+        log_level: DEBUG
+        action_debug: true
