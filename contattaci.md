@@ -2,10 +2,12 @@
 layout: index
 title: "Contattaci"
 ---
-<div class="container px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+<div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
     <h1 class="h1-responsive text-center">Contattaci</h1>
+</div>
+<div>
     <div class="row justify-content-md-center" >
-      <div class="row text-justify">
+      <div class="col-md-12 text-justify">
         <p><b>Il vostro punto di vista è per noi fondamentale</b>. Non esitate a contattarci per fornirci dei suggerimenti, segnalarci dei malfunzionamenti, per eventuali collaborazioni o semplicemente per dirci cosa ne pensate della nostra iniziativa.</p>
       </div>
       <div class="col-md-5 mt-3">

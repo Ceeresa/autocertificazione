@@ -3,8 +3,10 @@ layout: index
 title: "Informativa privacy"
 ---
 
-<div class="container px-3 py-3 pt-md-5 pb-md-4 mx-auto text-justify">
+<div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-justify">
   <h1 class="h1-responsive text-center">Informativa Privacy</h1>
+</div>
+<div>
   <h2>I –INFORMAZIONI RELATIVE ALLA PRIVACY POLICY DEL SITO</h2>
   <p>1. In questa sezione sono contenute le informazioni relative alle modalità di gestione di covidcert.it in riferimento alle trattamento dei dati degli utenti di covidcert.it.</p>
   <p>2. La presente informativa ha valore anche ai fini dell’art. 13 del D.lgs. n. 196/2003, Codice in materia di protezione dei dati personali, e ai fini dell’art. 13 del Regolamento UE n. 2016/679, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali nonché alla libera circolazione di tali dati, per i soggetti che interagiscono con covidcert.it ed è raggiungibile all’indirizzo corrispondente alla pagina iniziale: covidcert.it</p>
