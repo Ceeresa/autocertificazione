@@ -1,3 +1,6 @@
+const ANDROID_VIDEO_ID = 'i-8q7lJ_OO8';
+const IOS_VIDEO_ID = 'HThe1aSGOO8';
+
 /**
  * Determine the mobile operating system.
  * This function returns one of 'iOS', 'Android', 'Windows Phone', or 'unknown'.
@@ -25,11 +28,15 @@ function getMobileOperatingSystem() {
 }
 
 $(function(){
-    let videoUrl = 'https://www.youtube.com/embed/A9RT_Zgg8_o?rel=0';
+    let videoUrl = 'https://www.youtube.com/embed/';
     const os = getMobileOperatingSystem();
     if (os === 'iOS') {
-        videoUrl = 'https://www.youtube.com/embed/InJKBiV9LSw?rel=0';
+        videoUrl += IOS_VIDEO_ID;
+    } else {
+        videoUrl += ANDROID_VIDEO_ID;
     }
+
+    videoUrl += '?rel=0';
     $("#guide-url")
         .attr("src", videoUrl)
         .removeClass('d-none');
