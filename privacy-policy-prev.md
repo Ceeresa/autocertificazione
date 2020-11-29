@@ -134,7 +134,7 @@ title: "Informativa privacy (versioni precedenti)"
   </div>
 </section>
 <section>
-  <h1 class="h1-responsive text-center">Informativa Privacy fino al 29/11/2020</h1>
+  <h1 class="h1-responsive text-center">Informativa Privacy fino al 17/11/2020</h1>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.29in; page-break-after: avoid">
   <FONT COLOR="#1f3763"><FONT FACE="Calibri Light, sans-serif"><FONT SIZE=3><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=4 STYLE="font-size: 16pt"><SPAN LANG="it-IT">INFORMATIVA
   SULLA PRIVACY</SPAN></FONT></FONT></FONT></STRONG></FONT></FONT></FONT></P>
