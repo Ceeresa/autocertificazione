@@ -42,6 +42,8 @@ pages_list:
     url: /privacy-policy.html
   - name: Contattaci
     url: /contattaci.html
+  - name: App
+    url: /app.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
