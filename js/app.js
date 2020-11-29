@@ -28,7 +28,7 @@ function getMobileOperatingSystem() {
 }
 
 $(function(){
-    let videoUrl = 'https://www.youtube.com/embed/';
+    let videoUrl = 'https://www.youtube-nocookie.com/embed/';
     const os = getMobileOperatingSystem();
     if (os === 'iOS') {
         videoUrl += IOS_VIDEO_ID;
