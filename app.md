@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "App"
+title: "Mobile App"
 additional_scripts:
     - ./js/app.js
 ---
@@ -10,6 +10,8 @@ additional_scripts:
 <div class="text-justify">
     <p>Vuoi poter accedere all'App direttamente dal tuo cellulare, senza dover aprire il tuo browser? Segui il seguente video e potrai farlo in soli 3 click.</p>
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe id="guide-url" class="embed-responsive-item d-none" allowfullscreen></iframe>
+      <video controls id="video-container">
+        Your browser does not support the video tag.
+      </video>
     </div>
 <div>
