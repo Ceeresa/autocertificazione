@@ -19,8 +19,7 @@ jobs:
         bundle install
         jekyll build
     - name: Checks HTML5
-      uses: Cyb3r-Jak3/html5validator-action@v0.4.2
+      uses: Cyb3r-Jak3/html5validator-action-experimental@v1
       with:
         root: ./_site/
-        extra:
-          - blacklist: googledd725740c84fdc30.html
+        skip: googledd725740c84fdc30.html
