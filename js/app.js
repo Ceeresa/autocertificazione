@@ -1,5 +1,5 @@
-const ANDROID_VIDEO_ID = 'android.mp4';
-const IOS_VIDEO_ID = 'ios.mp4';
+const ANDROID_VIDEO_ID = 'covidcert-app-android.mp4';
+const IOS_VIDEO_ID = 'covidcert-app-iphone.mp4';
 
 /**
  * Determine the mobile operating system.
