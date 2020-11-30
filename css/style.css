@@ -25,6 +25,15 @@
     opacity: .5;
 }
 
+/* Privacy Policy Prev */
+.old-privacy-policy-p {
+    margin-bottom: 0in;
+    line-height: 0.25in;
+    page-break-after: avoid;
+    text-align: justify;
+}
+
+/* Printing stuff */
 @media print {
     @page {
         margin: 0;
