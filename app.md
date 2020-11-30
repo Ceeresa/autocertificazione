@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "App"
+title: "Mobile App"
 additional_scripts:
     - ./js/app.js
 ---
