@@ -121,7 +121,7 @@ additional_scripts:
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="viaResidenza">Via residenza</label>
-                                <input type="text" class="form-control" id="viaResidenza" name="viaResidenza">
+                                <input type="text" class="form-control" id="viaResidenza" name="viaResidenza" maxlength="40">
                             </div>
                         </div>
                         <div class="form-row">
@@ -134,22 +134,22 @@ additional_scripts:
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="provinciaDomicilio">Provincia domicilio</label>
-                                <input type="text" class="form-control" id="provinciaDomicilio" name="provinciaDomicilio">
+                                <input type="text" class="form-control" id="provinciaDomicilio" name="provinciaDomicilio" maxlength="100">
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="viaDomicilio">Via domicilio</label>
-                                <input type="text" class="form-control" id="viaDomicilio" name="viaDomicilio">
+                                <input type="text" class="form-control" id="viaDomicilio" name="viaDomicilio" maxlength="40">
                             </div>
                         </div>
                         <hr>
                         <div class="form-row">
                             <div class="form-group col-md-6">
                                 <label for="indirizzoInizioSpostamento">Indirizzo inizio spostamento</label>
-                                <input type="text" class="form-control" id="indirizzoInizioSpostamento" name="indirizzoInizioSpostamento">
+                                <input type="text" class="form-control" id="indirizzoInizioSpostamento" name="indirizzoInizioSpostamento" maxlength="100">
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="indirizzoDestinazioneSpostamento">Indirizzo destinazione spostamento</label>
-                                <input type="text" class="form-control" id="indirizzoDestinazioneSpostamento" name="indirizzoDestinazioneSpostamento">
+                                <input type="text" class="form-control" id="indirizzoDestinazioneSpostamento" name="indirizzoDestinazioneSpostamento" maxlength="100">
                             </div>
                         </div>
                         <div class="form-row">
@@ -163,13 +163,13 @@ additional_scripts:
                             </div>
                             <div class="form-group col-md-8">
                                 <label for="dettaglioMotivazioneSpostamento">Dettaglio motivazione spostamento</label>
-                                <textarea class="form-control" id="dettaglioMotivazioneSpostamento" name="dettaglioMotivazioneSpostamento"></textarea>
+                                <textarea class="form-control" id="dettaglioMotivazioneSpostamento" name="dettaglioMotivazioneSpostamento" maxlength="100"></textarea>
                             </div>
                         </div>
                         <div class="form-row">
                             <div class="form-group col-md-12">
                                 <label for="dichiarazioniAggiuntive">Dichiarazioni aggiuntive</label>
-                                <textarea class="form-control" id="dichiarazioniAggiuntive" name="dichiarazioniAggiuntive"></textarea>
+                                <textarea class="form-control" id="dichiarazioniAggiuntive" name="dichiarazioniAggiuntive"  maxlength="100"></textarea>
                             </div>
                         </div>
                     </div>

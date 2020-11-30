@@ -36,10 +36,14 @@ pages_list:
     url: /
   - name: Chi siamo
     url: /chi-siamo.html
-  - name: Guida all'uso
-    url: /guida.html
+  - name: Mobile App
+    url: /app.html
+    new: true
   - name: Informativa privacy
     url: /privacy-policy.html
+  - name: Contattaci
+    url: /contattaci.html
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
