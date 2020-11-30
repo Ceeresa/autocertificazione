@@ -1,5 +1,5 @@
-const ANDROID_VIDEO_ID = 'i-8q7lJ_OO8';
-const IOS_VIDEO_ID = 'HThe1aSGOO8';
+const ANDROID_VIDEO_ID = 'covidcert-app-android.mp4';
+const IOS_VIDEO_ID = 'covidcert-app-iphone.mp4';
 
 /**
  * Determine the mobile operating system.
@@ -28,7 +28,7 @@ function getMobileOperatingSystem() {
 }
 
 $(function(){
-    let videoUrl = 'https://www.youtube-nocookie.com/embed/';
+    let videoUrl = './data/video/';
     const os = getMobileOperatingSystem();
     if (os === 'iOS') {
         videoUrl += IOS_VIDEO_ID;
@@ -36,8 +36,8 @@ $(function(){
         videoUrl += ANDROID_VIDEO_ID;
     }
 
-    videoUrl += '?rel=0';
-    $("#guide-url")
-        .attr("src", videoUrl)
-        .removeClass('d-none');
+    jQuery('<source/>', {
+        src: videoUrl,
+        type: "video/mp4"
+    }).appendTo('#video-container');
 });
