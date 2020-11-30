@@ -136,10 +136,10 @@ title: "Informativa privacy (versioni precedenti)"
 <section>
   <h1 class="h1-responsive text-center">Informativa Privacy fino al 17/11/2020</h1>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.29in; page-break-after: avoid">
-  <FONT COLOR="#1f3763"><FONT FACE="Calibri Light, sans-serif"><FONT SIZE=3><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=4 STYLE="font-size: 16pt"><SPAN LANG="it-IT">INFORMATIVA
+  <FONT COLOR="#1f3763"><FONT FACE="Calibri Light, sans-serif"><FONT SIZE=3><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=4 STYLE="font-size: 16pt"><SPAN>INFORMATIVA
   SULLA PRIVACY</SPAN></FONT></FONT></FONT></STRONG></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">I
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>I
   &ndash;INFORMAZIONI RELATIVE ALLA PRIVACY POLICY DEL SITO</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -182,10 +182,10 @@ title: "Informativa privacy (versioni precedenti)"
   consenso attraverso l&rsquo;autorizzazione dei genitori o di chi ne
   fa le veci.</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">II-
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>II-
   TRATTAMENTO DEI DATI</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">1.
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>1.
   Titolare dei dati</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -201,7 +201,7 @@ title: "Informativa privacy (versioni precedenti)"
   per ogni chiarimento o esercizio dei diritti dell&rsquo;utente potr&agrave;
   contattarli al seguente indirizzo mail: dpo@covidcert.it</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">2.
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>2.
   Responsabile del trattamento dei dati</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -216,7 +216,7 @@ title: "Informativa privacy (versioni precedenti)"
   del sito covidcert.it sono Maurizio Molle, Davide Pastore e Sergio
   Tarantino</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">3.
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>3.
   Luogo trattamento dati</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -229,10 +229,10 @@ title: "Informativa privacy (versioni precedenti)"
   possono essere trattati dal responsabile del trattamento o soggetti
   dati esso incaricati a tal fine presso la relativa sede.</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">III
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>III
   &ndash; COOKIES</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">1.
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>1.
   Tipo di cookies</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -264,7 +264,7 @@ title: "Informativa privacy (versioni precedenti)"
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>Di
   seguito le tipologie di cookies di cui il sito fa uso:</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">2.
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>2.
   Cookies tecnici</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -319,7 +319,7 @@ title: "Informativa privacy (versioni precedenti)"
   costituiti da numeri casuali generati dal server necessari per
   consentire l&rsquo;esplorazione sicura ed efficiente del sito.</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">3.
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>3.
   Cookies di terze parti</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -358,7 +358,7 @@ title: "Informativa privacy (versioni precedenti)"
   indicazioni per gestire o disabilitare i cookies pubblicate nelle
   relative pagine web.</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">4.Cookies
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>4.Cookies
   di profilazione</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -375,10 +375,10 @@ title: "Informativa privacy (versioni precedenti)"
   Si applicher&agrave; l&rsquo;articolo 22 del Regolamento UE 2016/679
   e l&rsquo;articolo 122 del Codice in materia di protezione dei dati.</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">IV-
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>IV-
   DATI TRATTATI</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">1.Modalit&agrave;
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>1.Modalit&agrave;
   trattamento dati</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -388,27 +388,27 @@ title: "Informativa privacy (versioni precedenti)"
   raccolte potrebbero essere le seguenti:</I></FONT></FONT></FONT></P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Indirizzo
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Indirizzo
   internet protocol (IP);</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Tipo
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Tipo
   di browser e parametri del dispositivo usato per connettersi al sito;</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Nome
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Nome
   dell&rsquo;internet service provider (ISP);</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Data
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Data
   e orario di visita;</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Pagina
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Pagina
   web di provenienza del visitatore (referal) e di uscita;</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Eventualmente
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Eventualmente
   il numero di click.</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>2.
@@ -455,7 +455,7 @@ title: "Informativa privacy (versioni precedenti)"
   l&rsquo;immissione di dati personali di terzi o di contenuti tutelati
   dalle norme nazionali ed internazionali.</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">2.Finalit&agrave;
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>2.Finalit&agrave;
   del trattamento dati</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -469,7 +469,7 @@ title: "Informativa privacy (versioni precedenti)"
   danneggiamento del sito) sono conservati per il tempo strettamente
   necessario al raggiungimento del fine anteriormente indicato.</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">3.Dati
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>3.Dati
   forniti dall&rsquo;utente</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -484,7 +484,7 @@ title: "Informativa privacy (versioni precedenti)"
   o visualizzate nelle pagine del sito predisposte per particolari
   servizi a richiesta.</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">4.Supporto
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>4.Supporto
   nella configurazione del proprio browser</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -496,32 +496,32 @@ title: "Informativa privacy (versioni precedenti)"
   utilizzando:</I></FONT></FONT></FONT></P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Internet
-  explorer<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT"><U>http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Internet
+  explorer<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT></I></FONT></FONT>
   </P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Firefox<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT"><U>https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Firefox<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT></I></FONT></FONT>
   </P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Safari<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="http://www.apple.com/legal/privacy/it/"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT"><U>http://www.apple.com/legal/privacy/it/</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Safari<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="http://www.apple.com/legal/privacy/it/"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>http://www.apple.com/legal/privacy/it/</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT></I></FONT></FONT>
   </P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Chrome<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="https://support.google.com/accounts/answer/61416?hl=it"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT"><U>https://support.google.com/accounts/answer/61416?hl=it</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Chrome<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="https://support.google.com/accounts/answer/61416?hl=it"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>https://support.google.com/accounts/answer/61416?hl=it</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT></I></FONT></FONT>
   </P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Opera<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="http://www.opera.com/help/tutorials/security/cookies/"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT"><U>http://www.opera.com/help/tutorials/security/cookies/</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Opera<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="http://www.opera.com/help/tutorials/security/cookies/"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>http://www.opera.com/help/tutorials/security/cookies/</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT></I></FONT></FONT>
   </P>
   <P STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">5.Plugin
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>5.Plugin
   Social Network</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -543,12 +543,12 @@ title: "Informativa privacy (versioni precedenti)"
   network, alle quali si prega di fare riferimento:</I></FONT></FONT></FONT></P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Facebook<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="https://www.facebook.com/help/cookies"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT"><U>https://www.facebook.com/help/cookies</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Facebook<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="https://www.facebook.com/help/cookies"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>https://www.facebook.com/help/cookies</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT></I></FONT></FONT>
   </P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">Twitter<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT"><U>https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Twitter<BR></SPAN></FONT></FONT></FONT><A CLASS="western" HREF="https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT></I></FONT></FONT>
   </P>
   <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
@@ -573,7 +573,7 @@ title: "Informativa privacy (versioni precedenti)"
   </FONT></FONT></FONT></I></FONT></FONT>
   </P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">V-
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>V-
   DIRITTI DELL&rsquo;UTENTE</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -585,7 +585,7 @@ title: "Informativa privacy (versioni precedenti)"
   sull&rsquo;esistenza:</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">del
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>del
   diritto dell&rsquo;interessato di chiedere al titolare l&rsquo;accesso
   ai dati personali (art. 15 Regolamento UE), il loro aggiornamento
   (art. 7, co. 3, lett. a del D.lgs 196/2003), la rettifica (art. 16
@@ -596,7 +596,7 @@ title: "Informativa privacy (versioni precedenti)"
   portabilit&agrave; dei dati (art. 20 Regolamento UE);</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">del
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>del
   diritto di chiedere la cancellazione (art. 17 Regolamento UE), la
   trasformazione in forma anonima o il blocco dei dati trattati in
   violazione di legge, compresi quelli di cui non &egrave; necessaria
@@ -605,7 +605,7 @@ title: "Informativa privacy (versioni precedenti)"
   D.lgs. 196/2003);</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">del
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>del
   diritto di ottenere l&rsquo;attestazione che le operazioni di
   aggiornamento, rettificazione, integrazione dei dati, cancellazione,
   blocco dei dati, trasformazione, sono state portate a conoscenza,
@@ -644,7 +644,7 @@ title: "Informativa privacy (versioni precedenti)"
   competono, si vedano gli artt. 15 e ss. Del Regolamento UE 2016/679 e
   l&rsquo;art. 7 del D.lgs. 196/2003.</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">VI
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>VI
   &ndash; ADEMPIMENTI</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -652,12 +652,12 @@ title: "Informativa privacy (versioni precedenti)"
   intende procedere, solo se il trattamento riguarda:</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">dati
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   genetici, biometrici o dati che indicano la posizione geografica di
   persone od oggetti mediante una rete di comunicazione elettronica;</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">dati
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   idonei a rivelare lo stato di salute e la vita sessuale, trattati ai
   fini di procreazione assistita, prestazione di servizi sanitari per
   via telematica relativi a banche di dati o alla fornitura di beni,
@@ -666,14 +666,14 @@ title: "Informativa privacy (versioni precedenti)"
   monitoraggio della spesa sanitaria;</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">dati
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   idonei a rivelare la vita sessuale o la sfera psichica, trattati da
   associazioni, enti ed organismi senza scopo di lucro, anche non
   riconosciuti, a carattere politico, filosofico, religioso o
   sindacale;</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">dati
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   trattati con l&rsquo;ausilio di strumenti elettronici volti a
   definire il profilo o la personalit&agrave; dell&rsquo;interessato o
   ad analizzare abitudini e scelte di consumo ovvero a monitorare
@@ -682,20 +682,20 @@ title: "Informativa privacy (versioni precedenti)"
   servizi medesimi agli utenti;</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">dati
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   sensibili registrati in banche di dati a fini di selezione del
   personale per conto terzi nonch&eacute; dati sensibili utilizzati per
   sondaggi di opinione, ricerche di mercato ed altre ricerche
   campionarie;</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#2f5496"><FONT COLOR="#222222">&ndash;</FONT><FONT COLOR="#222222">&nbsp;&nbsp;&nbsp;&nbsp;
-  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">dati
+  </FONT><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   registrati in apposite banche dati gestite con strumenti elettronici
   e relative al rischio sulla solvibilit&agrave; economica, alla
   situazione patrimoniale, al corretto adempimento di obbligazioni, a
   comportamenti illeciti o fraudolenti.</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">VI
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>VI
   &ndash; SICUREZZA DEI DATI FORNITI</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>1.
@@ -715,12 +715,12 @@ title: "Informativa privacy (versioni precedenti)"
   fornitori di servizi tecnici terzi, corrieri postali, hosting
   provider, societ&agrave; informatiche, agenzie di comunicazione).</I></FONT></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN LANG="it-IT">VIII
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><STRONG CLASS="western"><FONT COLOR="#222222"><FONT FACE="inherit, Calibri"><FONT SIZE=3 STYLE="font-size: 13pt"><SPAN>VIII
   &ndash; MODIFICHE AL PRESENTE DOCUMENTO</SPAN></FONT></FONT></FONT></STRONG></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
-  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">1.
+  <FONT COLOR="#2f5496"><FONT FACE="Calibri Light, sans-serif"><I><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>1.
   Il presente documento, pubblicato all&rsquo;indirizzo:
-  </SPAN></FONT></FONT></FONT><A CLASS="western" HREF="https://covidcert.it/privacy-policy.html"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT"><U>https://covidcert.it/privacy-policy.html</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN LANG="it-IT">
+  </SPAN></FONT></FONT></FONT><A CLASS="western" HREF="https://covidcert.it/privacy-policy.html"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>https://covidcert.it/privacy-policy.html</U></SPAN></FONT></FONT></FONT></A><FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   costituisce la privacy policy di questo sito.</SPAN></FONT></FONT></FONT></I></FONT></FONT></P>
   <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   <FONT COLOR="#222222"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><I>2.
