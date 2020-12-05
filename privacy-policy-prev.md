@@ -136,11 +136,11 @@ title: "Informativa privacy (versioni precedenti)"
 <section>
   <h1 class="h1-responsive text-center">Informativa Privacy fino al 17/11/2020</h1>
   <P class="old-privacy-policy-p" STYLE="line-height: 0.29in;">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 16pt;">INFORMATIVA
-  SULLA PRIVACY</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 16pt;">INFORMATIVA
+  SULLA PRIVACY</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">I
-  &ndash;INFORMAZIONI RELATIVE ALLA PRIVACY POLICY DEL SITO</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">I
+  &ndash;INFORMAZIONI RELATIVE ALLA PRIVACY POLICY DEL SITO</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   In questa sezione sono contenute le informazioni relative alle
@@ -182,11 +182,11 @@ title: "Informativa privacy (versioni precedenti)"
   consenso attraverso l&rsquo;autorizzazione dei genitori o di chi ne
   fa le veci.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">II-
-  TRATTAMENTO DEI DATI</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">II-
+  TRATTAMENTO DEI DATI</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">1.
-  Titolare dei dati</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">1.
+  Titolare dei dati</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il titolare del trattamento &egrave; la persona fisica o giuridica,
@@ -201,8 +201,8 @@ title: "Informativa privacy (versioni precedenti)"
   per ogni chiarimento o esercizio dei diritti dell&rsquo;utente potr&agrave;
   contattarli al seguente indirizzo mail: dpo@covidcert.it</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">2.
-  Responsabile del trattamento dei dati</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">2.
+  Responsabile del trattamento dei dati</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il responsabile del trattamento &egrave; la persona fisica o
@@ -216,8 +216,8 @@ title: "Informativa privacy (versioni precedenti)"
   del sito covidcert.it sono Maurizio Molle, Davide Pastore e Sergio
   Tarantino</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">3.
-  Luogo trattamento dati</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">3.
+  Luogo trattamento dati</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il trattamento dei dati generato dall&rsquo;utilizzo di covidcert.it
@@ -229,11 +229,11 @@ title: "Informativa privacy (versioni precedenti)"
   possono essere trattati dal responsabile del trattamento o soggetti
   dati esso incaricati a tal fine presso la relativa sede.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">III
-  &ndash; COOKIES</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">III
+  &ndash; COOKIES</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">1.
-  Tipo di cookies</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">1.
+  Tipo di cookies</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il sito covidcert.it utilizza cookies per rendere l&rsquo;esperienza
@@ -264,8 +264,8 @@ title: "Informativa privacy (versioni precedenti)"
   <FONT FACE="Arial, sans-serif" SIZE=3>Di
   seguito le tipologie di cookies di cui il sito fa uso:</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">2.
-  Cookies tecnici</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">2.
+  Cookies tecnici</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Ci sono numerose tecnologie usate per conservare informazioni nel
@@ -319,8 +319,8 @@ title: "Informativa privacy (versioni precedenti)"
   costituiti da numeri casuali generati dal server necessari per
   consentire l&rsquo;esplorazione sicura ed efficiente del sito.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">3.
-  Cookies di terze parti</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">3.
+  Cookies di terze parti</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   In relazione alla provenienza si distinguono i cookies inviati al
@@ -358,8 +358,8 @@ title: "Informativa privacy (versioni precedenti)"
   indicazioni per gestire o disabilitare i cookies pubblicate nelle
   relative pagine web.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">4.Cookies
-  di profilazione</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">4.Cookies
+  di profilazione</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Sono cookies di profilazione quello a creare profili all&rsquo;utente
@@ -375,11 +375,11 @@ title: "Informativa privacy (versioni precedenti)"
   Si applicher&agrave; l&rsquo;articolo 22 del Regolamento UE 2016/679
   e l&rsquo;articolo 122 del Codice in materia di protezione dei dati.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">IV-
-  DATI TRATTATI</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">IV-
+  DATI TRATTATI</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">1.Modalit&agrave;
-  trattamento dati</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">1.Modalit&agrave;
+  trattamento dati</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Come tutti i siti web anche il presente sito fa uso di log files nei
@@ -388,28 +388,28 @@ title: "Informativa privacy (versioni precedenti)"
   raccolte potrebbero essere le seguenti:</FONT></P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Indirizzo
-  internet protocol (IP);</SPAN></FONT></FONT></P>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Indirizzo
+  internet protocol (IP);</SPAN></FONT></P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Tipo
-  di browser e parametri del dispositivo usato per connettersi al sito;</SPAN></FONT></FONT></P>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Tipo
+  di browser e parametri del dispositivo usato per connettersi al sito;</SPAN></FONT></P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Nome
-  dell&rsquo;internet service provider (ISP);</SPAN></FONT></FONT></P>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Nome
+  dell&rsquo;internet service provider (ISP);</SPAN></FONT></P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Data
-  e orario di visita;</SPAN></FONT></FONT></P>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Data
+  e orario di visita;</SPAN></FONT></P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Pagina
-  web di provenienza del visitatore (referal) e di uscita;</SPAN></FONT></FONT></P>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Pagina
+  web di provenienza del visitatore (referal) e di uscita;</SPAN></FONT></P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Eventualmente
-  il numero di click.</SPAN></FONT></FONT></P>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Eventualmente
+  il numero di click.</SPAN></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>2.
   Le suddette informazioni sono test rate in forma automatizzata e
@@ -455,8 +455,8 @@ title: "Informativa privacy (versioni precedenti)"
   l&rsquo;immissione di dati personali di terzi o di contenuti tutelati
   dalle norme nazionali ed internazionali.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">2.Finalit&agrave;
-  del trattamento dati</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">2.Finalit&agrave;
+  del trattamento dati</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   I dati raccolti dal sito durante il suo funzionamento sono utilizzati
@@ -469,8 +469,8 @@ title: "Informativa privacy (versioni precedenti)"
   danneggiamento del sito) sono conservati per il tempo strettamente
   necessario al raggiungimento del fine anteriormente indicato.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">3.Dati
-  forniti dall&rsquo;utente</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">3.Dati
+  forniti dall&rsquo;utente</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Come sopra indicato, l&rsquo;invio facoltativo, esplicito e
@@ -484,8 +484,8 @@ title: "Informativa privacy (versioni precedenti)"
   o visualizzate nelle pagine del sito predisposte per particolari
   servizi a richiesta.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">4.Supporto
-  nella configurazione del proprio browser</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">4.Supporto
+  nella configurazione del proprio browser</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   L&rsquo;utente pu&ograve; gestire i cookies anche attraverso le
@@ -496,33 +496,33 @@ title: "Informativa privacy (versioni precedenti)"
   utilizzando:</FONT></P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Internet
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Internet
   explorer<BR></SPAN></FONT><A HREF="http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
-  </SPAN></FONT></FONT>
+  </SPAN></FONT>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Firefox<BR></SPAN></FONT><A HREF="https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
-  </SPAN></FONT></FONT>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Firefox<BR></SPAN></FONT><A HREF="https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
+  </SPAN></FONT>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Safari<BR></SPAN></FONT><A HREF="http://www.apple.com/legal/privacy/it/"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>http://www.apple.com/legal/privacy/it/</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
-  </SPAN></FONT></FONT>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Safari<BR></SPAN></FONT><A HREF="http://www.apple.com/legal/privacy/it/"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>http://www.apple.com/legal/privacy/it/</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
+  </SPAN></FONT>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Chrome<BR></SPAN></FONT><A HREF="https://support.google.com/accounts/answer/61416?hl=it"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>https://support.google.com/accounts/answer/61416?hl=it</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
-  </SPAN></FONT></FONT>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Chrome<BR></SPAN></FONT><A HREF="https://support.google.com/accounts/answer/61416?hl=it"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>https://support.google.com/accounts/answer/61416?hl=it</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
+  </SPAN></FONT>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Opera<BR></SPAN></FONT><A HREF="http://www.opera.com/help/tutorials/security/cookies/"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>http://www.opera.com/help/tutorials/security/cookies/</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
-  </SPAN></FONT></FONT>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Opera<BR></SPAN></FONT><A HREF="http://www.opera.com/help/tutorials/security/cookies/"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>http://www.opera.com/help/tutorials/security/cookies/</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
+  </SPAN></FONT>
   </P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">5.Plugin
-  Social Network</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">5.Plugin
+  Social Network</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il presente sito incorpora anche plugin e/o bottoni per i social
@@ -543,38 +543,38 @@ title: "Informativa privacy (versioni precedenti)"
   network, alle quali si prega di fare riferimento:</FONT></P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Facebook<BR></SPAN></FONT><A HREF="https://www.facebook.com/help/cookies"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><SPAN><U>https://www.facebook.com/help/cookies</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
-  </SPAN></FONT></FONT>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Facebook<BR></SPAN></FONT><A HREF="https://www.facebook.com/help/cookies"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><SPAN><U>https://www.facebook.com/help/cookies</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
+  </SPAN></FONT>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Twitter<BR></SPAN></FONT><A HREF="https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
-  </SPAN></FONT></FONT>
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>Twitter<BR></SPAN></FONT><A HREF="https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
+  </SPAN></FONT>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3>Google
+  <FONT FACE="Arial, sans-serif" SIZE=3>Google
   +<BR></FONT><A HREF="http://www.google.com/polices/techonologies/cookies"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><U>http://www.google.com/polices/techonologies/cookies</U></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3>
-  </FONT></FONT>
+  </FONT>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3>Pinterest<BR></FONT><A HREF="https://about.pinterest.com/it/privacy-policy"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><U>https://about.pinterest.com/it/privacy-policy</U></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3>
-  </FONT></FONT>
+  <FONT FACE="Arial, sans-serif" SIZE=3>Pinterest<BR></FONT><A HREF="https://about.pinterest.com/it/privacy-policy"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><U>https://about.pinterest.com/it/privacy-policy</U></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3>
+  </FONT>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3>AddThis<BR></FONT><A HREF="http://www.addthis.com/privacy/privacy-policy"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><U>http://www.addthis.com/privacy/privacy-policy</U></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3>
-  </FONT></FONT>
+  <FONT FACE="Arial, sans-serif" SIZE=3>AddThis<BR></FONT><A HREF="http://www.addthis.com/privacy/privacy-policy"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><U>http://www.addthis.com/privacy/privacy-policy</U></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3>
+  </FONT>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3>Linkedin<BR></FONT><A HREF="https://www.linkedin.com/legal/cookie/policy"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><U>https://www.linkedin.com/legal/cookie/policy</U></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3>
-  </FONT></FONT>
+  <FONT FACE="Arial, sans-serif" SIZE=3>Linkedin<BR></FONT><A HREF="https://www.linkedin.com/legal/cookie/policy"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><U>https://www.linkedin.com/legal/cookie/policy</U></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3>
+  </FONT>
   </P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">V-
-  DIRITTI DELL&rsquo;UTENTE</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">V-
+  DIRITTI DELL&rsquo;UTENTE</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif">1.
   L&rsquo;art. 13 co. 2 del Regolamento UE del 2016/679 elenca i
@@ -585,7 +585,7 @@ title: "Informativa privacy (versioni precedenti)"
   sull&rsquo;esistenza:</FONT></P>
   <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>del
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>del
   diritto dell&rsquo;interessato di chiedere al titolare l&rsquo;accesso
   ai dati personali (art. 15 Regolamento UE), il loro aggiornamento
   (art. 7, co. 3, lett. a del D.lgs 196/2003), la rettifica (art. 16
@@ -593,19 +593,19 @@ title: "Informativa privacy (versioni precedenti)"
   196/2003), la limitazione del trattamento che lo riguardino (art. 18
   Regolamento UE) o di opporsi, per motivi legittimi, al loro
   trattamento (art. 21 Regolamento UE), oltre al diritto alla
-  portabilit&agrave; dei dati (art. 20 Regolamento UE);</SPAN></FONT></FONT></P>
+  portabilit&agrave; dei dati (art. 20 Regolamento UE);</SPAN></FONT></P>
   <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>del
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>del
   diritto di chiedere la cancellazione (art. 17 Regolamento UE), la
   trasformazione in forma anonima o il blocco dei dati trattati in
   violazione di legge, compresi quelli di cui non &egrave; necessaria
   la conservazione in relazione agli scopi per i quali i dati sono
   stati raccolti o successivamente trattati (art. 7 co. 3, lett. b del
-  D.lgs. 196/2003);</SPAN></FONT></FONT></P>
+  D.lgs. 196/2003);</SPAN></FONT></P>
   <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>del
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>del
   diritto di ottenere l&rsquo;attestazione che le operazioni di
   aggiornamento, rettificazione, integrazione dei dati, cancellazione,
   blocco dei dati, trasformazione, sono state portate a conoscenza,
@@ -613,7 +613,7 @@ title: "Informativa privacy (versioni precedenti)"
   dati sono stati comunicati o diffusi, eccettuato il caso in cui tale
   adempimento si rivela impossibile o comporta un impiego di mezzi
   manifestamente sproporzionato rispetto al diritto tutelato (art. 7
-  co. 3, lett. c del D.lgs 196/2003).</SPAN></FONT></FONT></P>
+  co. 3, lett. c del D.lgs 196/2003).</SPAN></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>3.
   Le richieste possono essere indirizzate al titolare del trattamento
@@ -644,59 +644,59 @@ title: "Informativa privacy (versioni precedenti)"
   competono, si vedano gli artt. 15 e ss. Del Regolamento UE 2016/679 e
   l&rsquo;art. 7 del D.lgs. 196/2003.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">VI
-  &ndash; ADEMPIMENTI</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">VI
+  &ndash; ADEMPIMENTI</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il titolare notifica al Garante il trattamento di dati personali cui
   intende procedere, solo se il trattamento riguarda:</FONT></P>
   <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
   genetici, biometrici o dati che indicano la posizione geografica di
-  persone od oggetti mediante una rete di comunicazione elettronica;</SPAN></FONT></FONT></P>
+  persone od oggetti mediante una rete di comunicazione elettronica;</SPAN></FONT></P>
   <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
   idonei a rivelare lo stato di salute e la vita sessuale, trattati ai
   fini di procreazione assistita, prestazione di servizi sanitari per
   via telematica relativi a banche di dati o alla fornitura di beni,
   indagini epidemiologiche, rilevazione di malattie mentali, infettive
   e diffusive, sieropositivit&agrave;, trapianto di organi e tessuti e
-  monitoraggio della spesa sanitaria;</SPAN></FONT></FONT></P>
+  monitoraggio della spesa sanitaria;</SPAN></FONT></P>
   <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
   idonei a rivelare la vita sessuale o la sfera psichica, trattati da
   associazioni, enti ed organismi senza scopo di lucro, anche non
   riconosciuti, a carattere politico, filosofico, religioso o
-  sindacale;</SPAN></FONT></FONT></P>
+  sindacale;</SPAN></FONT></P>
   <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
   trattati con l&rsquo;ausilio di strumenti elettronici volti a
   definire il profilo o la personalit&agrave; dell&rsquo;interessato o
   ad analizzare abitudini e scelte di consumo ovvero a monitorare
   l&rsquo;utilizzo di servizi di comunicazione elettronica con
   esclusione dei trattamenti tecnicamente indispensabili per fornire i
-  servizi medesimi agli utenti;</SPAN></FONT></FONT></P>
+  servizi medesimi agli utenti;</SPAN></FONT></P>
   <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
   sensibili registrati in banche di dati a fini di selezione del
   personale per conto terzi nonch&eacute; dati sensibili utilizzati per
   sondaggi di opinione, ricerche di mercato ed altre ricerche
-  campionarie;</SPAN></FONT></FONT></P>
+  campionarie;</SPAN></FONT></P>
   <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>dati
   registrati in apposite banche dati gestite con strumenti elettronici
   e relative al rischio sulla solvibilit&agrave; economica, alla
   situazione patrimoniale, al corretto adempimento di obbligazioni, a
-  comportamenti illeciti o fraudolenti.</SPAN></FONT></FONT></P>
+  comportamenti illeciti o fraudolenti.</SPAN></FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">VI
-  &ndash; SICUREZZA DEI DATI FORNITI</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">VI
+  &ndash; SICUREZZA DEI DATI FORNITI</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il presente sito tratta i dati degli utenti in maniera lecita e
@@ -715,13 +715,13 @@ title: "Informativa privacy (versioni precedenti)"
   fornitori di servizi tecnici terzi, corrieri postali, hosting
   provider, societ&agrave; informatiche, agenzie di comunicazione).</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">VIII
-  &ndash; MODIFICHE AL PRESENTE DOCUMENTO</SPAN></STRONG></FONT></P>
+  <STRONG><SPAN STYLE="font-size: 13pt">VIII
+  &ndash; MODIFICHE AL PRESENTE DOCUMENTO</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>1.
+  <FONT FACE="Arial, sans-serif" SIZE=3><SPAN>1.
   Il presente documento, pubblicato all&rsquo;indirizzo:
   </SPAN></FONT><A HREF="https://covidcert.it/privacy-policy.html"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN><U>https://covidcert.it/privacy-policy.html</U></SPAN></FONT></FONT></A><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>
-  costituisce la privacy policy di questo sito.</SPAN></FONT></FONT></P>
+  costituisce la privacy policy di questo sito.</SPAN></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>2.
   Esso pu&ograve; essere soggetto a modifiche o aggiornamenti. Qualora
