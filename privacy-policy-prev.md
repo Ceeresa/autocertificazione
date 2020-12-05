@@ -386,27 +386,27 @@ title: "Informativa privacy (versioni precedenti)"
   quali vengono conservate informazioni raccolte in maniera
   automatizzata durante le visite degli utenti. Le informazioni
   raccolte potrebbero essere le seguenti:</FONT></FONT></P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Indirizzo
   internet protocol (IP);</SPAN></FONT></FONT></FONT></P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Tipo
   di browser e parametri del dispositivo usato per connettersi al sito;</SPAN></FONT></FONT></FONT></P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Nome
   dell&rsquo;internet service provider (ISP);</SPAN></FONT></FONT></FONT></P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Data
   e orario di visita;</SPAN></FONT></FONT></FONT></P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Pagina
   web di provenienza del visitatore (referal) e di uscita;</SPAN></FONT></FONT></FONT></P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Eventualmente
   il numero di click.</SPAN></FONT></FONT></FONT></P>
@@ -494,28 +494,28 @@ title: "Informativa privacy (versioni precedenti)"
   sito. Per ulteriori informazioni e supporto &egrave; possible anche
   visitare la pagina di aiuto specifica del web browser che si sta
   utilizzando:</FONT></FONT></P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Internet
   explorer<BR></SPAN></FONT></FONT><A HREF="http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies</U></SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT>
   </P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Firefox<BR></SPAN></FONT></FONT><A HREF="https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences</U></SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT>
   </P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Safari<BR></SPAN></FONT></FONT><A HREF="http://www.apple.com/legal/privacy/it/"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>http://www.apple.com/legal/privacy/it/</U></SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT>
   </P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Chrome<BR></SPAN></FONT></FONT><A HREF="https://support.google.com/accounts/answer/61416?hl=it"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>https://support.google.com/accounts/answer/61416?hl=it</U></SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT>
   </P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Opera<BR></SPAN></FONT></FONT><A HREF="http://www.opera.com/help/tutorials/security/cookies/"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>http://www.opera.com/help/tutorials/security/cookies/</U></SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT>
@@ -541,33 +541,33 @@ title: "Informativa privacy (versioni precedenti)"
   La raccolta e l&rsquo;uso delle informazioni ottenute a mezzo del
   plugin sono regolati dalle rispettive informative privacy dei social
   network, alle quali si prega di fare riferimento:</FONT></FONT></P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Facebook<BR></SPAN></FONT></FONT><A HREF="https://www.facebook.com/help/cookies"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>https://www.facebook.com/help/cookies</U></SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT>
   </P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>Twitter<BR></SPAN></FONT></FONT><A HREF="https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN><U>https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter</U></SPAN></FONT></FONT></FONT></A><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>
   </SPAN></FONT></FONT></FONT>
   </P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3>Google
   +<BR></FONT></FONT><A HREF="http://www.google.com/polices/techonologies/cookies"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><U>http://www.google.com/polices/techonologies/cookies</U></FONT></FONT></FONT></A><FONT FACE="Arial, sans-serif"><FONT SIZE=3>
   </FONT></FONT></FONT>
   </P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3>Pinterest<BR></FONT></FONT><A HREF="https://about.pinterest.com/it/privacy-policy"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><U>https://about.pinterest.com/it/privacy-policy</U></FONT></FONT></FONT></A><FONT FACE="Arial, sans-serif"><FONT SIZE=3>
   </FONT></FONT></FONT>
   </P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3>AddThis<BR></FONT></FONT><A HREF="http://www.addthis.com/privacy/privacy-policy"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><U>http://www.addthis.com/privacy/privacy-policy</U></FONT></FONT></FONT></A><FONT FACE="Arial, sans-serif"><FONT SIZE=3>
   </FONT></FONT></FONT>
   </P>
-  <P STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3>Linkedin<BR></FONT></FONT><A HREF="https://www.linkedin.com/legal/cookie/policy"><FONT COLOR="#0000ff"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><U>https://www.linkedin.com/legal/cookie/policy</U></FONT></FONT></FONT></A><FONT FACE="Arial, sans-serif"><FONT SIZE=3>
   </FONT></FONT></FONT>
@@ -583,7 +583,7 @@ title: "Informativa privacy (versioni precedenti)"
   <FONT FACE="Arial, sans-serif"><FONT SIZE=3>2.
   Il presente sito covidcert.it intende, pertanto, informare l&rsquo;utente
   sull&rsquo;esistenza:</FONT></FONT></P>
-  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>del
   diritto dell&rsquo;interessato di chiedere al titolare l&rsquo;accesso
@@ -594,7 +594,7 @@ title: "Informativa privacy (versioni precedenti)"
   Regolamento UE) o di opporsi, per motivi legittimi, al loro
   trattamento (art. 21 Regolamento UE), oltre al diritto alla
   portabilit&agrave; dei dati (art. 20 Regolamento UE);</SPAN></FONT></FONT></FONT></P>
-  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>del
   diritto di chiedere la cancellazione (art. 17 Regolamento UE), la
@@ -603,7 +603,7 @@ title: "Informativa privacy (versioni precedenti)"
   la conservazione in relazione agli scopi per i quali i dati sono
   stati raccolti o successivamente trattati (art. 7 co. 3, lett. b del
   D.lgs. 196/2003);</SPAN></FONT></FONT></FONT></P>
-  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>del
   diritto di ottenere l&rsquo;attestazione che le operazioni di
@@ -650,12 +650,12 @@ title: "Informativa privacy (versioni precedenti)"
   <FONT FACE="Arial, sans-serif"><FONT SIZE=3>1.
   Il titolare notifica al Garante il trattamento di dati personali cui
   intende procedere, solo se il trattamento riguarda:</FONT></FONT></P>
-  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   genetici, biometrici o dati che indicano la posizione geografica di
   persone od oggetti mediante una rete di comunicazione elettronica;</SPAN></FONT></FONT></FONT></P>
-  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   idonei a rivelare lo stato di salute e la vita sessuale, trattati ai
@@ -664,14 +664,14 @@ title: "Informativa privacy (versioni precedenti)"
   indagini epidemiologiche, rilevazione di malattie mentali, infettive
   e diffusive, sieropositivit&agrave;, trapianto di organi e tessuti e
   monitoraggio della spesa sanitaria;</SPAN></FONT></FONT></FONT></P>
-  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   idonei a rivelare la vita sessuale o la sfera psichica, trattati da
   associazioni, enti ed organismi senza scopo di lucro, anche non
   riconosciuti, a carattere politico, filosofico, religioso o
   sindacale;</SPAN></FONT></FONT></FONT></P>
-  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   trattati con l&rsquo;ausilio di strumenti elettronici volti a
@@ -680,14 +680,14 @@ title: "Informativa privacy (versioni precedenti)"
   l&rsquo;utilizzo di servizi di comunicazione elettronica con
   esclusione dei trattamenti tecnicamente indispensabili per fornire i
   servizi medesimi agli utenti;</SPAN></FONT></FONT></FONT></P>
-  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   sensibili registrati in banche di dati a fini di selezione del
   personale per conto terzi nonch&eacute; dati sensibili utilizzati per
   sondaggi di opinione, ricerche di mercato ed altre ricerche
   campionarie;</SPAN></FONT></FONT></FONT></P>
-  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   registrati in apposite banche dati gestite con strumenti elettronici
