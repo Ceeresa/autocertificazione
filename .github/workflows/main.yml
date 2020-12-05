@@ -35,7 +35,7 @@ jobs:
   web-deploy:
     name: 🎉 Deploy website on push
     needs: html-check
-    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && needs.test.result == 'success'
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
     - name: 📂 Sync files
