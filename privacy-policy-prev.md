@@ -135,7 +135,7 @@ title: "Informativa privacy (versioni precedenti)"
 </section>
 <section>
   <h1 class="h1-responsive text-center">Informativa Privacy fino al 17/11/2020</h1>
-  <P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 0.29in; page-break-after: avoid">
+  <P class="text-justify" STYLE="margin-bottom: 0in; line-height: 0.29in; page-break-after: avoid">
   <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><FONT SIZE=4 STYLE="font-size: 16pt"><SPAN>INFORMATIVA
   SULLA PRIVACY</SPAN></FONT></FONT></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
@@ -583,7 +583,7 @@ title: "Informativa privacy (versioni precedenti)"
   <FONT FACE="Arial, sans-serif"><FONT SIZE=3>2.
   Il presente sito covidcert.it intende, pertanto, informare l&rsquo;utente
   sull&rsquo;esistenza:</FONT></FONT></P>
-  <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>del
   diritto dell&rsquo;interessato di chiedere al titolare l&rsquo;accesso
@@ -594,7 +594,7 @@ title: "Informativa privacy (versioni precedenti)"
   Regolamento UE) o di opporsi, per motivi legittimi, al loro
   trattamento (art. 21 Regolamento UE), oltre al diritto alla
   portabilit&agrave; dei dati (art. 20 Regolamento UE);</SPAN></FONT></FONT></FONT></P>
-  <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>del
   diritto di chiedere la cancellazione (art. 17 Regolamento UE), la
@@ -603,7 +603,7 @@ title: "Informativa privacy (versioni precedenti)"
   la conservazione in relazione agli scopi per i quali i dati sono
   stati raccolti o successivamente trattati (art. 7 co. 3, lett. b del
   D.lgs. 196/2003);</SPAN></FONT></FONT></FONT></P>
-  <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>del
   diritto di ottenere l&rsquo;attestazione che le operazioni di
@@ -650,12 +650,12 @@ title: "Informativa privacy (versioni precedenti)"
   <FONT FACE="Arial, sans-serif"><FONT SIZE=3>1.
   Il titolare notifica al Garante il trattamento di dati personali cui
   intende procedere, solo se il trattamento riguarda:</FONT></FONT></P>
-  <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   genetici, biometrici o dati che indicano la posizione geografica di
   persone od oggetti mediante una rete di comunicazione elettronica;</SPAN></FONT></FONT></FONT></P>
-  <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   idonei a rivelare lo stato di salute e la vita sessuale, trattati ai
@@ -664,14 +664,14 @@ title: "Informativa privacy (versioni precedenti)"
   indagini epidemiologiche, rilevazione di malattie mentali, infettive
   e diffusive, sieropositivit&agrave;, trapianto di organi e tessuti e
   monitoraggio della spesa sanitaria;</SPAN></FONT></FONT></FONT></P>
-  <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   idonei a rivelare la vita sessuale o la sfera psichica, trattati da
   associazioni, enti ed organismi senza scopo di lucro, anche non
   riconosciuti, a carattere politico, filosofico, religioso o
   sindacale;</SPAN></FONT></FONT></FONT></P>
-  <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   trattati con l&rsquo;ausilio di strumenti elettronici volti a
@@ -680,14 +680,14 @@ title: "Informativa privacy (versioni precedenti)"
   l&rsquo;utilizzo di servizi di comunicazione elettronica con
   esclusione dei trattamenti tecnicamente indispensabili per fornire i
   servizi medesimi agli utenti;</SPAN></FONT></FONT></FONT></P>
-  <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   sensibili registrati in banche di dati a fini di selezione del
   personale per conto terzi nonch&eacute; dati sensibili utilizzati per
   sondaggi di opinione, ricerche di mercato ed altre ricerche
   campionarie;</SPAN></FONT></FONT></FONT></P>
-  <P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
+  <P class="text-justify" STYLE="margin-left: 0.5in; text-indent: -0.25in; margin-bottom: 0in; line-height: 0.25in; page-break-after: avoid">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif"><FONT SIZE=3><SPAN>dati
   registrati in apposite banche dati gestite con strumenti elettronici
