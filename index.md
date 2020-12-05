@@ -39,7 +39,7 @@ additional_scripts:
         </div>
     </div>
     <div class="text-right">
-      <a class="d-sm-none" href="whatsapp://send?text=Ti suggerisco questo sito per compilare velocemente l'autocertificazione e stamparla anche da mobile https://covidcert.it" data-action="share/whatsapp/share" target="_blank"> <i class="fa fa-whatsapp"></i> Consigliaci su Whatsapp</a>
+      <a class="d-sm-none" href="whatsapp://send?text=Ti%20suggerisco%20questo%20sito%20per%20compilare%20velocemente%20l'autocertificazione%20e%20stamparla%20anche%20da%20mobile%20https://covidcert.it" data-action="share/whatsapp/share" target="_blank"> <i class="fa fa-whatsapp"></i> Consigliaci su Whatsapp</a>
     </div>
 </div>   
 <div class="row justify-content-center pdf-container">

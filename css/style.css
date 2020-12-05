@@ -1,3 +1,4 @@
+/* Home page */
 .covid-cert-container {
     background-color: #ebeae3;
 }
@@ -25,6 +26,7 @@
     opacity: .5;
 }
 
+/* Printing stuff */
 @media print {
     @page {
         margin: 0;
@@ -64,4 +66,20 @@
     .modal-backdrop.show {
         opacity: 0;
     }
+}
+
+/* Privacy Policy Prev */
+.old-privacy-policy-p {
+    margin-bottom: 0in;
+    line-height: 0.25in;
+    page-break-after: avoid;
+    text-align: justify;
+}
+
+.old-privacy-policy-p2 {
+    margin-left: 0.5in;
+    text-indent: -0.25in;
+    margin-bottom: 0in;
+    line-height: 0.25in;
+    page-break-after: avoid;
 }

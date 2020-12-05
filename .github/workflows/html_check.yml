@@ -1,0 +1,25 @@
+name: HTML Check
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v2.3.2
+    - name: 💎 Get ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    
+    - name: 🔨 Build Project
+      run: |
+        gem install bundler
+        bundle install
+        jekyll build
+    - name: Checks HTML5
+      uses: Cyb3r-Jak3/html5validator-action-experimental@v1
+      with:
+        root: ./_site/
+        skip: googledd725740c84fdc30.html
