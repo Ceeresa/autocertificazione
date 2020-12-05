@@ -27,13 +27,13 @@ title: "Chi siamo"
           </div>
           <h4 class="font-weight-bold dark-grey-text my-4">Davide Pastore</h4>
           <!-- <h6 class="text-uppercase grey-text mb-3"><strong></strong></h6>-->
-          <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-tw" href="mailto:davide.pastore@covidcert.it">
+          <a class="btn-floating btn-sm mx-1 mb-0 btn-tw" href="mailto:davide.pastore@covidcert.it">
             <i class="fa fa-envelope "></i>
           </a>
-          <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-li" href="https://www.linkedin.com/in/davide-pastore-9271b847/">
+          <a class="btn-floating btn-sm mx-1 mb-0 btn-li" href="https://www.linkedin.com/in/davide-pastore-9271b847/">
             <i class="fa fa-linkedin"></i>
           </a>
-          <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-dribbble" href="https://github.com/DavidePastore">
+          <a class="btn-floating btn-sm mx-1 mb-0 btn-dribbble" href="https://github.com/DavidePastore">
             <i class="fa fa-github"></i>
           </a>
         </div>
@@ -45,10 +45,10 @@ title: "Chi siamo"
           <h4 class="font-weight-bold dark-grey-text my-4">Maurizio Molle</h4>
           <!-- <h6 class="text-uppercase grey-text mb-3"><strong></strong></h6>-->
           <!--Email-->
-          <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-tw" href="mailto:maurizio.molle@covidcert.it">
+          <a class="btn-floating btn-sm mx-1 mb-0 btn-tw" href="mailto:maurizio.molle@covidcert.it">
             <i class="fa fa-envelope "></i>
           </a>
-          <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-li" href="https://www.linkedin.com/in/mauriziomolle/">
+          <a class="btn-floating btn-sm mx-1 mb-0 btn-li" href="https://www.linkedin.com/in/mauriziomolle/">
             <i class="fa fa-linkedin"></i>
           </a>
         </div>
@@ -59,10 +59,10 @@ title: "Chi siamo"
           </div>
           <h4 class="font-weight-bold dark-grey-text my-4">Sergio Tarantino</h4>
           <!-- <h6 class="text-uppercase grey-text mb-3"><strong></strong></h6>-->
-          <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-tw" href="mailto:sergio.tarantino@covidcert.it">
+          <a class="btn-floating btn-sm mx-1 mb-0 btn-tw" href="mailto:sergio.tarantino@covidcert.it">
             <i class="fa fa-envelope "></i>
           </a>
-          <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-li" href="https://www.linkedin.com/in/sergiotarantino/">
+          <a class="btn-floating btn-sm mx-1 mb-0 btn-li" href="https://www.linkedin.com/in/sergiotarantino/">
             <i class="fa fa-linkedin"></i>
           </a>
         </div>
