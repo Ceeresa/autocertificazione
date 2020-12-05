@@ -1,16 +1,13 @@
-on:
-  push:
-    branches:
-      - main
-name: 🚀 Deploy website on push
+name: 🚀 CI/CD
+
+on: push
+
 jobs:
-  web-deploy:
-    name: 🎉 Deploy
+  html-check:
     runs-on: ubuntu-latest
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2.3.2
-    
     - name: 💎 Get ruby
       uses: actions/setup-ruby@v1
       with:
@@ -30,6 +27,17 @@ jobs:
         bundle install --jobs 4 --retry 3
         bundle exec jekyll build
     
+    - name: Checks HTML5
+      uses: Cyb3r-Jak3/html5validator-action-experimental@v1
+      with:
+        root: ./_site/
+        skip: googledd725740c84fdc30.html
+  web-deploy:
+    name: 🎉 Deploy website on push
+    needs: html-check
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && needs.test.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
