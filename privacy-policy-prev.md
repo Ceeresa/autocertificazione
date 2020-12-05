@@ -497,23 +497,23 @@ title: "Informativa privacy (versioni precedenti)"
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <SPAN>Internet
-  explorer<BR></SPAN><A HREF="http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies"><FONT COLOR="#0000ff"><SPAN><U>http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies</U></SPAN></FONT></A>
+  explorer<BR></SPAN><A HREF="http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies">http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies</A>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <SPAN>Firefox<BR></SPAN><A HREF="https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences"><FONT COLOR="#0000ff"><SPAN><U>https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences</U></SPAN></FONT></A>
+  <SPAN>Firefox<BR></SPAN><A HREF="https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences">https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences</A>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <SPAN>Safari<BR></SPAN><A HREF="http://www.apple.com/legal/privacy/it/"><FONT COLOR="#0000ff"><SPAN><U>http://www.apple.com/legal/privacy/it/</U></SPAN></FONT></A>
+  <SPAN>Safari<BR></SPAN><A HREF="http://www.apple.com/legal/privacy/it/">http://www.apple.com/legal/privacy/it/</A>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <SPAN>Chrome<BR></SPAN><A HREF="https://support.google.com/accounts/answer/61416?hl=it"><FONT COLOR="#0000ff"><SPAN><U>https://support.google.com/accounts/answer/61416?hl=it</U></SPAN></FONT></A>
+  <SPAN>Chrome<BR></SPAN><A HREF="https://support.google.com/accounts/answer/61416?hl=it">https://support.google.com/accounts/answer/61416?hl=it</A>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <SPAN>Opera<BR></SPAN><A HREF="http://www.opera.com/help/tutorials/security/cookies/"><FONT COLOR="#0000ff"><SPAN><U>http://www.opera.com/help/tutorials/security/cookies/</U></SPAN></FONT></A>
+  <SPAN>Opera<BR></SPAN><A HREF="http://www.opera.com/help/tutorials/security/cookies/">http://www.opera.com/help/tutorials/security/cookies/</A>
   </P>
   <P class="old-privacy-policy-p">
   <STRONG><SPAN STYLE="font-size: 13pt">5.Plugin
@@ -538,40 +538,40 @@ title: "Informativa privacy (versioni precedenti)"
   network, alle quali si prega di fare riferimento:</P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <SPAN>Facebook<BR></SPAN><A HREF="https://www.facebook.com/help/cookies"><FONT COLOR="#0000ff"><SPAN><U>https://www.facebook.com/help/cookies</U></SPAN></FONT></A>
+  <SPAN>Facebook<BR></SPAN><A HREF="https://www.facebook.com/help/cookies">https://www.facebook.com/help/cookies</A>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  <SPAN>Twitter<BR></SPAN><A HREF="https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter"><FONT COLOR="#0000ff"><SPAN><U>https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter</U></SPAN></FONT></A>
+  <SPAN>Twitter<BR></SPAN><A HREF="https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter">https://support.twitter.com/articles/20170519-uso-dei-cookie-e-d-altre-tecnologie-simili-da-parte-di-twitter</A>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   Google
-  +<BR><A HREF="http://www.google.com/polices/techonologies/cookies"><FONT COLOR="#0000ff"><U>http://www.google.com/polices/techonologies/cookies</U></FONT></A>
+  +<BR><A HREF="http://www.google.com/polices/techonologies/cookies">http://www.google.com/polices/techonologies/cookies</A>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  Pinterest<BR><A HREF="https://about.pinterest.com/it/privacy-policy"><FONT COLOR="#0000ff"><U>https://about.pinterest.com/it/privacy-policy</U></FONT></A>
+  Pinterest<BR><A HREF="https://about.pinterest.com/it/privacy-policy">https://about.pinterest.com/it/privacy-policy</A>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  AddThis<BR><A HREF="http://www.addthis.com/privacy/privacy-policy"><FONT COLOR="#0000ff"><U>http://www.addthis.com/privacy/privacy-policy</U></FONT></A>
+  AddThis<BR><A HREF="http://www.addthis.com/privacy/privacy-policy">http://www.addthis.com/privacy/privacy-policy</A>
   </P>
   <P class="old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
-  Linkedin<BR><A HREF="https://www.linkedin.com/legal/cookie/policy"><FONT COLOR="#0000ff"><U>https://www.linkedin.com/legal/cookie/policy</U></FONT></A>
+  Linkedin<BR><A HREF="https://www.linkedin.com/legal/cookie/policy">https://www.linkedin.com/legal/cookie/policy</A>
   </P>
   <P class="old-privacy-policy-p">
   <STRONG><SPAN STYLE="font-size: 13pt">V-
   DIRITTI DELL&rsquo;UTENTE</SPAN></STRONG></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Arial, sans-serif">1.
+  1.
   L&rsquo;art. 13 co. 2 del Regolamento UE del 2016/679 elenca i
-  diritti dell&rsquo;utente.</FONT></P>
+  diritti dell&rsquo;utente.</P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Arial, sans-serif">2.
+  2.
   Il presente sito covidcert.it intende, pertanto, informare l&rsquo;utente
-  sull&rsquo;esistenza:</FONT></P>
+  sull&rsquo;esistenza:</P>
   <P class="text-justify old-privacy-policy-p2">
   &ndash;&nbsp;&nbsp;&nbsp;&nbsp;
   <SPAN>del
@@ -709,7 +709,7 @@ title: "Informativa privacy (versioni precedenti)"
   <P class="old-privacy-policy-p">
   <SPAN>1.
   Il presente documento, pubblicato all&rsquo;indirizzo:
-  </SPAN><A HREF="https://covidcert.it/privacy-policy.html"><FONT COLOR="#0000ff"><SPAN><U>https://covidcert.it/privacy-policy.html</U></SPAN></FONT></A><SPAN>
+  </SPAN><A HREF="https://covidcert.it/privacy-policy.html">https://covidcert.it/privacy-policy.html</A><SPAN>
   costituisce la privacy policy di questo sito.</SPAN></P>
   <P class="old-privacy-policy-p">
   2.
