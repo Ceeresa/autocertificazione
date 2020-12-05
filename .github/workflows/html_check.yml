@@ -1,16 +1,13 @@
-on:
-  push:
-    branches:
-      - main
-name: 🚀 Deploy website on push
+name: HTML Check
+
+on: push
+
 jobs:
-  web-deploy:
-    name: 🎉 Deploy
+  build:
     runs-on: ubuntu-latest
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2.3.2
-    
     - name: 💎 Get ruby
       uses: actions/setup-ruby@v1
       with:
@@ -35,17 +32,3 @@ jobs:
       with:
         root: ./_site/
         skip: googledd725740c84fdc30.html
-    
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.0.0
-      with:
-        server: ${{ secrets.ftp_server }}
-        username: ${{ secrets.ftp_username }}
-        password: ${{ secrets.ftp_password }}
-        port: ${{ secrets.ftp_port }}
-        protocol: ${{ secrets.ftp_protocol }}
-        local-dir: ./_site/
-        server-dir: ${{ secrets.ftp_server_dir }}
-        exclude: package-lock.json
-          - package.json
-          - README.md
