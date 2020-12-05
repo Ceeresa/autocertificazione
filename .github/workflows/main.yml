@@ -30,6 +30,12 @@ jobs:
         bundle install --jobs 4 --retry 3
         bundle exec jekyll build
     
+    - name: Checks HTML5
+      uses: Cyb3r-Jak3/html5validator-action-experimental@v1
+      with:
+        root: ./_site/
+        skip: googledd725740c84fdc30.html
+    
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
