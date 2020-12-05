@@ -136,11 +136,11 @@ title: "Informativa privacy (versioni precedenti)"
 <section>
   <h1 class="h1-responsive text-center">Informativa Privacy fino al 17/11/2020</h1>
   <P class="old-privacy-policy-p" STYLE="line-height: 0.29in;">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 16pt">INFORMATIVA
-  SULLA PRIVACY</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 16pt;">INFORMATIVA
+  SULLA PRIVACY</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">I
-  &ndash;INFORMAZIONI RELATIVE ALLA PRIVACY POLICY DEL SITO</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">I
+  &ndash;INFORMAZIONI RELATIVE ALLA PRIVACY POLICY DEL SITO</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   In questa sezione sono contenute le informazioni relative alle
@@ -182,11 +182,11 @@ title: "Informativa privacy (versioni precedenti)"
   consenso attraverso l&rsquo;autorizzazione dei genitori o di chi ne
   fa le veci.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">II-
-  TRATTAMENTO DEI DATI</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">II-
+  TRATTAMENTO DEI DATI</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">1.
-  Titolare dei dati</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">1.
+  Titolare dei dati</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il titolare del trattamento &egrave; la persona fisica o giuridica,
@@ -201,8 +201,8 @@ title: "Informativa privacy (versioni precedenti)"
   per ogni chiarimento o esercizio dei diritti dell&rsquo;utente potr&agrave;
   contattarli al seguente indirizzo mail: dpo@covidcert.it</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">2.
-  Responsabile del trattamento dei dati</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">2.
+  Responsabile del trattamento dei dati</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il responsabile del trattamento &egrave; la persona fisica o
@@ -216,8 +216,8 @@ title: "Informativa privacy (versioni precedenti)"
   del sito covidcert.it sono Maurizio Molle, Davide Pastore e Sergio
   Tarantino</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">3.
-  Luogo trattamento dati</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">3.
+  Luogo trattamento dati</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il trattamento dei dati generato dall&rsquo;utilizzo di covidcert.it
@@ -229,11 +229,11 @@ title: "Informativa privacy (versioni precedenti)"
   possono essere trattati dal responsabile del trattamento o soggetti
   dati esso incaricati a tal fine presso la relativa sede.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">III
-  &ndash; COOKIES</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">III
+  &ndash; COOKIES</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">1.
-  Tipo di cookies</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">1.
+  Tipo di cookies</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il sito covidcert.it utilizza cookies per rendere l&rsquo;esperienza
@@ -264,8 +264,8 @@ title: "Informativa privacy (versioni precedenti)"
   <FONT FACE="Arial, sans-serif" SIZE=3>Di
   seguito le tipologie di cookies di cui il sito fa uso:</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">2.
-  Cookies tecnici</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">2.
+  Cookies tecnici</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Ci sono numerose tecnologie usate per conservare informazioni nel
@@ -319,8 +319,8 @@ title: "Informativa privacy (versioni precedenti)"
   costituiti da numeri casuali generati dal server necessari per
   consentire l&rsquo;esplorazione sicura ed efficiente del sito.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">3.
-  Cookies di terze parti</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">3.
+  Cookies di terze parti</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   In relazione alla provenienza si distinguono i cookies inviati al
@@ -358,8 +358,8 @@ title: "Informativa privacy (versioni precedenti)"
   indicazioni per gestire o disabilitare i cookies pubblicate nelle
   relative pagine web.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">4.Cookies
-  di profilazione</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">4.Cookies
+  di profilazione</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Sono cookies di profilazione quello a creare profili all&rsquo;utente
@@ -375,11 +375,11 @@ title: "Informativa privacy (versioni precedenti)"
   Si applicher&agrave; l&rsquo;articolo 22 del Regolamento UE 2016/679
   e l&rsquo;articolo 122 del Codice in materia di protezione dei dati.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">IV-
-  DATI TRATTATI</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">IV-
+  DATI TRATTATI</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">1.Modalit&agrave;
-  trattamento dati</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">1.Modalit&agrave;
+  trattamento dati</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Come tutti i siti web anche il presente sito fa uso di log files nei
@@ -455,8 +455,8 @@ title: "Informativa privacy (versioni precedenti)"
   l&rsquo;immissione di dati personali di terzi o di contenuti tutelati
   dalle norme nazionali ed internazionali.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">2.Finalit&agrave;
-  del trattamento dati</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">2.Finalit&agrave;
+  del trattamento dati</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   I dati raccolti dal sito durante il suo funzionamento sono utilizzati
@@ -469,8 +469,8 @@ title: "Informativa privacy (versioni precedenti)"
   danneggiamento del sito) sono conservati per il tempo strettamente
   necessario al raggiungimento del fine anteriormente indicato.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">3.Dati
-  forniti dall&rsquo;utente</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">3.Dati
+  forniti dall&rsquo;utente</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Come sopra indicato, l&rsquo;invio facoltativo, esplicito e
@@ -484,8 +484,8 @@ title: "Informativa privacy (versioni precedenti)"
   o visualizzate nelle pagine del sito predisposte per particolari
   servizi a richiesta.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">4.Supporto
-  nella configurazione del proprio browser</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">4.Supporto
+  nella configurazione del proprio browser</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   L&rsquo;utente pu&ograve; gestire i cookies anche attraverso le
@@ -521,8 +521,8 @@ title: "Informativa privacy (versioni precedenti)"
   </SPAN></FONT></FONT>
   </P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">5.Plugin
-  Social Network</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">5.Plugin
+  Social Network</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il presente sito incorpora anche plugin e/o bottoni per i social
@@ -573,8 +573,8 @@ title: "Informativa privacy (versioni precedenti)"
   </FONT></FONT>
   </P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">V-
-  DIRITTI DELL&rsquo;UTENTE</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">V-
+  DIRITTI DELL&rsquo;UTENTE</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif">1.
   L&rsquo;art. 13 co. 2 del Regolamento UE del 2016/679 elenca i
@@ -644,8 +644,8 @@ title: "Informativa privacy (versioni precedenti)"
   competono, si vedano gli artt. 15 e ss. Del Regolamento UE 2016/679 e
   l&rsquo;art. 7 del D.lgs. 196/2003.</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">VI
-  &ndash; ADEMPIMENTI</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">VI
+  &ndash; ADEMPIMENTI</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il titolare notifica al Garante il trattamento di dati personali cui
@@ -695,8 +695,8 @@ title: "Informativa privacy (versioni precedenti)"
   situazione patrimoniale, al corretto adempimento di obbligazioni, a
   comportamenti illeciti o fraudolenti.</SPAN></FONT></FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">VI
-  &ndash; SICUREZZA DEI DATI FORNITI</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">VI
+  &ndash; SICUREZZA DEI DATI FORNITI</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Arial, sans-serif" SIZE=3>1.
   Il presente sito tratta i dati degli utenti in maniera lecita e
@@ -715,8 +715,8 @@ title: "Informativa privacy (versioni precedenti)"
   fornitori di servizi tecnici terzi, corrieri postali, hosting
   provider, societ&agrave; informatiche, agenzie di comunicazione).</FONT></P>
   <P class="old-privacy-policy-p">
-  <FONT FACE="Calibri Light, sans-serif"><STRONG><FONT FACE="inherit, Calibri"><SPAN STYLE="font-size: 13pt">VIII
-  &ndash; MODIFICHE AL PRESENTE DOCUMENTO</SPAN></FONT></STRONG></FONT></P>
+  <FONT FACE="Calibri Light, sans-serif"><STRONG><SPAN STYLE="font-size: 13pt">VIII
+  &ndash; MODIFICHE AL PRESENTE DOCUMENTO</SPAN></STRONG></FONT></P>
   <P class="old-privacy-policy-p">
   <FONT FACE="Calibri Light, sans-serif"><FONT FACE="Arial, sans-serif" SIZE=3><SPAN>1.
   Il presente documento, pubblicato all&rsquo;indirizzo:
