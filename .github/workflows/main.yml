@@ -1,13 +1,16 @@
-name: 🚀 CI/CD
-
-on: push
-
+on:
+  push:
+    branches:
+      - main
+name: 🚀 Deploy website on push
 jobs:
-  html-check:
+  web-deploy:
+    name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2.3.2
+    
     - name: 💎 Get ruby
       uses: actions/setup-ruby@v1
       with:
@@ -32,12 +35,7 @@ jobs:
       with:
         root: ./_site/
         skip: googledd725740c84fdc30.html
-  web-deploy:
-    name: 🎉 Deploy website on push
-    needs: html-check
-    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
-    runs-on: ubuntu-latest
-    steps:
+    
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
