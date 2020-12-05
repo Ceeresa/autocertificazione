@@ -13,11 +13,20 @@ jobs:
       with:
         ruby-version: '2.6'
     
+    - uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+    
     - name: 🔨 Build Project
       run: |
         gem install bundler
-        bundle install
-        jekyll build
+        bundle config path vendor/bundle
+        bundle install --jobs 4 --retry 3
+        bundle exec jekyll build
+    
     - name: Checks HTML5
       uses: Cyb3r-Jak3/html5validator-action-experimental@v1
       with:
