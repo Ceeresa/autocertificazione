@@ -35,7 +35,7 @@ pages_list:
   - name: Autocertificazione
     url: /
   - name: Perché CovidCert
-    url: /chi-siamo.html
+    url: /why.html
   - name: Chi siamo
     url: /chi-siamo.html
   - name: Mobile App
