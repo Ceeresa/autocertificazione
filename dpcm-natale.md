@@ -9,25 +9,25 @@ title: "Decreto Natale"
     <p>Il decreto legge varato il 18 dicembre dal Consiglio dei Ministri prevede l'alternanza di forti e medie restrizioni durante il periodo Natalizio. Di seguito il calendario ed un sommario di ciò che si può e non si può fare nelle giornate gialle, arancioni e rosse.</p>
 </div>
   <div id="cal" class="row justify-content-center justify-content-sm-center mb-3">
-      <div class="btn px-2 mx-1 cc-yellow  mt-2"><div class="day">21</div><div class="weekday">LUN</div></div>
-      <div class="btn px-2 mx-1 cc-yellow  mt-2"><div class="day">22</div><div class="weekday">MAR</div></div>
-      <div class="btn px-2 mx-1 cc-yellow  mt-2"><div class="day">23</div><div class="weekday">MER</div></div>
-      <div class="btn px-2 mx-1 cc-red     mt-2"><div class="day">24</div><div class="weekday">GIO</div></div>
-      <div class="btn px-2 mx-1 cc-red     mt-2"><div class="day">25</div><div class="weekday">VEN</div></div>
-      <div class="btn px-2 mx-1 cc-red     mt-2"><div class="day">26</div><div class="weekday">SAB</div></div>
-      <div class="btn px-2 mx-1 cc-red     mt-2"><div class="day">27</div><div class="weekday">DOM</div></div>
-      <div class="btn px-2 mx-1 cc-orange  mt-2"><div class="day">28</div><div class="weekday">LUN</div></div>
-      <div class="btn px-2 mx-1 cc-orange  mt-2"><div class="day">29</div><div class="weekday">MAR</div></div>
-      <div class="btn px-2 mx-1 cc-orange  mt-2"><div class="day">30</div><div class="weekday">MER</div></div>
-      <div class="btn px-2 mx-1 cc-red     mt-2"><div class="day">31</div><div class="weekday">GIO</div></div>
-      <div class="btn px-2 mx-1 cc-red     mt-2"><div class="day">01</div><div class="weekday">VEN</div></div>
-      <div class="btn px-2 mx-1 cc-red     mt-2"><div class="day">02</div><div class="weekday">SAB</div></div>
-      <div class="btn px-2 mx-1 cc-red     mt-2"><div class="day">03</div><div class="weekday">DOM</div></div>
-      <div class="btn px-2 mx-1 cc-orange  mt-2"><div class="day">04</div><div class="weekday">LUN</div></div>
-      <div class="btn px-2 mx-1 cc-red     mt-2"><div class="day">05</div><div class="weekday">MAR</div></div>
-      <div class="btn px-2 mx-1 cc-red     mt-2"><div class="day">06</div><div class="weekday">MER</div></div>
-      <div class="btn px-2 mx-1 cc-grey    mt-2"><div class="day">07</div><div class="weekday">GIO</div></div>
-      <div class="btn px-2 mx-1 cc-grey    mt-2"><div class="day">08</div><div class="weekday">VEN</div></div>
+      <div class="btn px-2 mx-1 cc-yellow mt-2"><div class="day">21</div><div class="weekday">LUN</div></div>
+      <div class="btn px-2 mx-1 cc-yellow mt-2"><div class="day">22</div><div class="weekday">MAR</div></div>
+      <div class="btn px-2 mx-1 cc-yellow mt-2"><div class="day">23</div><div class="weekday">MER</div></div>
+      <div class="btn px-2 mx-1 cc-red    mt-2"><div class="day">24</div><div class="weekday">GIO</div></div>
+      <div class="btn px-2 mx-1 cc-red    mt-2"><div class="day">25</div><div class="weekday">VEN</div></div>
+      <div class="btn px-2 mx-1 cc-red    mt-2"><div class="day">26</div><div class="weekday">SAB</div></div>
+      <div class="btn px-2 mx-1 cc-red    mt-2"><div class="day">27</div><div class="weekday">DOM</div></div>
+      <div class="btn px-2 mx-1 cc-orange mt-2"><div class="day">28</div><div class="weekday">LUN</div></div>
+      <div class="btn px-2 mx-1 cc-orange mt-2"><div class="day">29</div><div class="weekday">MAR</div></div>
+      <div class="btn px-2 mx-1 cc-orange mt-2"><div class="day">30</div><div class="weekday">MER</div></div>
+      <div class="btn px-2 mx-1 cc-red    mt-2"><div class="day">31</div><div class="weekday">GIO</div></div>
+      <div class="btn px-2 mx-1 cc-red    mt-2"><div class="day">01</div><div class="weekday">VEN</div></div>
+      <div class="btn px-2 mx-1 cc-red    mt-2"><div class="day">02</div><div class="weekday">SAB</div></div>
+      <div class="btn px-2 mx-1 cc-red    mt-2"><div class="day">03</div><div class="weekday">DOM</div></div>
+      <div class="btn px-2 mx-1 cc-orange mt-2"><div class="day">04</div><div class="weekday">LUN</div></div>
+      <div class="btn px-2 mx-1 cc-red    mt-2"><div class="day">05</div><div class="weekday">MAR</div></div>
+      <div class="btn px-2 mx-1 cc-red    mt-2"><div class="day">06</div><div class="weekday">MER</div></div>
+      <div class="btn px-2 mx-1 cc-grey   mt-2"><div class="day">07</div><div class="weekday">GIO</div></div>
+      <div class="btn px-2 mx-1 cc-grey   mt-2"><div class="day">08</div><div class="weekday">VEN</div></div>
   </div>
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col mt-3">
