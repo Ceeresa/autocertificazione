@@ -34,6 +34,9 @@ plugins:
 pages_list:
   - name: Autocertificazione
     url: /
+  - name: Decreto Natale
+    url: /decreto-natale.html
+    new: true
   - name: Perché CovidCert
     url: /why.html
   - name: Chi siamo
