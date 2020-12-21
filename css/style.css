@@ -26,6 +26,64 @@
     opacity: .5;
 }
 
+#cal .weekday{
+    font-size: 0.6em;
+}
+
+#cal .weekday{
+    font-size: 0.45em;
+}
+
+.cc-yellow{
+    background-color:#F2E48B;
+    color:#806000;
+    border-color: #DCDCDC;
+}
+
+.cc-yellow:hover, .cc-yellow-highlight{
+    background-color:#F2D979;
+    color:#806000;
+    border-color: #DCDCDC;
+}
+
+.cc-red {
+    background-color:#DC6F6F;
+    color:#FFFFFF;
+    border-color: #DCDCDC;
+}
+
+.cc-red:hover, .cc-red-highlight{
+    background-color:#DC6060;
+    color:#FFFFFF;
+    border-color: #DCDCDC;
+}
+
+
+.cc-orange{
+    background-color:#E5B378;
+    color:#806000;
+    border-color: #DCDCDC;
+}
+
+.cc-orange:hover, .cc-orange-highlight{
+    background-color:#E5A765;
+    color:#806000;
+    border-color: #DCDCDC;
+}
+
+.cc-grey{
+    background-color:#E5E5E5;
+    color:#000000;
+    border-color: #DCDCDC;
+}
+
+.cc-grey:hover{
+    background-color:#EEEEEE;
+    color:#000000;
+    border-color: #DCDCDC;
+}
+
+
 /* Printing stuff */
 @media print {
     @page {
