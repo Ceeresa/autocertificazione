@@ -15,17 +15,17 @@ title: "Decreto 5 Gennaio 2021"
     <p>Di seguito il calendario ed un sommario di ciò che si può e non si può fare nelle giornate gialle, arancioni e rosse. A partire dal 11 gennaio le restrizioni saranno su base regionale e sono in corso di definizione, motivo per cui quei giorni sono attualmente marcati in grigio.</p>
 </div>
   <div id="cal" class="row justify-content-center justify-content-sm-center mb-3">
-      <a class="btn px-2 mx-1 cc-red    mt-2" href="#cc-red-zone"><div class="weekday">GEN</div><div class="day">05</div><div class="weekday">MAR</div></a>
-      <a class="btn px-2 mx-1 cc-red    mt-2" href="#cc-red-zone"><div class="day">06</div><div class="weekday">MER</div></a>
-      <a class="btn px-2 mx-1 cc-yellow mt-2" href="#cc-yellow-zone"><div class="day">07</div><div class="weekday">GIO</div></a>
-      <a class="btn px-2 mx-1 cc-yellow mt-2" href="#cc-yellow-zone"><div class="day">08</div><div class="weekday">VEN</div></a>
-      <a class="btn px-2 mx-1 cc-orange mt-2" href="#cc-orange-zone"><div class="day">09</div><div class="weekday">SAB</div></a>
-      <a class="btn px-2 mx-1 cc-orange mt-2" href="#cc-orange-zone"><div class="day">10</div><div class="weekday">DOM</div></a>
-      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="day">11</div><div class="weekday">LUN</div></a>
-      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="day">12</div><div class="weekday">MAR</div></a>
-      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="day">13</div><div class="weekday">MER</div></a>
-      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="day">14</div><div class="weekday">GIO</div></a>
-      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="day">15</div><div class="weekday">VEN</div></a>
+      <a class="btn px-2 mx-1 cc-red    mt-2" href="#cc-red-zone"><div class="weekday">MAR</div><div class="day">05</div><div class="weekday">GEN</div></a>
+      <a class="btn px-2 mx-1 cc-red    mt-2" href="#cc-red-zone"><div class="weekday">MER</div><div class="day">06</div><div class="weekday">GEN</div></a>
+      <a class="btn px-2 mx-1 cc-yellow mt-2" href="#cc-yellow-zone"><div class="weekday">GIO</div><div class="day">07</div><div class="weekday">GEN</div></a>
+      <a class="btn px-2 mx-1 cc-yellow mt-2" href="#cc-yellow-zone"><div class="weekday">VEN</div><div class="day">08</div><div class="weekday">GEN</div></a>
+      <a class="btn px-2 mx-1 cc-orange mt-2" href="#cc-orange-zone"><div class="weekday">SAB</div><div class="day">09</div><div class="weekday">GEN</div></a>
+      <a class="btn px-2 mx-1 cc-orange mt-2" href="#cc-orange-zone"><div class="weekday">DOM</div><div class="day">10</div><div class="weekday">GEN</div></a>
+      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="weekday">LUN</div><div class="day">11</div><div class="weekday">GEN</div></a>
+      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="weekday">MAR</div><div class="day">12</div><div class="weekday">GEN</div></a>
+      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="weekday">MER</div><div class="day">13</div><div class="weekday">GEN</div></a>
+      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="weekday">GIO</div><div class="day">14</div><div class="weekday">GEN</div></a>
+      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="weekday">VEN</div><div class="day">15</div><div class="weekday">GEN</div></a>
       
   </div>
 <div class="row row-cols-1 row-cols-md-3 g-4">
