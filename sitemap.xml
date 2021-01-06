@@ -10,13 +10,18 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://covidcert.it/chi-siamo.html</loc>
-  <lastmod>2020-11-15T19:50:14+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://covidcert.it/zone.html</loc>
+  <lastmod>2021-05-01T01:00:00+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
-  <loc>https://covidcert.it/decreto-natale.html</loc>
-  <lastmod>2020-12-21T01:00:00+00:00</lastmod>
+  <loc>https://covidcert.it/why.html</loc>
+  <lastmod>2021-05-01T01:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://covidcert.it/chi-siamo.html</loc>
+  <lastmod>2020-11-15T19:50:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -25,15 +30,13 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://covidcert.it/guida.html</loc>
-  <lastmod>2020-11-14T00:56:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://covidcert.it/privacy-policy.html</loc>
   <lastmod>2020-11-14T00:56:16+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
-
+<url>
+  <loc>https://covidcert.it/contattaci.html</loc>
+  <lastmod>2021-05-01T01:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
 </urlset>
