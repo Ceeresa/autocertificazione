@@ -83,6 +83,10 @@
     border-color: #DCDCDC;
 }
 
+.cc-zone{
+    margin-left: -1.5em;
+}
+
 
 /* Printing stuff */
 @media print {
