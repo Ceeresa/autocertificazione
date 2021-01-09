@@ -34,9 +34,8 @@ plugins:
 pages_list:
   - name: Autocertificazione
     url: /
-  - name: Decreto 5 Gennaio
+  - name: Zone
     url: /zone.html
-    new: true
   - name: Perché CovidCert
     url: /why.html
   - name: Chi siamo

@@ -1,33 +1,18 @@
 ---
 layout: index
-title: "Decreto 5 Gennaio 2021"
+title: "Zone"
 ---
 <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-justify">
-    <h1 class="h1-responsive text-center">Decreto 5 Gennaio 2021</h1>
+    <h1 class="h1-responsive text-center">Zone</h1>
 </div>
-<div>
-    <p>Il decreto-legge varato il 5 gennaio 2021 dal Consiglio dei Ministri introduce ulteriori disposizioni urgenti in materia di contenimento e gestione dell’emergenza epidemiologica da COVID-19.</p>
-    <p>Il testo prevede:</p>
-    <ul>
-      <li>per il periodo compreso tra il 7 e il 15 gennaio 2021, il divieto, su tutto il territorio nazionale, di spostarsi tra regioni o province autonome diverse, tranne che per comprovate esigenze lavorative, situazioni di necessità o motivi di salute. È comunque consentito il rientro alla propria residenza, domicilio o abitazione, con esclusione degli spostamenti verso le seconde case ubicate in altra regione o provincia autonoma;</li>
-      <li>nei giorni 9 e 10 gennaio 2021, l’applicazione, su tutto il territorio nazionale, delle misure previste per la cosiddetta “zona arancione”. Saranno comunque consentiti, negli stessi giorni, gli spostamenti dai Comuni con popolazione fino a 5.000 abitanti, entro 30 chilometri dai relativi confini, con esclusione degli spostamenti verso i capoluoghi di provincia.</li>
-    </ul>
-    <p>Di seguito il calendario ed un sommario di ciò che si può e non si può fare nelle giornate gialle, arancioni e rosse. A partire dal 11 gennaio le restrizioni saranno su base regionale e sono in corso di definizione, motivo per cui quei giorni sono attualmente marcati in grigio.</p>
-</div>
+
   <div id="cal" class="row justify-content-center justify-content-sm-center mb-3">
-      <a class="btn px-2 mx-1 cc-red    mt-2" href="#cc-red-zone"><div class="weekday">MAR</div><div class="day">05</div><div class="weekday">GEN</div></a>
-      <a class="btn px-2 mx-1 cc-red    mt-2" href="#cc-red-zone"><div class="weekday">MER</div><div class="day">06</div><div class="weekday">GEN</div></a>
-      <a class="btn px-2 mx-1 cc-yellow mt-2" href="#cc-yellow-zone"><div class="weekday">GIO</div><div class="day">07</div><div class="weekday">GEN</div></a>
-      <a class="btn px-2 mx-1 cc-yellow mt-2" href="#cc-yellow-zone"><div class="weekday">VEN</div><div class="day">08</div><div class="weekday">GEN</div></a>
       <a class="btn px-2 mx-1 cc-orange mt-2" href="#cc-orange-zone"><div class="weekday">SAB</div><div class="day">09</div><div class="weekday">GEN</div></a>
       <a class="btn px-2 mx-1 cc-orange mt-2" href="#cc-orange-zone"><div class="weekday">DOM</div><div class="day">10</div><div class="weekday">GEN</div></a>
-      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="weekday">LUN</div><div class="day">11</div><div class="weekday">GEN</div></a>
-      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="weekday">MAR</div><div class="day">12</div><div class="weekday">GEN</div></a>
-      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="weekday">MER</div><div class="day">13</div><div class="weekday">GEN</div></a>
-      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="weekday">GIO</div><div class="day">14</div><div class="weekday">GEN</div></a>
-      <a class="btn px-2 mx-1 cc-grey   mt-2" href="#cc-grey-zone"><div class="weekday">VEN</div><div class="day">15</div><div class="weekday">GEN</div></a>
-      
   </div>
+<div>
+    <p>Da lunedì 11 gennaio la definizione delle zone sarà nuovamente su base regionale, pertanto si rimanda alle <a href="http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638" target="_blank">FAQ del Ministero dell'Interno</a> per l'identificazione della zona in cui ricade la vostra regione.</p>
+</div>
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col mt-3">
     <div id="cc-yellow-zone" class="card h-100 cc-yellow">
@@ -85,10 +70,4 @@ title: "Decreto 5 Gennaio 2021"
       </div>
     </div>
   </div>
-</div>
-<div>
-    <p class="mt-2">* Si prevede la ripresa dell’attività in presenza, per il 50% degli studenti, a partire dal prossimo 11 gennaio.</p>
-    <p id="#cc-grey-zone">Per il periodo compreso tra il 7 e il 15 gennaio 2021, sono vietati, su tutto il territorio nazionale, gli spostamenti tra regioni o province autonome diverse, tranne che per comprovate esigenze lavorative, situazioni di necessità o motivi di salute. È comunque consentito il rientro alla propria residenza, domicilio o abitazione, con esclusione degli spostamenti verso le seconde case ubicate in altra regione o provincia autonoma</p>
-    <p><a href="http://www.governo.it/sites/new.governo.it/files/Cdm_88.pdf" target="_blank">Comunicato stampa Consiglio dei Ministri n.88</a></p>
-    <p class="mt-2"><a href="http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638" target="_blank">FAQ</a> del Ministero dell'Interno</p>
 </div>
