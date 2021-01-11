@@ -12,12 +12,12 @@ title: "Contattaci"
       </div>
       <div class="col-md-5 mt-3">
         <div class="card">
-          <div class="card-body"><i class="fa fa-info-circle"></i> Supporto<br><a href="mailto:info@covidcert.it?subject=Richiesta%20informazioni%20CovidCert">info@covidcert.it</a></div>
+          <div class="card-body bg-light"><i class="fa fa-info-circle"></i> Supporto<br><a href="mailto:info@covidcert.it?subject=Richiesta%20informazioni%20CovidCert">info@covidcert.it</a></div>
         </div>
       </div>
       <div class="col-md-5 mt-3">
         <div class="card">
-          <div class="card-body"><i class="fa fa-book"></i> Stampa<br><a href="mailto:redazione@covidcert.it?subject=Richiesta%20Stampa%20CovidCert">redazione@covidcert.it</a></div>
+          <div class="card-body bg-light"><i class="fa fa-book"></i> Stampa<br><a href="mailto:redazione@covidcert.it?subject=Richiesta%20Stampa%20CovidCert">redazione@covidcert.it</a></div>
         </div>
       </div>
     </div>

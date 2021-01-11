@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: index
+layout: embed
 title: "Autocertificazione"
 additional_scripts:
     - https://unpkg.com/pdf-lib@1.11.0
@@ -11,11 +11,6 @@ additional_scripts:
     - ./js/script.js
 ---
 <div class="d-print-none">
-    <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-        <h3>Genera velocemente la tua autocertificazione</h3>
-        <h4><small class="text-muted text-right">da mobile e pronta da stampare</small></h4>
-        <div class="justify-content-center alert alert-success">L'autocertificazione è generata direttamente nel <b>tuo</b> browser e i <b>tuoi</b> dati non escono dal <b>tuo</b> dispositivo</div>
-    </div>
     <div class="row justify-content-center justify-content-sm-center mb-3">
         <div class="col-md-auto col-6 text-center">
             <button type="button" class="btn btn-block btn-primary mt-2" data-toggle="modal" data-target="#autocertEditModal">
@@ -23,7 +18,7 @@ additional_scripts:
             </button>
         </div>
         <div class="col-md-auto col-6 text-center">
-            <button type="button" class="btn btn-block btn-primary cleanup-button mt-2" data-toggle="tooltip" data-container="body" data-placement="top" title="Se ti trovi in un Internet Cafè o Internet Point premi questo tasto per cancellare i tuoi dati">
+            <button type="button" class="btn btn-block btn-primary cleanup-button mt-2" data-toggle="tooltip" data-container="body" data-placement="top" title="Se ti trovi in un Internet Cafè, PC condiviso o Internet Point premi questo tasto per cancellare i tuoi dati">
                 <i class="fa fa-eraser"></i> Ripulisci
             </button>
         </div>
@@ -38,10 +33,8 @@ additional_scripts:
             </button>
         </div>
     </div>
-    <div class="text-right">
-      <a class="d-sm-none" href="whatsapp://send?text=Ti%20suggerisco%20questo%20sito%20per%20compilare%20velocemente%20l'autocertificazione%20e%20stamparla%20anche%20da%20mobile%20https://covidcert.it" data-action="share/whatsapp/share" target="_blank"> <i class="fa fa-whatsapp"></i> Consigliaci su Whatsapp</a>
-    </div>
-</div>   
+    <div class="text-right">Powered by <a href="/" target="_blank"><img src="img/icon.png" alt="CovidCert" title="CovidCert">CovidCert</a></div>
+</div>
 <div class="row justify-content-center pdf-container">
     <div class="col-md-12 text-center">
         <canvas class="img-fluid rounded shadow-lg" id="the-canvas" onclick="openModal()"></canvas>
@@ -50,7 +43,7 @@ additional_scripts:
 
 <!-- Modal -->
 <div class="modal fade d-print-none" id="autocertEditModal" tabindex="-1" role="dialog" aria-labelledby="autocertEditModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-xl" role="document">
+    <div class="modal-dialog modal-xl " role="document">
         <div class="modal-content">
             <form id="autocertificazione" novalidate>
                 <div class="modal-header">
@@ -184,6 +177,9 @@ additional_scripts:
             </form>
         </div>
     </div>
+</div>
+<div>
+  <p class="text-success"><i class="fa fa-leaf"></i> Sostieni la nostra <a href="https://www.change.org/DigitalizziamoLAutodichiarazione" target="_blank">petizione per la digitalizzazione dell'autodichiarazione</a></p>
 </div>
 
 <!-- Spinner stuff -->
