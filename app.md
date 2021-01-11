@@ -9,7 +9,7 @@ additional_scripts:
 </div>
 <div class="text-justify">
     <p>Vuoi poter accedere all'App direttamente dal tuo cellulare, senza dover aprire il tuo browser? Segui il seguente video e potrai farlo in soli 3 click.</p>
-    <div class="embed-responsive embed-responsive-16by9">
+    <div class="embed-responsive embed-responsive-16by9 shadow">
       <video controls id="video-container">
         Your browser does not support the video tag.
       </video>
