@@ -178,6 +178,9 @@ additional_scripts:
         </div>
     </div>
 </div>
+<div>
+  <p class="text-success"><i class="fa fa-leaf"></i> Sostieni la nostra <a href="https://www.change.org/DigitalizziamoLAutodichiarazione" target="_blank">petizione per la digitalizzazione dell'autodichiarazione</a></p>
+</div>
 
 <!-- Spinner stuff -->
 <div id="spinner" class="d-print-none">
