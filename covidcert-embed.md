@@ -33,7 +33,14 @@ additional_scripts:
             </button>
         </div>
     </div>
-    <div class="text-right">Powered by <a href="/" target="_blank"><img src="img/icon.png" alt="CovidCert" title="CovidCert">CovidCert</a></div>
+    <div class="row">
+        <div class="col-8 text-left">
+            <p class="text-success"><i class="fa fa-leaf"></i> Firma la nostra <a href="https://www.change.org/DigitalizziamoLAutodichiarazione" target="_blank">petizione per la digitalizzazione dell'autodichiarazione</a></p>
+        </div>
+        <div class="col-4 text-right">
+            Powered by <a href="/" target="_blank"><img src="img/icon.png" alt="CovidCert" title="CovidCert">CovidCert</a>
+        </div>
+    </div>
 </div>
 <div class="row justify-content-center pdf-container">
     <div class="col-md-12 text-center">
@@ -177,9 +184,6 @@ additional_scripts:
             </form>
         </div>
     </div>
-</div>
-<div>
-  <p class="text-success"><i class="fa fa-leaf"></i> Sostieni la nostra <a href="https://www.change.org/DigitalizziamoLAutodichiarazione" target="_blank">petizione per la digitalizzazione dell'autodichiarazione</a></p>
 </div>
 
 <!-- Spinner stuff -->
