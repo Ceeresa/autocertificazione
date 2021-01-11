@@ -4,6 +4,7 @@
 
 layout: embed
 title: "Autocertificazione"
+avoid_cookiebot: True
 additional_scripts:
     - https://unpkg.com/pdf-lib@1.11.0
     - https://unpkg.com/downloadjs@1.4.7

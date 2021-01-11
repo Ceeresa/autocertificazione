@@ -12,7 +12,9 @@
     <meta property="og:type" content="article" />
     <meta property="og:locale" content="it_IT" />
     
-    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="f07e0c73-b5e3-4b3b-8666-061cb5f2e114" data-blockingmode="auto"></script>
+    {% unless page.avoid_cookiebot %}
+      <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="f07e0c73-b5e3-4b3b-8666-061cb5f2e114" data-blockingmode="auto"></script>
+    {% endunless %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-6RX33BLMS2"></script>
     <script>
