@@ -8,7 +8,7 @@ title: "Zone"
 <div>
     <p>Da lunedì 11 gennaio 2021 la definizione delle zone è su base regionale, pertanto si rimanda alle <a href="http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638" target="_blank">FAQ del Ministero dell'Interno</a> per l'identificazione della zona in cui ricade la vostra regione.</p>
 </div>
-<div class="row mt-4">
+<div class="row mt-4 mx-0">
   <div id="cc-yellow-zone" class="card h-100 cc-yellow">
     <div class="card-header cc-yellow-highlight"><h5 class="card-title ">Zona Gialla</h5></div>
     <div class="card-body">
@@ -26,7 +26,7 @@ title: "Zone"
     </div>
   </div>
 </div>
-<div class="row mt-4">
+<div class="row mt-4 mx-0">
   <div id="cc-orange-zone" class="card h-100">
     <div class="card-header cc-orange-highlight"><h5 class="card-title ">Zona Arancione</h5></div>
     <div class="card-body cc-orange">
@@ -45,7 +45,7 @@ title: "Zone"
     </div>
   </div>
 </div>
-<div class="row mt-4">
+<div class="row mt-4 mx-0">
   <div id="cc-red-zone" class="card h-100 cc-red-highlight">
     <div class="card-header cc-red-highlight"><h5 class="card-title ">Zona Rossa</h5></div>
     <div class="card-body cc-red">
