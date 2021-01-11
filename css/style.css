@@ -128,6 +128,10 @@
     .modal-backdrop.show {
         opacity: 0;
     }
+
+    .shadow-lg {
+        box-shadow: none !important;
+    }
 }
 
 /* Privacy Policy Prev */
