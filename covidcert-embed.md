@@ -37,7 +37,7 @@ additional_scripts:
 </div>
 <div class="row justify-content-center pdf-container">
     <div class="col-md-12 text-center">
-        <canvas class="img-fluid rounded shadow-lg" id="the-canvas" onclick="openModal()"></canvas>
+        <canvas class="img-fluid rounded shadow-lg" id="the-canvas" onclick="openModal()" height="2947" width="2085"></canvas>
     </div>
 </div>
 
