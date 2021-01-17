@@ -53,8 +53,8 @@ additional_scripts:
     <div class="modal-dialog modal-xl" role="document">
         <div class="modal-content">
             <form id="autocertificazione" novalidate>
-                <div class="modal-header">
-                    <h5 class="modal-title" id="autocertEditModalLabel">Autocertificazione spostamenti COVID</h5>
+                <div class="modal-header py-1">
+                    <h5 class="modal-title small" id="autocertEditModalLabel">Autocertificazione spostamenti COVID</h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
@@ -125,7 +125,7 @@ additional_scripts:
                             </div>
                         </div>
                         <div class="form-row">
-                            <button type="button" style="height: 4vh; " class="btn btn-primary btn-sm" id="copy-from-residenza">Copia da residenza</button>
+                            <button type="button" class="btn btn-primary btn-sm" id="copy-from-residenza">Copia da residenza</button>
                         </div>
                         <div class="form-row">
                             <div class="form-group col-md-4">

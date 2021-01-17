@@ -35,7 +35,8 @@ pages_list:
   - name: Autocertificazione
     url: /
   - name: Zone
-    url: /zone.html
+    url: http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638
+    ext: true
   - name: Perché CovidCert
     url: /why.html
   - name: Chi siamo
