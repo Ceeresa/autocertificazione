@@ -7,7 +7,7 @@
       <ul class="navbar-nav">
         {% for p in site.pages_list %}
           <li class="nav-item {% if page.title == p.name %}active{% endif %}">
-            <a class="nav-link" href="{{ p.url }}">{{ p.name }} {% if page.title == p.name %}<span class="sr-only">(current)</span>{% endif %}{% if p.new == true %}<sup><span class="badge badge-primary">New</span></sup>{% endif %}</a>
+            <a class="nav-link" {% if p.ext == true %}target="_blank"{% endif %} href="{{ p.url }}">{{ p.name }} {% if page.title == p.name %}<span class="sr-only">(current)</span>{% endif %}{% if p.new == true %}<sup><span class="badge badge-primary">New</span></sup>{% endif %}{% if p.ext == true %}<sup><span class="badge badge-info">Esterno</span></sup>{% endif %}</a>
           </li>
         {% endfor %}
       </ul>
