@@ -36,10 +36,10 @@ additional_scripts:
     </div>
     <div class="row">
         <div class="col-8 text-left">
-            <p class="text-success"><i class="fa fa-leaf"></i> Firma la nostra <a href="https://www.change.org/DigitalizziamoLAutodichiarazione" target="_blank">petizione per la digitalizzazione dell'autodichiarazione</a></p>
+            <p class="text-success"><i class="fa fa-leaf"></i>Firma per <a href="https://www.change.org/DigitalizziamoLAutodichiarazione" target="_blank">digitalizzare l'autodichiarazione</a></p>
         </div>
         <div class="col-4 text-right">
-            Powered by <a href="/" target="_blank"><img src="img/icon.png" alt="CovidCert" title="CovidCert">CovidCert</a>
+            Powered by <a href="/" target="_blank"><img src="img/icon.png" style="height:1em" alt="CovidCert" title="CovidCert">CovidCert</a>
         </div>
     </div>
 </div>
@@ -55,7 +55,7 @@ additional_scripts:
         <div class="modal-content">
             <form id="autocertificazione" novalidate>
                 <div class="modal-header">
-                    <h5 class="modal-title" id="autocertEditModalLabel">Autocertificazione spostamenti COVID</h5>
+                    <h6 class="modal-title" id="autocertEditModalLabel">Autocertificazione spostamenti COVID</h6>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
