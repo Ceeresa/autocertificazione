@@ -125,7 +125,7 @@ additional_scripts:
                             </div>
                         </div>
                         <div class="form-row">
-                            <button type="button" style="height: 4vh; " class="btn btn-primary btn-sm" id="copy-from-residenza">Copia da residenza</button>
+                            <button type="button" class="btn btn-primary btn-sm" id="copy-from-residenza">Copia da residenza</button>
                         </div>
                         <div class="form-row">
                             <div class="form-group col-md-4">
