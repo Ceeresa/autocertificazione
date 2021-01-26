@@ -149,3 +149,64 @@
     line-height: 0.25in;
     page-break-after: avoid;
 }
+
+/* CovidZone*/
+.btn-covidzone {
+    color: #fff;
+    background-color: #5a33e3;
+    border: 1px solid #5a33e3;
+}  
+
+.btn-covidzone:hover {
+    background-color: white;
+    color: #5a33e3;
+    border-color: #5a33e3;
+}  
+
+.btn-covidzone:active {
+    background-color: white;
+    color: #5a33e3;
+    border-color: #5a33e3;
+}  
+
+.btn-covidzone:focus, 
+.btn-covidzone.focus{
+    box-shadow: 0 0 0 .2rem rgba(90,51,227,.25)
+}
+
+
+
+.btn-covidzone-muted {
+    background-color: rgba(90,51,227,.1);
+    color: #5a33e3;;
+    border: 1px solid rgba(90,51,227,.1);
+}  
+
+.btn-covidzone-muted:hover {
+    background-color: white;
+    color: #5a33e3;
+    border-color: #5a33e3;
+}  
+
+.btn-covidzone-muted:active {
+    background-color: white;
+    color: #5a33e3;
+    border-color: #5a33e3;
+}  
+
+.btn-covidzone-muted:focus, 
+.btn-covidzone-muted.focus{
+    box-shadow: 0 0 0 .2rem rgba(90,51,227,.25)
+}
+
+#autocertEditModalLabel{
+  color: #5a33e3;
+}
+
+.covidzone,
+.covidzone:hover,
+.covidzone:visited
+{
+    color: rgb(90, 51, 227);
+}
+
