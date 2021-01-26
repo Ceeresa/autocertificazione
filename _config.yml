@@ -34,8 +34,8 @@ plugins:
 pages_list:
   - name: Autocertificazione
     url: /
-  - name: Zone
-    url: http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638
+  - name: CovidZone
+    url: https://covidzone.info/
     ext: true
   - name: Perché CovidCert
     url: /why.html
