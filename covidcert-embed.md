@@ -14,32 +14,32 @@ additional_scripts:
 <div class="d-print-none">
     <div class="row justify-content-center justify-content-sm-center mb-3">
         <div class="col-md-auto col-6 text-center">
-            <button type="button" class="btn btn-block btn-primary mt-2" data-toggle="modal" data-target="#autocertEditModal">
+            <button type="button" class="btn btn-block btn-covidzone mt-2" data-toggle="modal" data-target="#autocertEditModal">
                 <i class="fa fa-pencil"></i> Compila
             </button>
         </div>
         <div class="col-md-auto col-6 text-center">
-            <button type="button" class="btn btn-block btn-primary cleanup-button mt-2" data-toggle="tooltip" data-container="body" data-placement="top" title="Se ti trovi in un Internet Cafè, PC condiviso o Internet Point premi questo tasto per cancellare i tuoi dati">
+            <button type="button" class="btn btn-block btn-covidzone cleanup-button mt-2" data-toggle="tooltip" data-container="body" data-placement="top" title="Se ti trovi in un Internet Cafè, PC condiviso o Internet Point premi questo tasto per cancellare i tuoi dati">
                 <i class="fa fa-eraser"></i> Ripulisci
             </button>
         </div>
         <div class="col-md-auto col-6 text-center">
-            <button type="button" class="btn btn-block btn-primary fast-download-button mt-2" title="Download">
+            <button type="button" class="btn btn-block btn-covidzone fast-download-button mt-2" title="Download">
                 <i class="fa fa-download"></i> Download
             </button>
         </div>
         <div class="col-md-auto col-6 text-center">
-            <button type="button" class="btn btn-block btn-primary fast-print-button mt-2" title="Print">
+            <button type="button" class="btn btn-block btn-covidzone fast-print-button mt-2" title="Print">
                 <i class="fa fa-print"></i> Stampa
             </button>
         </div>
     </div>
     <div class="row">
         <div class="col-8 text-left">
-            <p class="text-success"><i class="fa fa-leaf"></i>Firma per <a href="https://www.change.org/DigitalizziamoLAutodichiarazione" target="_blank">digitalizzare l'autodichiarazione</a></p>
+            <p class="text-success"><i class="fa fa-leaf"></i> Firma per <a class="covidzone" href="https://www.change.org/DigitalizziamoLAutodichiarazione" target="_blank">digitalizzare l'autodichiarazione</a></p>
         </div>
         <div class="col-4 text-right">
-            Powered by <a href="/" target="_blank"><img src="img/icon.png" style="height:1em" alt="CovidCert" title="CovidCert">CovidCert</a>
+            Powered by <a class="covidzone" href="/" target="_blank"><img src="img/icon-cz.png" style="height:1em" alt="CovidCert" title="CovidCert">CovidCert</a>
         </div>
     </div>
 </div>
@@ -126,7 +126,7 @@ additional_scripts:
                             </div>
                         </div>
                         <div class="form-row">
-                            <button type="button" class="btn btn-primary btn-sm" id="copy-from-residenza">Copia da residenza</button>
+                            <button type="button" class="btn btn-covidzone btn-sm" id="copy-from-residenza">Copia da residenza</button>
                         </div>
                         <div class="form-row">
                             <div class="form-group col-md-4">
@@ -176,11 +176,11 @@ additional_scripts:
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-primary mt-2" id="salva-modifiche"><i class="fa fa-pencil"></i> Salva Modifiche</button>
-                    <button type="button" class="btn btn-primary download-button mt-2" id="download"><i class="fa fa-download"></i> Download</button>
-                    <button type="button" class="btn btn-primary print-button mt-2" id="stampa"><i class="fa fa-print"></i> Stampa</button>
-                    <button type="button" class="btn btn-primary cleanup-button mt-2"><i class="fa fa-eraser"></i> Ripulisci</button>
-                    <button type="button" class="btn btn-secondary mt-2" data-dismiss="modal"><i class="fa fa-window-close"></i> Annulla</button>
+                    <button type="button" class="btn btn-covidzone mt-2" id="salva-modifiche"><i class="fa fa-pencil"></i> Salva Modifiche</button>
+                    <button type="button" class="btn btn-covidzone download-button mt-2" id="download"><i class="fa fa-download"></i> Download</button>
+                    <button type="button" class="btn btn-covidzone print-button mt-2" id="stampa"><i class="fa fa-print"></i> Stampa</button>
+                    <button type="button" class="btn btn-covidzone cleanup-button mt-2"><i class="fa fa-eraser"></i> Ripulisci</button>
+                    <button type="button" class="btn btn-covidzone-muted mt-2" data-dismiss="modal"><i class="fa fa-window-close"></i> Annulla</button>
                 </div>
             </form>
         </div>
