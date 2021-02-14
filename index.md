@@ -96,9 +96,9 @@ additional_scripts:
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="numeroMezzo">Numero documento</label>
-                                <input type="text" class="form-control" id="numeroMezzo" name="numeroMezzo" spellcheck="false" autocorrect="off" autocapitalize="characters">
+                                <input type="text" class="form-control" id="numeroMezzo" name="numeroMezzo" spellcheck="false" autocapitalize="characters">
                                 <!--
-                                `spellcheck` is HTML5 standard for disabling autocorrection, `autocorrect` is used in iOS,
+                                `spellcheck` is HTML5 standard for disabling autocorrection, `autocorrect="off"` should be used in iOS but is not a standard attribute,
                                 `autocapitalize` is for enabling caps lock in most virtual keyboards
                                 -->
                             </div>
