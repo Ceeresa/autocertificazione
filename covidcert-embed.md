@@ -97,9 +97,9 @@ additional_scripts:
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="numeroMezzo">Numero documento</label>
-                                <input type="text" class="form-control" id="numeroMezzo" name="numeroMezzo" spellcheck="false" autocorrect="off" autocapitalize="characters">
+                                <input type="text" class="form-control" id="numeroMezzo" name="numeroMezzo" spellcheck="false" autocapitalize="characters">
                                 <!--
-                                `spellcheck` is HTML5 standard for disabling autocorrection, `autocorrect` is used in iOS,
+                                `spellcheck` is HTML5 standard for disabling autocorrection, `autocorrect="off"` should be used in iOS but is not a standard attribute,
                                 `autocapitalize` is for enabling caps lock in most virtual keyboards
                                 -->
                             </div>
@@ -126,7 +126,7 @@ additional_scripts:
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="viaResidenza">Via residenza</label>
-                                <input type="text" class="form-control" id="viaResidenza" name="viaResidenza" maxlength="40" autocomplete="street-address">
+                                <input type="text" class="form-control" id="viaResidenza" name="viaResidenza" maxlength="40" autocomplete="address-line1">
                             </div>
                         </div>
                         <div class="form-row">
@@ -143,18 +143,18 @@ additional_scripts:
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="viaDomicilio">Via domicilio</label>
-                                <input type="text" class="form-control" id="viaDomicilio" name="viaDomicilio" maxlength="40" autocomplete="street-address">
+                                <input type="text" class="form-control" id="viaDomicilio" name="viaDomicilio" maxlength="40" autocomplete="address-line1">
                             </div>
                         </div>
                         <hr>
                         <div class="form-row">
                             <div class="form-group col-md-6">
                                 <label for="indirizzoInizioSpostamento">Indirizzo inizio spostamento</label>
-                                <input type="text" class="form-control" id="indirizzoInizioSpostamento" name="indirizzoInizioSpostamento" maxlength="100" autocomplete="street-address">
+                                <input type="text" class="form-control" id="indirizzoInizioSpostamento" name="indirizzoInizioSpostamento" maxlength="100" autocomplete="address-line1">
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="indirizzoDestinazioneSpostamento">Indirizzo destinazione spostamento</label>
-                                <input type="text" class="form-control" id="indirizzoDestinazioneSpostamento" name="indirizzoDestinazioneSpostamento" maxlength="100" autocomplete="street-address">
+                                <input type="text" class="form-control" id="indirizzoDestinazioneSpostamento" name="indirizzoDestinazioneSpostamento" maxlength="100" autocomplete="address-line1">
                             </div>
                         </div>
                         <div class="form-row">
