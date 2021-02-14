@@ -65,29 +65,29 @@ additional_scripts:
                         <div class="form-row">
                             <div class="form-group col-md-4">
                                 <label for="nome">Nome</label>
-                                <input type="text" class="form-control" id="nome" name="nome">
+                                <input type="text" class="form-control" id="nome" name="nome" autocomplete="given-name">
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="cognome">Cognome</label>
-                                <input type="text" class="form-control" id="cognome" name="cognome">
+                                <input type="text" class="form-control" id="cognome" name="cognome" autocomplete="family-name">
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="utenzaTelefonica">Utenza telefonica</label>
-                                <input type="text" class="form-control" id="utenzaTelefonica" name="utenzaTelefonica">
+                                <input type="text" class="form-control" id="utenzaTelefonica" name="utenzaTelefonica" autocomplete="tel">
                             </div>
                         </div>
                         <div class="form-row">
                             <div class="form-group col-md-4">
                                 <label for="luogoDiNascita">Luogo di nascita</label>
-                                <input type="text" class="form-control" id="luogoDiNascita" name="luogoDiNascita">
+                                <input type="text" class="form-control" id="luogoDiNascita" name="luogoDiNascita" autocomplete="address-level2">
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="provinciaDiNascita">Provincia di nascita</label>
-                                <input type="text" class="form-control" id="provinciaDiNascita" name="provinciaDiNascita">
+                                <input type="text" class="form-control" id="provinciaDiNascita" name="provinciaDiNascita" autocomplete="address-level1">
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="dataNascita">Data di nascita</label>
-                                <input type="date" class="form-control" id="dataNascita" name="dataNascita">
+                                <input type="date" class="form-control" id="dataNascita" name="dataNascita" autocomplete="bday">
                             </div>
                         </div>
                         <div class="form-row">
@@ -97,7 +97,11 @@ additional_scripts:
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="numeroMezzo">Numero documento</label>
-                                <input type="text" class="form-control" id="numeroMezzo" name="numeroMezzo">
+                                <input type="text" class="form-control" id="numeroMezzo" name="numeroMezzo" spellcheck="false" autocorrect="off" autocapitalize="characters">
+                                <!--
+                                `spellcheck` is HTML5 standard for disabling autocorrection, `autocorrect` is used in iOS,
+                                `autocapitalize` is for enabling caps lock in most virtual keyboards
+                                -->
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="mezzoRilasciatoDa">Documento rilasciato da</label>
@@ -114,15 +118,15 @@ additional_scripts:
                         <div class="form-row">
                             <div class="form-group col-md-4">
                                 <label for="luogoResidenza">Luogo residenza</label>
-                                <input type="text" class="form-control" id="luogoResidenza" name="luogoResidenza">
+                                <input type="text" class="form-control" id="luogoResidenza" name="luogoResidenza" autocomplete="address-level2">
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="provinciaResidenza">Provincia residenza</label>
-                                <input type="text" class="form-control" id="provinciaResidenza" name="provinciaResidenza">
+                                <input type="text" class="form-control" id="provinciaResidenza" name="provinciaResidenza" autocomplete="address-level1">
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="viaResidenza">Via residenza</label>
-                                <input type="text" class="form-control" id="viaResidenza" name="viaResidenza" maxlength="40">
+                                <input type="text" class="form-control" id="viaResidenza" name="viaResidenza" maxlength="40" autocomplete="street-address">
                             </div>
                         </div>
                         <div class="form-row">
@@ -131,26 +135,26 @@ additional_scripts:
                         <div class="form-row">
                             <div class="form-group col-md-4">
                                 <label for="luogoDomicilio">Luogo domicilio</label>
-                                <input type="text" class="form-control" id="luogoDomicilio" name="luogoDomicilio">
+                                <input type="text" class="form-control" id="luogoDomicilio" name="luogoDomicilio" autocomplete="address-level2">
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="provinciaDomicilio">Provincia domicilio</label>
-                                <input type="text" class="form-control" id="provinciaDomicilio" name="provinciaDomicilio" maxlength="100">
+                                <input type="text" class="form-control" id="provinciaDomicilio" name="provinciaDomicilio" maxlength="100" autocomplete="address-level1">
                             </div>
                             <div class="form-group col-md-4">
                                 <label for="viaDomicilio">Via domicilio</label>
-                                <input type="text" class="form-control" id="viaDomicilio" name="viaDomicilio" maxlength="40">
+                                <input type="text" class="form-control" id="viaDomicilio" name="viaDomicilio" maxlength="40" autocomplete="street-address">
                             </div>
                         </div>
                         <hr>
                         <div class="form-row">
                             <div class="form-group col-md-6">
                                 <label for="indirizzoInizioSpostamento">Indirizzo inizio spostamento</label>
-                                <input type="text" class="form-control" id="indirizzoInizioSpostamento" name="indirizzoInizioSpostamento" maxlength="100">
+                                <input type="text" class="form-control" id="indirizzoInizioSpostamento" name="indirizzoInizioSpostamento" maxlength="100" autocomplete="street-address">
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="indirizzoDestinazioneSpostamento">Indirizzo destinazione spostamento</label>
-                                <input type="text" class="form-control" id="indirizzoDestinazioneSpostamento" name="indirizzoDestinazioneSpostamento" maxlength="100">
+                                <input type="text" class="form-control" id="indirizzoDestinazioneSpostamento" name="indirizzoDestinazioneSpostamento" maxlength="100" autocomplete="street-address">
                             </div>
                         </div>
                         <div class="form-row">
