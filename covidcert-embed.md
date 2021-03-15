@@ -36,7 +36,7 @@ additional_scripts:
     </div>
     <div class="row">
         <div class="col-8 text-left">
-            <p class="text-success"><i class="fa fa-leaf"></i> Firma per <a class="covidzone" href="https://www.change.org/DigitalizziamoLAutodichiarazione" target="_blank">digitalizzare l'autodichiarazione</a></p>
+            <p class="text-success"><i class="fa fa-leaf"></i> Firma per <a class="covidzone" href="https://www.change.org/DigitalizziamoLAutodichiarazione" target="_blank">digitalizzare l'autodichiarazione</a><br><small class="text-danger"><i class="fa fa-tree"></i> purtroppo ancora cartacea</small></p>
         </div>
         <div class="col-4 text-right">
             Powered by <a class="covidzone" href="/" target="_blank"><img src="img/icon-cz.png" style="height:1em" alt="CovidCert" title="CovidCert">CovidCert</a>
