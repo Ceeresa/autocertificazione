@@ -30,5 +30,5 @@ jobs:
     - name: Checks HTML5
       uses: Cyb3r-Jak3/html5validator-action@v0.5
       with:
-        root: _site/
+        root: ./_site/
         skip: googledd725740c84fdc30.html
