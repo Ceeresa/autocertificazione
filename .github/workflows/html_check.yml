@@ -28,7 +28,7 @@ jobs:
         bundle exec jekyll build
     
     - name: Checks HTML5
-      uses: Cyb3r-Jak3/html5validator-action-experimental@v1
+      uses: Cyb3r-Jak3/html5validator-action@v0.5
       with:
         root: ./_site/
-        skip: googledd725740c84fdc30.html
+        ignore: googledd725740c84fdc30.html
