@@ -34,6 +34,9 @@ plugins:
 pages_list:
   - name: Autocertificazione
     url: /
+  - name: LaBusta
+    url: https://labusta.app
+    ext: true
   - name: CovidZone
     url: https://covidzone.info/
     ext: true
@@ -43,7 +46,6 @@ pages_list:
     url: /chi-siamo.html
   - name: Mobile App
     url: /app.html
-    new: true
   - name: Informativa privacy
     url: /privacy-policy.html
   - name: Contattaci
